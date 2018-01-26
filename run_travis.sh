@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-python engine/domain/WordModel.py > /dev/null &
+python tests/test_WordModel.py > /dev/null &
 nosetests --with-coverage

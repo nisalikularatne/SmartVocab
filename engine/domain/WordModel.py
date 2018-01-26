@@ -26,6 +26,6 @@ class Definition:
 
 if __name__ == "__main__":
 
-    w = Word("world")
+    w = Word("actor")
     print(w.definition)
     print(w)
