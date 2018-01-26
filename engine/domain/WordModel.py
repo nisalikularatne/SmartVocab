@@ -30,4 +30,4 @@ if __name__ == "__main__":
 
     w = Word("actor")
     print(w.definition)
-    print(w)
+    print(w) #print word
