@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="62a8c093-0172-4ddb-bb4e-b51879bc2b88" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,7 +22,7 @@
       <file leaf-file-name="WordModel.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/engine/domain/WordModel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
+            <state relative-caret-position="225">
               <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
@@ -65,8 +66,8 @@
       <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            <state relative-caret-position="175">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -276,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516987179504</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="requirements.txt file updated">
+      <created>1516987192217</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1516987192217</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -347,23 +355,14 @@
     <MESSAGE value="WordModel implemented. A Word class to handle Words in the WordNet database and a Definition class to get the definitions of respective words." />
     <MESSAGE value="Test implemented for WordModel file" />
     <MESSAGE value="requirements.txt file uploaded" />
-    <option name="LAST_COMMIT_MESSAGE" value="requirements.txt file uploaded" />
+    <MESSAGE value="requirements.txt file updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="requirements.txt file updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/engine/domain/WordModel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -372,11 +371,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/run_travis.sh">
+    <entry file="file://$PROJECT_DIR$/engine/domain/WordModel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
+        <state relative-caret-position="225">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -390,10 +391,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/run_travis.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        <state relative-caret-position="175">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>

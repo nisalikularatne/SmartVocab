@@ -3,3 +3,5 @@ flask_sqlalchemy
 blinker
 nose
 PyHamcrest
+nltk
+wordnet
