@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="62a8c093-0172-4ddb-bb4e-b51879bc2b88" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -270,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516986961346</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="requirements.txt file uploaded">
+      <created>1516987179504</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1516987179504</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -340,7 +346,8 @@
     <MESSAGE value="Project Skeleton Setup" />
     <MESSAGE value="WordModel implemented. A Word class to handle Words in the WordNet database and a Definition class to get the definitions of respective words." />
     <MESSAGE value="Test implemented for WordModel file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test implemented for WordModel file" />
+    <MESSAGE value="requirements.txt file uploaded" />
+    <option name="LAST_COMMIT_MESSAGE" value="requirements.txt file uploaded" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
