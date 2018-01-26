@@ -4,4 +4,3 @@ blinker
 nose
 PyHamcrest
 nltk
-wordnet
