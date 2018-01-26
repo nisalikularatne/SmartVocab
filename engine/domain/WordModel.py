@@ -1,4 +1,6 @@
 from nltk.corpus import wordnet as wn
+import nltk
+nltk.data.path.append('nltk_data')
 import random
 class Word:
     def __init__(self, word, difficulty=0):
