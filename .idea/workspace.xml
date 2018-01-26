@@ -2,8 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62a8c093-0172-4ddb-bb4e-b51879bc2b88" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nltk_data/corpora/abc.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nltk_data/corpora/wordnet.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nltk_data/corpora/wordnet/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nltk_data/corpora/wordnet/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nltk_data/corpora/wordnet/adj.exc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nltk_data/corpora/wordnet/adv.exc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nltk_data/corpora/wordnet/citation.bib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nltk_data/corpora/wordnet/cntlist.rev" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nltk_data/corpora/wordnet/data.adj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nltk_data/corpora/wordnet/data.adv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nltk_data/corpora/wordnet/data.noun" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nltk_data/corpora/wordnet/data.verb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nltk_data/corpora/wordnet/index.adj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nltk_data/corpora/wordnet/index.adv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nltk_data/corpora/wordnet/index.noun" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nltk_data/corpora/wordnet/index.sense" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nltk_data/corpora/wordnet/index.verb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nltk_data/corpora/wordnet/lexnames" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nltk_data/corpora/wordnet/noun.exc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nltk_data/corpora/wordnet/verb.exc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/engine/domain/WordModel.py" afterPath="$PROJECT_DIR$/engine/domain/WordModel.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -312,7 +331,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516988943549</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="check travis pass 2">
+      <created>1516994951100</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1516994951100</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -385,7 +411,8 @@
     <MESSAGE value="requirements.txt file updated" />
     <MESSAGE value="random commit" />
     <MESSAGE value="check travis pass" />
-    <option name="LAST_COMMIT_MESSAGE" value="check travis pass" />
+    <MESSAGE value="check travis pass 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="check travis pass 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
