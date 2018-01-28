@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="62a8c093-0172-4ddb-bb4e-b51879bc2b88" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -442,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517133756867</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="changes in travis.yml 2">
+      <created>1517134262816</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1517134262816</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -521,7 +527,8 @@
     <MESSAGE value="distractor selection class added with frequencty word resources" />
     <MESSAGE value="test conducted for read of word frequency list" />
     <MESSAGE value="changes in travis.yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes in travis.yml" />
+    <MESSAGE value="changes in travis.yml 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes in travis.yml 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
