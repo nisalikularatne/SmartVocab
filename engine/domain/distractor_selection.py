@@ -3,16 +3,13 @@ from collections import OrderedDict
 import os
 import sys
 import pkg_resources
+import inspect
 from nltk.corpus import wordnet as wn
 from engine.domain.WordModel import Word
 script_path = os.path.dirname(os.path.realpath(__file__))
-ROOT_DIR = os.path.dirname(sys.modules['__main__'].__file__)
-PROJECT_ROOT = os.path.abspath(os.path.dirname())
-DEFINITIONS_ROOT = os.path.join(PROJECT_ROOT, 'resources', 'wordlist_byalphabets')
-CONFIG_PATH = pkg_resources.resource_filename('resources', 'wordlist_byalphabets')
-path = '/home/travis/build/nisalikularatne/SmartVocab/resources/wordlist_byalphabets'
+cmd_subfolder = os.path.realpath(os.path.abspath(os.path.join(os.path.split(inspect.getfile( inspect.currentframe() ))[0],"../../resources/wordlist_byalphabets")))
 def read_file_ordered_by_frequency():
-    with open(DEFINITIONS_ROOT,'r') as f:
+    with open(cmd_subfolder,'r') as f:
         for line in f.readlines():
             l = line.strip().split()
             freq = l[1]
