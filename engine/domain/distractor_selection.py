@@ -27,6 +27,8 @@ def read_file_ordered_by_alphabet():
             word = l[2]
             pos = l[3]
             yield freq, word, pos
+
+
 if __name__ == "__main__":
     print(read_file_ordered_by_frequency())
     print(next(read_file_ordered_by_frequency()))
