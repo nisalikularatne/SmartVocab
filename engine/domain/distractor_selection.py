@@ -4,7 +4,7 @@ import os
 from nltk.corpus import wordnet as wn
 from engine.domain.WordModel import Word
 script_path = os.path.dirname(os.path.realpath(__file__))
-path = 'home\\travis\\build\\nisalikularatne\\SmartVocab\\resources\\wordlist_byalphabets'
+path = '/home/travis/build/nisalikularatne/SmartVocab/resources/wordlist_byalphabets'
 def read_file_ordered_by_frequency():
     with open(path,'r') as f:
         for line in f.readlines():
