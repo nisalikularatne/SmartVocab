@@ -102,7 +102,7 @@ def return_similar_frequency_words_list(word):
 
 def get_similar_frequency_words(word):
     # Find frequency of the word
-    pos=Word(word).definition.partOfSpeech
+    pos=Word(word).definition.pos
     word_frequency = get_word_frequency((word, pos))
     words_by_frequency_table = word_frequency_mapping()
     similar_frequency_words = []
@@ -124,4 +124,5 @@ if __name__ == "__main__":
     print(next(read_file_ordered_by_frequency()))
     print(next(read_file_ordered_by_alphabet()))
     print(word_frequency_mapping())
+    print(build_word_frequency_table())
     print('hi')
