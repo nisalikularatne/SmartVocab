@@ -2,12 +2,16 @@ from nltk.corpus import wordnet as wn
 import nltk
 nltk.data.path.append('nltk_data')
 import random
+
 class Word:
-    def __init__(self, word, difficulty=0):
+    id=0
+    def __init__(self, word):
+        from engine.domain.word_cefr_details import find_cefr
+        self.id = Word.id
         self.word = word
-        self.difficulty = difficulty
         self.definitions = [Definition(sense) for sense in wn.synsets(self.word)]
-        self.definition = random.choice(self.definitions)
+        Word.id += 1
+        self.cefr = find_cefr(word)
         self.senses = [Sense(sense, parent=self) for sense in wn.synsets(self.word)]
     def __str__(self):
         return "The Word is: {}".format(self.word)
@@ -20,14 +24,11 @@ class Definition:
         self.definition = sense.definition()
         self.sense = sense
         self.pos = sense.pos() #pos : parts of speech
-
-
-
     def __repr__(self):
         return "{}".format(self.definition)
 
 class Sense:
-   
+
     def __init__(self, sense, parent):
         # Parse the name to get word
         splitted = sense.name().split('.')
@@ -41,8 +42,6 @@ class Sense:
         self.pos = sense.pos()
         self.wordnet_name = sense.name()
         self.definition = sense.definition()
-
-
 
     def __repr__(self):
         return "<Sense {}>".format(self.wordnet_name)
@@ -59,14 +58,11 @@ class Sense:
     def __eq__(self, other):
         return self.wordnet_name == other.wordnet_name
 
-
-
-
 if __name__ == "__main__":
 
     w = Word("actor")
     print(w.definition)
-    word = Word("rage")
+    word = Word("weird")
     for sense in word:
         print(sense)
 

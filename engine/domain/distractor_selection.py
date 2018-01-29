@@ -4,6 +4,7 @@ import os
 import sys
 import pkg_resources
 import inspect
+import random
 from nltk.corpus import wordnet as wn
 from engine.domain.WordModel import Word
 script_path = os.path.dirname(os.path.realpath(__file__))
@@ -79,12 +80,17 @@ def get_word_frequency(word):
 def get_similar_path_words(word):
     l=return_similar_frequency_words_list(word)
     similar_words = []
+    word = Word(word).definitions
+    definitionW = random.choice(word)
     for i in l:
             target = i
+
             if wn.synsets(target):
              targetword=Word(target)
-             wup_similarity=Word(word).definition.sense.wup_similarity(targetword.definition.sense)
-             path_similarity=Word(word).definition.sense.path_similarity(targetword.definition.sense)
+             definitionsT=targetword.definitions
+             definitionT=random.choice(definitionsT)
+             wup_similarity=definitionW.sense.wup_similarity(definitionT.sense)
+             path_similarity=definitionW.sense.path_similarity(definitionT.sense)
              if wup_similarity is None :
                wup_similarity=0.0
              if path_similarity is None:

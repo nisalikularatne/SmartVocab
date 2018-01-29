@@ -15,6 +15,12 @@ def retrieve_word_list_with_wordnet_info():
     word_cefr_file = [Word(k, v) for k, v in word_cefr_file.items()]
     return word_cefr_file
 
+def load_word_list():
+    # Redundant
+    word_list = [k for k,v in retrieve_cefr_information()]
+
+    return word_list
+
 
 def load_domain_model():
     vocab_list = []
@@ -33,7 +39,7 @@ def find_cefr(word):
 
 
 word_list_by_cefr_key = load_word_list_by_cefr_key()
-
+word_list = load_word_list()
 
 if __name__ == "__main__":
     print(find_cefr("the"))
