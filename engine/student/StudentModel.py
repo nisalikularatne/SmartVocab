@@ -77,7 +77,7 @@ class Student:
         # A student's vocabulary profile can be indexed using the word profile
         # Each word has multiple senses, each with their own profile
         for word in retrieve_cefr_information():
-            word_profile = WordProfile(word)
+
             self.vocabulary_profile
 
     def get_word_profile(self, word):
