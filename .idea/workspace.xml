@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62a8c093-0172-4ddb-bb4e-b51879bc2b88" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/engine/domain/word_cefr_details.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/a1-vocab.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/a2-vocab.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/b1-vocab.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/b2-vocab.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/c1-vocab.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/c2-vocab.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/d1-vocab.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/d2-vocab.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/word_cefr_file.p" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/word_frequency_table.p" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/word_list_by_cefr_key.p" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/test_word_cefr_details.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/engine/domain/word_cefr_details.py" afterPath="$PROJECT_DIR$/engine/domain/word_cefr_details.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,6 +18,8 @@
     <SUITE FILE_PATH="coverage/final_year_project$WordModel.coverage" NAME="WordModel Coverage Results" MODIFIED="1516979598915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/engine/domain" />
     <SUITE FILE_PATH="coverage/final_year_project$Nosetests_in_test_WordModel_py.coverage" NAME="Nosetests in test_WordModel.py Coverage Results" MODIFIED="1516986872375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/final_year_project$distractor_selection.coverage" NAME="distractor_selection Coverage Results" MODIFIED="1517209959822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/engine/domain" />
+    <SUITE FILE_PATH="coverage/final_year_project$Nosetests_in_test_word_cefr_details_py.coverage" NAME="Nosetests in test_word_cefr_details.py Coverage Results" MODIFIED="1517232056830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/final_year_project$word_cefr_details.coverage" NAME="word_cefr_details Coverage Results" MODIFIED="1517231862115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/engine/domain" />
     <SUITE FILE_PATH="coverage/final_year_project$Quiz_Engine.coverage" NAME="Quiz_Engine Coverage Results" MODIFIED="1517221626716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/engine/instructor" />
     <SUITE FILE_PATH="coverage/final_year_project$Nosetests_in_test_distractor_selection_py.coverage" NAME="Nosetests in test_distractor_selection.py Coverage Results" MODIFIED="1517166158947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
   </component>
@@ -48,7 +40,7 @@
       <file leaf-file-name="distractor_selection.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/engine/domain/distractor_selection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-450">
+            <state relative-caret-position="250">
               <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
@@ -57,13 +49,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="word_cefr_details.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="word_cefr_details.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/engine/domain/word_cefr_details.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+            <state relative-caret-position="-27">
+              <caret line="25" column="39" lean-forward="false" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_word_cefr_details.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/test_word_cefr_details.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -84,8 +88,8 @@
       <file leaf-file-name="test_distractor_selection.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/test_distractor_selection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="44" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -135,16 +139,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -173,6 +167,7 @@
         <option value="$PROJECT_DIR$/tests/test_Quiz_Engine.py" />
         <option value="$PROJECT_DIR$/engine/instructor/Quiz_Engine.py" />
         <option value="$PROJECT_DIR$/engine/domain/word_cefr_details.py" />
+        <option value="$PROJECT_DIR$/tests/test_word_cefr_details.py" />
       </list>
     </option>
   </component>
@@ -262,23 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Quiz_Engine">
-    <configuration name="Nosetests in test_WordModel.py" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="final year project" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_regexPattern" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_WordModel.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Nosetests in test_word_cefr_details.py">
     <configuration name="Nosetests in test_distractor_selection.py" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -295,6 +274,22 @@
       <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_distractor_selection.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
+    <configuration name="Nosetests in test_word_cefr_details.py" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="final year project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_word_cefr_details.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
     <configuration name="Quiz_Engine" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -309,24 +304,6 @@
       <module name="final year project" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/engine/instructor/Quiz_Engine.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="WordModel" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/engine/domain" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="final year project" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/engine/domain/WordModel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -349,20 +326,38 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="word_cefr_details" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/engine/domain" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="final year project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/engine/domain/word_cefr_details.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.WordModel" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests in test_WordModel.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python.distractor_selection" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests in test_distractor_selection.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Quiz_Engine" />
+      <item index="0" class="java.lang.String" itemvalue="Python.distractor_selection" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests in test_distractor_selection.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Quiz_Engine" />
+      <item index="3" class="java.lang.String" itemvalue="Python.word_cefr_details" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Nosetests in test_word_cefr_details.py" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Quiz_Engine" />
-        <item index="1" class="java.lang.String" itemvalue="Python.distractor_selection" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Nosetests in test_distractor_selection.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests in test_WordModel.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python.WordModel" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Nosetests in test_word_cefr_details.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python.word_cefr_details" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Quiz_Engine" />
+        <item index="3" class="java.lang.String" itemvalue="Python.distractor_selection" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Nosetests in test_distractor_selection.py" />
       </list>
     </recent_temporary>
   </component>
@@ -566,25 +561,17 @@
       <option name="project" value="LOCAL" />
       <updated>1517222008168</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="cefr word difficulty details added">
+      <created>1517230299497</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1517230299497</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Nosetests_in_test_WordModel_py - 2018.01.27 at 01h 14m 06s.xml">
-      <configuration name="Nosetests in test_WordModel.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Nosetests_in_test_WordModel_py - 2018.01.27 at 01h 14m 14s.xml">
-      <configuration name="Nosetests in test_WordModel.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Nosetests_in_test_WordModel_py - 2018.01.27 at 01h 14m 19s.xml">
-      <configuration name="Nosetests in test_WordModel.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Nosetests_in_test_WordModel_py - 2018.01.27 at 01h 14m 25s.xml">
-      <configuration name="Nosetests in test_WordModel.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Nosetests_in_test_WordModel_py - 2018.01.27 at 01h 14m 31s.xml">
-      <configuration name="Nosetests in test_WordModel.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Nosetests_in_test_WordModel_py - 2018.01.27 at 01h 14m 37s.xml">
       <configuration name="Nosetests in test_WordModel.py" configurationId="tests" />
     </history-entry>
@@ -600,6 +587,21 @@
     <history-entry file="Nosetests_in_test_distractor_selection_py - 2018.01.28 at 23h 02m 39s.xml">
       <configuration name="Nosetests in test_distractor_selection.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Nosetests_in_test_word_cefr_details_py - 2018.01.29 at 17h 18m 07s.xml">
+      <configuration name="Nosetests in test_word_cefr_details.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_test_word_cefr_details_py - 2018.01.29 at 17h 18m 18s.xml">
+      <configuration name="Nosetests in test_word_cefr_details.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_test_word_cefr_details_py - 2018.01.29 at 17h 19m 26s.xml">
+      <configuration name="Nosetests in test_word_cefr_details.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_test_word_cefr_details_py - 2018.01.29 at 17h 20m 40s.xml">
+      <configuration name="Nosetests in test_word_cefr_details.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_test_word_cefr_details_py - 2018.01.29 at 17h 20m 57s.xml">
+      <configuration name="Nosetests in test_word_cefr_details.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -609,7 +611,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.50216216" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35552913" sideWeight="0.49783784" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35552913" sideWeight="0.49783784" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16756757" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -657,7 +659,8 @@
     <MESSAGE value="distractors selected using wup_similarity, path_similarity and mean frequency methods. (Through literature Review)" />
     <MESSAGE value="Quiz Generator created in instructor package" />
     <MESSAGE value="Index Exception handling done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Index Exception handling done" />
+    <MESSAGE value="cefr word difficulty details added" />
+    <option name="LAST_COMMIT_MESSAGE" value="cefr word difficulty details added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -858,21 +861,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/test_distractor_selection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="44" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/test_Quiz_Engine.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
           <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/engine/domain/distractor_selection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_distractor_selection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -886,22 +899,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/engine/domain/distractor_selection.py">
+    <entry file="file://$PROJECT_DIR$/engine/domain/word_cefr_details.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-450">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="-27">
+          <caret line="25" column="39" lean-forward="false" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/engine/domain/word_cefr_details.py">
+    <entry file="file://$PROJECT_DIR$/tests/test_word_cefr_details.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        <state relative-caret-position="150">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
