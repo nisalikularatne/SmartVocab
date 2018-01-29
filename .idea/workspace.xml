@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62a8c093-0172-4ddb-bb4e-b51879bc2b88" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/engine/instructor/Quiz_Engine.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/engine/domain/word_cefr_details.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/a1-vocab.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/a2-vocab.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/b1-vocab.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/b2-vocab.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/c1-vocab.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/c2-vocab.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/d1-vocab.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/d2-vocab.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/word_cefr_file.p" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/word_frequency_table.p" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/word_list_by_cefr_key.p" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/engine/domain/distractor_selection.py" afterPath="$PROJECT_DIR$/engine/domain/distractor_selection.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,7 +28,7 @@
     <SUITE FILE_PATH="coverage/final_year_project$WordModel.coverage" NAME="WordModel Coverage Results" MODIFIED="1516979598915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/engine/domain" />
     <SUITE FILE_PATH="coverage/final_year_project$Nosetests_in_test_WordModel_py.coverage" NAME="Nosetests in test_WordModel.py Coverage Results" MODIFIED="1516986872375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/final_year_project$distractor_selection.coverage" NAME="distractor_selection Coverage Results" MODIFIED="1517209959822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/engine/domain" />
-    <SUITE FILE_PATH="coverage/final_year_project$Quiz_Engine.coverage" NAME="Quiz_Engine Coverage Results" MODIFIED="1517211117560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/engine/instructor" />
+    <SUITE FILE_PATH="coverage/final_year_project$Quiz_Engine.coverage" NAME="Quiz_Engine Coverage Results" MODIFIED="1517221626716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/engine/instructor" />
     <SUITE FILE_PATH="coverage/final_year_project$Nosetests_in_test_distractor_selection_py.coverage" NAME="Nosetests in test_distractor_selection.py Coverage Results" MODIFIED="1517166158947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
   </component>
   <component name="FileEditorManager">
@@ -38,8 +48,8 @@
       <file leaf-file-name="distractor_selection.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/engine/domain/distractor_selection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="77">
-              <caret line="104" column="33" lean-forward="false" selection-start-line="104" selection-start-column="33" selection-end-line="104" selection-end-column="33" />
+            <state relative-caret-position="-450">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -47,11 +57,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Quiz_Engine.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="word_cefr_details.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/engine/domain/word_cefr_details.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Quiz_Engine.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/engine/instructor/Quiz_Engine.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            <state relative-caret-position="400">
+              <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -62,8 +84,8 @@
       <file leaf-file-name="test_distractor_selection.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/test_distractor_selection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="107" lean-forward="false" selection-start-line="2" selection-start-column="107" selection-end-line="2" selection-end-column="107" />
+            <state relative-caret-position="275">
+              <caret line="11" column="44" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -147,8 +169,10 @@
         <option value="$PROJECT_DIR$/resources/wordlist_byalphabets" />
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/tests/test_distractor_selection.py" />
-        <option value="$PROJECT_DIR$/engine/instructor/Quiz_Engine.py" />
         <option value="$PROJECT_DIR$/engine/domain/distractor_selection.py" />
+        <option value="$PROJECT_DIR$/tests/test_Quiz_Engine.py" />
+        <option value="$PROJECT_DIR$/engine/instructor/Quiz_Engine.py" />
+        <option value="$PROJECT_DIR$/engine/domain/word_cefr_details.py" />
       </list>
     </option>
   </component>
@@ -203,6 +227,11 @@
               <item name="final year project" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="final year project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="final year project" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -213,7 +242,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/Program Files (x86)/Git/cmd/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Irott-ef8b981c320231538a0cea09817b9cc64563769b" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -523,7 +552,21 @@
       <option name="project" value="LOCAL" />
       <updated>1517209910510</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Quiz Generator created in instructor package">
+      <created>1517211159544</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1517211159544</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Index Exception handling done">
+      <created>1517222008168</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1517222008168</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -566,7 +609,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.50216216" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35552913" sideWeight="0.49783784" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35552913" sideWeight="0.49783784" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16756757" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -612,10 +655,14 @@
     <MESSAGE value="test for read_file_by_alphabet added (Corrected)" />
     <MESSAGE value="wird frequency mapping table created and stored in a pickle file format" />
     <MESSAGE value="distractors selected using wup_similarity, path_similarity and mean frequency methods. (Through literature Review)" />
-    <option name="LAST_COMMIT_MESSAGE" value="distractors selected using wup_similarity, path_similarity and mean frequency methods. (Through literature Review)" />
+    <MESSAGE value="Quiz Generator created in instructor package" />
+    <MESSAGE value="Index Exception handling done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Index Exception handling done" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -801,16 +848,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/test_distractor_selection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="107" lean-forward="false" selection-start-line="2" selection-start-column="107" selection-end-line="2" selection-end-column="107" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/engine/domain/WordModel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -821,22 +858,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/engine/domain/distractor_selection.py">
+    <entry file="file://$PROJECT_DIR$/tests/test_distractor_selection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="104" column="33" lean-forward="false" selection-start-line="104" selection-start-column="33" selection-end-line="104" selection-end-column="33" />
+        <state relative-caret-position="275">
+          <caret line="11" column="44" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_Quiz_Engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/engine/instructor/Quiz_Engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/engine/instructor/Quiz_Engine.py">
+    <entry file="file://$PROJECT_DIR$/engine/domain/distractor_selection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        <state relative-caret-position="-450">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/engine/domain/word_cefr_details.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
