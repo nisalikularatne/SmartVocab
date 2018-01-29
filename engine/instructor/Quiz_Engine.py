@@ -25,20 +25,24 @@ class Question:
         random.shuffle(choices)
         for i, choice in enumerate(choices):
             print("[{}]: {}".format(i, choice))
+        try:
+         answer = int(input())
+         if choices[answer] == self.correct:
+             print("That is correct")
+             return True
+         else:
+             if self.response == "":
+                 self.response = "The correct answer is {}".format(self.correct)
 
-        answer = int(input())
-        if choices[answer] == self.correct:
-            print("That is correct")
-            return True
-        else:
-            if self.response == "":
-                self.response = "The correct answer is {}".format(self.correct)
+             print("Incorrect\n"
+                   "{}".format(self.response))
+             return False
+        except IndexError :
+            print("You entered a wrong input for the question")
+        automatic_quiz_generator(word).quiz()
 
-            print("Incorrect\n"
-                  "{}".format(self.response))
-            return False
 if __name__ == "__main__":
-    for word in ["city","bitch","racism"]:
+    for word in ["city","bitch","racism","actor","prince","reputation"]:
 
             automatic_quiz_generator(word).quiz()
 
