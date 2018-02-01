@@ -13,6 +13,7 @@ class Word:
         Word.id += 1
         self.cefr = find_cefr(word)
         self.senses = [Sense(sense, parent=self) for sense in wn.synsets(self.word)]
+        self.sensesd = {Sense(sense, parent=self) for sense in wn.synsets(self.word)}
     def __str__(self):
         return "The Word is: {}".format(self.word)
     def __iter__(self):
@@ -43,6 +44,13 @@ class Sense:
         self.wordnet_name = sense.name()
         self.definition = sense.definition()
 
+    def json(self):
+        result = {
+            'name': self.name,
+            'pos': self.pos,
+            'definition': self.definition,
+        }
+        return result
     def __repr__(self):
         return "<Sense {}>".format(self.wordnet_name)
 
@@ -60,9 +68,8 @@ class Sense:
 
 if __name__ == "__main__":
 
-    w = Word("actor")
-    print(w.definition)
-    word = Word("weird")
-    for sense in word:
-        print(sense)
+
+    word = Word("weird").senses
+    print(word)
+
 

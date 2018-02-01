@@ -60,22 +60,29 @@ def build_word_frequency_table():
             word_frequency_table[(word, pos)] = freq
         pickle.dump(word_frequency_table, open(filename, "wb"))
     return word_frequency_table
-
-def get_word_frequency(word):
-    word_frequency_table = build_word_frequency_table()
-    if word[1] in ["a", "n", "v"]:
-        return word_frequency_table.get(word)
-    else:
-        i = 0
-        sum = 0
-        for p in ["a", "n", "v"]:
-            if (word[0], p) in word_frequency_table:
-                sum += word_frequency_table[(word[0], p)]
-                i += 1
-        if i != 0:
-            return int(sum / i)
+_word_frequency_table = build_word_frequency_table()
+_words_by_frequency_table = word_frequency_mapping()
+def get_word_frequency(word,pos=""):
+    if word in _word_frequency_table:
+        word_frequencies = _word_frequency_table.get(word)
+        if pos == "":
+            nums = [int for int in word_frequencies.values()]
+            return average(nums)
+        if pos in ['a', 'n', 'v'] and pos in word_frequencies:
+            return word_frequencies[pos]
         else:
-            return 0;
+            return 0
+    else:
+        # Todo: find frequency from http://www.wordandphrase.info/frequencyList.asp
+        return 0
+def get_word_frequency_all(word):
+    if word in _word_frequency_table:
+        return _word_frequency_table[word]
+    else:
+        return 0
+
+def average(list_of_num):
+    return int(sum(list_of_num) / len(list_of_num))
 
 def get_similar_path_words(word):
     l=return_similar_frequency_words_list(word)
@@ -101,22 +108,24 @@ def get_similar_path_words(word):
 
 def return_similar_frequency_words_list(word):
     list_of_similar_words = []
-    for i in get_similar_frequency_words(word):
+    for i in get_similar_frequency_words(word,Word(word).pos):
         list_of_similar_words.append(i)
     return list_of_similar_words
 
 
-def get_similar_frequency_words(word):
+def get_similar_frequency_words(word, pos=""):
     # Find frequency of the word
-    pos=Word(word).definition.pos
     word_frequency = get_word_frequency((word, pos))
+    # Todo: Find better word_frequency system
+    if word_frequency == None:
+        raise KeyError
     words_by_frequency_table = word_frequency_mapping()
     similar_frequency_words = []
     n = 1
     result = []
     while len(result) < 20:
         n *= 2
-        for freq in range(word_frequency - n, word_frequency+n+1):
+        for freq in range(word_frequency-n, word_frequency+n+1):
             if freq in words_by_frequency_table:
                 similar_frequency_words += words_by_frequency_table[freq]
         # Filter out repetitions, parts of different speech, and same words as target
