@@ -99,11 +99,6 @@ class Sense:
         raise TypeError
 
 
-
-
-
-
-
 class DomainModel:
 
     def __init__(self):
@@ -112,8 +107,6 @@ class DomainModel:
         if filename:
             with open(filename, 'r') as f:
                 datastore = json.load(f)
-
-
         for key, value in datastore.items():  # from this we get the sub dictionary of word,cefr and senses
             word = key
             cefr = value['cefr']
