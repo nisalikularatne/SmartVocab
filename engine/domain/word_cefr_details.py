@@ -45,4 +45,5 @@ word_list = load_word_list()
 if __name__ == "__main__":
     print(find_cefr("the"))
     print(retrieve_cefr_information())
+
     print(load_word_list_by_cefr_key())
