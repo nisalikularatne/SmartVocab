@@ -1,5 +1,6 @@
 import random
-
+import nltk
+nltk.data.path.append('nltk_data')
 from nltk.corpus import wordnet as wn
 
 def get_senses(word):
