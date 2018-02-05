@@ -43,8 +43,8 @@
       <file leaf-file-name="WordModel.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/engine/domain/WordModel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="16" column="44" lean-forward="false" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+            <state relative-caret-position="373">
+              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -696,7 +696,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517815525597</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="WordModel modified with nltk folder appended 2">
+      <created>1517816299200</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1517816299200</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -763,7 +770,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="changes in travis.yml 2" />
     <MESSAGE value="resources folder added" />
     <MESSAGE value="path name changed to travis" />
     <MESSAGE value="path name changed to travis 2" />
@@ -788,7 +794,8 @@
     <MESSAGE value="Quiz Engine modified. More regress unit testing required as few bugs prevail 2" />
     <MESSAGE value="Quiz Engine modified. More regress unit testing required as few bugs prevail 3" />
     <MESSAGE value="WordModel modified with nltk folder appended" />
-    <option name="LAST_COMMIT_MESSAGE" value="WordModel modified with nltk folder appended" />
+    <MESSAGE value="WordModel modified with nltk folder appended 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="WordModel modified with nltk folder appended 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1206,8 +1213,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/engine/domain/WordModel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="16" column="44" lean-forward="false" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        <state relative-caret-position="373">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
