@@ -1,27 +1,63 @@
 import random
 from nltk.corpus import wordnet as wn
-from engine.domain.Domain_Model import read_from_domain_json
+from engine.domain.Domain_Model import DomainModel
 from engine.domain.WordModel import Word
-from engine.domain.distractor_selection import get_similar_path_words
-def automatic_quiz_generator(word, question="What's the definition of {}"):
+from engine.domain.word_cefr_details import word_list
+from engine.domain.distractor_selection import similar_freq_words
+class Instructor:
+    def __init__(self,domain_model,n=10):
+        self.domain_model = domain_model
+        self.n = n
 
-    definitions = Word(word).definitions
-    definition = [definition for definition in definitions if word not in definition.definition]
-    definition = random.choice(definition)
-    distractors = random.sample(get_similar_path_words((word,Word(word).pos)),3)
-    distractors = [random.choice(wn.synsets(w)).definition() for w in distractors]
-    return Question(word, question, correct=definition, incorrect=distractors)
+    def quiz(self):
+        words = [w for w in self.domain_model]
+        for word in random.sample(words, self.n):
+            q = self.automatic_quiz_generator(word)
+            sense = q.sense.name
+            q.request()
+
+    def automatic_quiz_generator(self,word, prompt="What's the definition of {}"):
+        senses = self.domain_model[word] #sense object list
+        candidates = [sense for sense in senses if word not in sense.definition] #list of the sense
+
+        if candidates:
+            sense = random.choice(candidates) #
+        # Generate Question
+        # First randomly select a definition
+        definition = sense.definition
+        pos = sense.pos
+        try:
+            # Get words in the same part of speech that have similar frequency
+            # First returns a list of similar frequency words
+            # Then chooses 3 candidates
+
+            distractor_candidates = random.sample(similar_freq_words(word, pos), 3)
+
+            # For each distractor, find the definition
+            # Make sure the part of speech matches
+            distractors = []
+            for candidate in distractor_candidates:
+                distractor = random.choice([sense.definition for sense in
+                                            self.domain_model[candidate] if sense.pos == pos])
+                distractors.append(distractor)
+
+        except (KeyError, IndexError) as e:
+            print("Couldn't find the frequency for this word")
+            print(e)
+
+        return Question(sense, prompt, correct=definition, incorrect=distractors)
+
 
 class Question:
-    def __init__(self, sense,word, prompt, correct, incorrect,response=''):
+    def __init__(self, sense, prompt, correct, incorrect,response=''):
         self.sense=sense
-        self.word = word
+        self.word = "".join(sense.name)
         self.prompt = prompt
         self.correct = correct
         self.incorrect = incorrect
         self.response = response
 
-    def quiz(self):
+    def request(self):
         print(self.prompt.format(self.word))
         choices = self.incorrect + [self.correct]
         random.shuffle(choices)
@@ -41,11 +77,11 @@ class Question:
              return False
         except IndexError :
             print("You entered a wrong input for the question")
-        automatic_quiz_generator(word).quiz()
+
 
 if __name__ == "__main__":
-    for word in ["city","bitch","racism","actor","prince","reputation"]:
 
-            automatic_quiz_generator(word).quiz()
-
+    d = DomainModel()
+    q = Instructor(d,3)
+    q.quiz()
 

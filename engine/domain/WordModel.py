@@ -1,35 +1,47 @@
-from nltk.corpus import wordnet as wn
-import nltk
-nltk.data.path.append('nltk_data')
 import random
 
+from nltk.corpus import wordnet as wn
+
+def get_senses(word):
+    return [sense for sense in wn.synsets(word)]
+
+
 class Word:
-    id=0
+    # The domain model should be indexable using the word
+    # The domain model should be indexable using the word_id
     def __init__(self, word):
         from engine.domain.word_cefr_details import find_cefr
-        self.id = Word.id
         self.word = word
-        self.definitions = [Definition(sense) for sense in wn.synsets(self.word)]
-        Word.id += 1
         self.cefr = find_cefr(word)
         self.senses = [Sense(sense, parent=self) for sense in wn.synsets(self.word)]
-        self.sensesd = {Sense(sense, parent=self) for sense in wn.synsets(self.word)}
-    def __str__(self):
-        return "The Word is: {}".format(self.word)
+
+    # Iteration
     def __iter__(self):
         return self.senses.__iter__()
+    def __next__(self):
+        return self.__next__()
 
+    # Orderable
+    def __lt__(self, other):
+        if self.word == other.word:
+            return self.cefr < other.cefr
+        else:
+            return self.word < other.word
 
-class Definition:
-    def __init__(self, sense):
-        self.definition = sense.definition()
-        self.sense = sense
-        self.pos = sense.pos() #pos : parts of speech
+    # Hashing
+    def __eq__(self, other):
+        return self.word == other.word
+    def __hash__(self):
+        return hash((self.word))
+
+    # Representation
     def __repr__(self):
-        return "{}".format(self.definition)
+        return "<Word '{}'>".format((self.word))
 
 class Sense:
-
+    # The senses model should be indexable using the senses_id
+    # The senses_id, sense_pos distinguishes the senses model
+    # The senses_id along with the pos distinguishes the senses model
     def __init__(self, sense, parent):
         # Parse the name to get word
         splitted = sense.name().split('.')
@@ -37,39 +49,103 @@ class Sense:
             self.sense_word = sense.name().split('.')[0]
         else:
             self.sense_word = ".".join(splitted[:-2])
+
         self.parent_word = parent
         self.sense = sense
+
         self.id = int(sense.name().split('.')[-1])
         self.pos = sense.pos()
         self.wordnet_name = sense.name()
         self.definition = sense.definition()
+        self.examples = sense.examples()
 
-    def json(self):
-        result = {
-            'name': self.name,
-            'pos': self.pos,
-            'definition': self.definition,
-        }
-        return result
+        self.synonyms = self.get_synonyms()
+        self.antonyms = self.get_antonyms()
+        self.hypernyms = []
+        self.homonyms = []
+        self.frequency = []
+
     def __repr__(self):
         return "<Sense {}>".format(self.wordnet_name)
 
     def __lt__(self, other):
-        if self.parent_word_id == other.parent_word_id:
-            self.id < other.id
+        if self.parent_word == other.parent_word:
+            if self.pos == other.pos:
+                return self.id < other.id
+            else:
+                return self.pos < other.pos
         else:
-            self.parent_word_id < other.parent_word_id
+            return self.parent_word < other.parent_word
 
     def __hash__(self):
         return hash(self.wordnet_name)
 
     def __eq__(self, other):
-        return self.wordnet_name == other.wordnet_name
+        if isinstance(other, Sense):
+            return self.wordnet_name == other.wordnet_name
+        else:
+            return False
+
+    def list_everything(self):
+        print("Name: {}\n"
+              "POS: {}\n"
+              "Definition: {}\n"
+              "Examples: {}\n"
+              "Synonyms: {}\n"
+              "Antonyms: {}\n"
+              "Hypernym: {}\n"
+              "Homonyms: {}"
+            .format(
+            self.wordnet_name,
+            self.pos,
+            self.definition,
+            self.examples,
+            self.synonyms,
+            self.antonyms,
+            self.hypernyms,
+            self.homonyms,
+        ))
+        # print("Lemmas: {}\n".format([Sense(l) for l in self.sense.lemmas()]))
+
+    def get_synonyms(self):
+        """ Tried very hard to embed synset information
+            However, the lemmas don't have an associated synset information to save
+            One solution would be to calculate synsets based on similarity
+        """
+        result = []
+        # Find the original synset from which this sense came
+        # The Sense class initializes based on the information provided by a synset
+        wordnet_sense = [x for x in wn.synsets(self.sense_word) if x.name() == self.wordnet_name]
+        if len(wordnet_sense) == 0:
+            return []
+        else:
+            wordnet_sense = wordnet_sense[0]
+
+            for lemma in wordnet_sense.lemmas():
+                result.append(lemma.name())
+            if self.sense_word in result:
+                result.remove(self.sense_word)
+            return result
+
+    def get_antonyms(self):
+        result = []
+        # Find the original synset from which this sense came
+        wordnet_sense = [x for x in wn.synsets(self.sense_word) if x.name() == self.wordnet_name]
+        if len(wordnet_sense) == 0:
+            print(self.sense)
+            return []
+        else:
+            wordnet_sense = wordnet_sense[0]
+        for lemma in wordnet_sense.lemmas():
+            result += (x.name() for x in lemma.antonyms())
+        # result.remove(self.word)
+        return result
+
+
+
 
 if __name__ == "__main__":
-
-
-    word = Word("weird").senses
-    print(word)
-
-
+    from nltk.corpus import wordnet as wn
+    word = Word("rage")
+    for sense in word:
+        print(sense)

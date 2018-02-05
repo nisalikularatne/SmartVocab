@@ -122,9 +122,44 @@ class DomainModel:
             w = Word(word, cefr, senses_print)
             self.word_list[word] = w
 
+
+    def items(self):
+        return self.word_list.items()
+
+    def random(self):
+        return random.choice(self.word_list.keys())
+
+    def sample(self, n):
+        return random.sample(self.word_list.keys(), n)
+
+
+    def __iter__(self):
+        return self.word_list.__iter__()
+    def __next__(self):
+        return self.__next__()
+    def __len__(self):
+        return self.word_list.values().__len__()
+
+    def __contains__(self, item):
+        return item in self.word_list
+    def __getitem__(self, item):
+        if not self.word_list.__contains__(item):
+            from engine.domain.WordModel import Word as diff
+            wd = diff(item)
+
+            word = wd.word
+            cefr = wd.cefr
+            senses = []
+            for s in wd:
+                frequency = distractor_selection.get_word_frequency(word, s.pos)
+                sense = Sense(s.wordnet_name, s.pos, s.definition)
+                senses.append(sense)
+            self.word_list[item] = Word(word, cefr, senses)
+            # self.save()
+        return self.word_list.__getitem__(item)
 if __name__ == "__main__":
     d=DomainModel()
-    print (d)
+    print (d['grilled'].senses)
 
 
 
