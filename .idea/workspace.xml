@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="62a8c093-0172-4ddb-bb4e-b51879bc2b88" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/engine/domain/WordModel.py" afterPath="$PROJECT_DIR$/engine/domain/WordModel.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/engine/domain/distractor_selection.py" afterPath="$PROJECT_DIR$/engine/domain/distractor_selection.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/engine/instructor/Quiz_Engine.py" afterPath="$PROJECT_DIR$/engine/instructor/Quiz_Engine.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/test_distractor_selection.py" afterPath="$PROJECT_DIR$/tests/test_distractor_selection.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -668,7 +664,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517816443567</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="test written for get word frequency method in distractor selection class">
+      <created>1517827052964</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1517827052964</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -735,7 +738,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="path name changed to travis" />
     <MESSAGE value="path name changed to travis 2" />
     <MESSAGE value="path name changed to travis 3" />
     <MESSAGE value="path name changed" />
@@ -760,7 +762,8 @@
     <MESSAGE value="WordModel modified with nltk folder appended" />
     <MESSAGE value="WordModel modified with nltk folder appended 2" />
     <MESSAGE value="WordModel modified with nltk folder appended 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="WordModel modified with nltk folder appended 3" />
+    <MESSAGE value="test written for get word frequency method in distractor selection class" />
+    <option name="LAST_COMMIT_MESSAGE" value="test written for get word frequency method in distractor selection class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
