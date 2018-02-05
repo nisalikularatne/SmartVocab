@@ -26,8 +26,8 @@ def read_file_ordered_by_alphabet():
             yield freq, word, pos
 
     # Find words that have similar frequency
-def build_words_by_frequency_table():
-    filename = filepath+"/words_by_frequency_table.p".replace("\\", os.sep)
+def build_frequency_is_the_key_dictionary():
+    filename = filepath+"/frequency_is_the_key_dictionary.p".replace("\\", os.sep)
     try:
         words_by_frequency_table = pickle.load(open(filename, "rb"))
     except FileNotFoundError as e:
@@ -41,8 +41,8 @@ def build_words_by_frequency_table():
             else:
                 words_by_frequency_table[frequency] = [(word, pos)]
     return words_by_frequency_table
-def build_word_frequency_table():
-    filename = filepath+"/word_frequency_table.p".replace("\\", os.sep)
+def build_word_is_the_key_dictionary():
+    filename = filepath+"/word_is_the_key_dictionary.p".replace("\\", os.sep)
     try:
         word_frequency_table = pickle.load(open(filename, "rb"))
     except FileNotFoundError as e:
@@ -55,13 +55,13 @@ def build_word_frequency_table():
 
 # This is a data structure in the format
 # { rage: {n: 12, v:130}}
-_word_frequency_table = build_word_frequency_table()
-_words_by_frequency_table = build_words_by_frequency_table()
+word_is_the_key_dictionary = build_word_is_the_key_dictionary()
+frequency_is_the_key_dictionary = build_frequency_is_the_key_dictionary()
 
 def get_word_frequency(word, pos=""):
 
-    if word in _word_frequency_table:
-        word_frequencies = _word_frequency_table.get(word)
+    if word in word_is_the_key_dictionary:
+        word_frequencies = word_is_the_key_dictionary.get(word)
 
         if pos == "":
             nums = [int for int in word_frequencies.values()]
@@ -71,12 +71,12 @@ def get_word_frequency(word, pos=""):
         else:
             return 0
     else:
-        # Todo: find frequency from http://www.wordandphrase.info/frequencyList.asp
+    
         return 0
 
 def get_word_frequency_all(word):
-    if word in _word_frequency_table:
-        return _word_frequency_table[word]
+    if word in word_is_the_key_dictionary:
+        return word_is_the_key_dictionary[word]
     else:
         return 0
 
@@ -87,17 +87,18 @@ def get_similar_frequency_words(word, pos):
     # Find frequency of the word
     word_frequency = get_word_frequency(word, pos)
     print(word_frequency)
-    # Todo: Find better word_frequency system
+    # Todo: Find frequencies from the N-Gram website and increase the data in database
     if word_frequency == None:
         raise KeyError
-    words_by_frequency_table = build_words_by_frequency_table()
+    words_by_frequency_table = build_frequency_is_the_key_dictionary() #frequency is the key of the dictionary
     similar_frequency_words = []
     n = 1
     result = []
     while len(result) < 20:
-        n *= 2
+        n =n*2
         for freq in range(word_frequency-n, word_frequency+n+1):
             if freq in words_by_frequency_table:
+
                 similar_frequency_words += words_by_frequency_table[freq]
         # Filter out repetitions, parts of different speech, and same words as target
         if pos in ["a", "n", "v"]:
@@ -108,6 +109,6 @@ def get_similar_frequency_words(word, pos):
 
 if __name__ == "__main__":
 
-    print(get_word_frequency('able','a'))
-    print(get_similar_frequency_words('able','a'))
+   print(word_is_the_key_dictionary)# used in get_word_frequency
+   print(frequency_is_the_key_dictionary[4249]) #used in get_similar_frequency words
 

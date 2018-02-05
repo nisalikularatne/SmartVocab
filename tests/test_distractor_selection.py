@@ -18,6 +18,10 @@ class TestDistractorSelection(unittest.TestCase):
         expected_res = 30454
         res=get_word_frequency('able','a')
         self.assertEqual(expected_res, res)
+        expected_res1 = 0
+        res1 = get_word_frequency('vishwas', 'a')
+        self.assertEqual(expected_res1, res1)
+
 
 
 
