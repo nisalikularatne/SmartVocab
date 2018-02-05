@@ -71,7 +71,7 @@ def get_word_frequency(word, pos=""):
         else:
             return 0
     else:
-    
+
         return 0
 
 def get_word_frequency_all(word):
