@@ -14,6 +14,7 @@ class Word:
         from engine.domain.word_cefr_details import find_cefr
         self.word = word
         self.cefr = find_cefr(word)
+        self.definitions = [sense.definition for sense in wn.synsets(self.word)]
         self.senses = [Sense(sense, parent=self) for sense in wn.synsets(self.word)]
 
     # Iteration
