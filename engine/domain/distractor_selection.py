@@ -2,11 +2,9 @@ import pickle
 import os
 import inspect
 filepath = os.path.realpath(os.path.abspath(os.path.join(os.path.split(inspect.getfile( inspect.currentframe() ))[0],"../../resources/")))
-
-# An ordered dictionary that keeps words in a list indexable by frequency
-import random
 from collections import OrderedDict
-
+from nltk.corpus import wordnet as wn
+from engine.domain.WordModel import Word
 
 def read_file_ordered_by_frequency():
     with open(filepath+"\wordlist_byfrequency.txt".replace("\\", os.sep)) as f:
@@ -26,27 +24,7 @@ def read_file_ordered_by_alphabet():
             pos = l[3]
 
             yield freq, word, pos
-def similar_freq_words(word, pos=""):
-    # Find frequency of the word
-    word_frequency = get_word_frequency((word, pos))
-    # Todo: Find better word_frequency system
-    if word_frequency == None:
-        raise KeyError
-    words_by_frequency_table = build_words_by_frequency_table()
-    similar_frequency_words = []
-    n = 1
-    result = []
-    while len(result) < 20:
-        n *= 2
-        for freq in range(word_frequency-n, word_frequency+n+1):
-            if freq in words_by_frequency_table:
-                similar_frequency_words += words_by_frequency_table[freq]
-        # Filter out repetitions, parts of different speech, and same words as target
-        if pos in ["a", "n", "v"]:
-            result = set([w for (w, p) in similar_frequency_words if w != word and p == pos])
-        else:
-            result = set([w for (w, p) in similar_frequency_words if w != word])
-    return result
+
     # Find words that have similar frequency
 def build_words_by_frequency_table():
     filename = filepath+"/words_by_frequency_table.p".replace("\\", os.sep)
@@ -81,12 +59,10 @@ _word_frequency_table = build_word_frequency_table()
 _words_by_frequency_table = build_words_by_frequency_table()
 
 def get_word_frequency(word, pos=""):
-    """
-    Returns the frequency of a word in a specific part of speech if
-    info is provided, otherwise returns the average frequency.
-    """
+
     if word in _word_frequency_table:
         word_frequencies = _word_frequency_table.get(word)
+
         if pos == "":
             nums = [int for int in word_frequencies.values()]
             return average(nums)
@@ -107,8 +83,31 @@ def get_word_frequency_all(word):
 def average(list_of_num):
     return int(sum(list_of_num) / len(list_of_num))
 
+def get_similar_frequency_words(word, pos):
+    # Find frequency of the word
+    word_frequency = get_word_frequency(word, pos)
+    print(word_frequency)
+    # Todo: Find better word_frequency system
+    if word_frequency == None:
+        raise KeyError
+    words_by_frequency_table = build_words_by_frequency_table()
+    similar_frequency_words = []
+    n = 1
+    result = []
+    while len(result) < 20:
+        n *= 2
+        for freq in range(word_frequency-n, word_frequency+n+1):
+            if freq in words_by_frequency_table:
+                similar_frequency_words += words_by_frequency_table[freq]
+        # Filter out repetitions, parts of different speech, and same words as target
+        if pos in ["a", "n", "v"]:
+            result = set([w for (w, p) in similar_frequency_words if w != word and p == pos])
+        else:
+            result = set([w for (w, p) in similar_frequency_words if w != word])
+    return result
 
 if __name__ == "__main__":
-    print(_word_frequency_table['finger'])
-    print(get_word_frequency("finger", 'v'))
-    print(similar_freq_words('actor','n'))
+
+    print(get_word_frequency('able','a'))
+    print(get_similar_frequency_words('able','a'))
+

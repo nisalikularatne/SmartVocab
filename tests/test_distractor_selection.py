@@ -1,6 +1,7 @@
 import unittest
 from hamcrest import *
 from engine.domain.distractor_selection import read_file_ordered_by_frequency,read_file_ordered_by_alphabet
+from engine.domain.distractor_selection import get_word_frequency
 class TestDistractorSelection(unittest.TestCase):
 
     def test_read_file_by_frequency(self):
@@ -12,6 +13,12 @@ class TestDistractorSelection(unittest.TestCase):
         expected_res=('2186369', 'a', 'det')
         res=next(read_file_ordered_by_alphabet())
         self.assertEqual(expected_res,res)
+
+    def test_get_word_frequency(self):
+        expected_res = 30454
+        res=get_word_frequency('able','a')
+        self.assertEqual(expected_res, res)
+
 
 
 

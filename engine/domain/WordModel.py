@@ -15,7 +15,9 @@ class Word:
         self.word = word
         self.cefr = find_cefr(word)
         self.definitions = [sense.definition() for sense in wn.synsets(self.word)]
+
         self.senses = [Sense(sense, parent=self) for sense in wn.synsets(self.word)]
+
 
     # Iteration
     def __iter__(self):

@@ -3,7 +3,7 @@ from nltk.corpus import wordnet as wn
 from engine.domain.Domain_Model import DomainModel
 from engine.domain.WordModel import Word
 from engine.domain.word_cefr_details import word_list
-from engine.domain.distractor_selection import similar_freq_words
+from engine.domain.distractor_selection import get_similar_frequency_words
 class Instructor:
     def __init__(self,domain_model,n=10):
         self.domain_model = domain_model
@@ -31,7 +31,7 @@ class Instructor:
             # First returns a list of similar frequency words
             # Then chooses 3 candidates
 
-            distractor_candidates = random.sample(similar_freq_words(word, pos), 3)
+            distractor_candidates = random.sample(get_similar_frequency_words(word, pos), 3)
 
             # For each distractor, find the definition
             # Make sure the part of speech matches
