@@ -7,7 +7,6 @@ from engine.domain.WordModel import Word
 
 def retrieve_cefr_information():
     word_cefr_file = pickle.load(open(filepath+"/word_cefr_file.p", "rb"))
-    print(len(word_cefr_file.items()))
     word_cefr_file = [(k, v) for k, v in word_cefr_file.items()]
     return word_cefr_file
 

@@ -10,21 +10,20 @@ class Instructor:
         self.n = n
 
     def quiz(self):
-        words = [w for w in self.domain_model]
+        words = [word for word in self.domain_model]
         for word in random.sample(words, self.n):
             q = self.automatic_quiz_generator(word)
-            sense = q.sense.name
             q.request()
 
     def automatic_quiz_generator(self,word, prompt="What's the definition of {}"):
         senses = self.domain_model[word] #sense object list
         candidates = [sense for sense in senses if word not in sense.definition] #list of the sense
-
         if candidates:
-            sense = random.choice(candidates) #
+            sense = random.choice(candidates) #gets random sense
         # Generate Question
         # First randomly select a definition
-        definition = sense.definition
+        global definition
+        definition=sense.definition
         pos = sense.pos
         try:
             # Get words in the same part of speech that have similar frequency
@@ -37,10 +36,9 @@ class Instructor:
             # Make sure the part of speech matches
             distractors = []
             for candidate in distractor_candidates:
-                distractor = random.choice([sense.definition for sense in
-                                            self.domain_model[candidate] if sense.pos == pos])
+                distractor = random.choice([sense.definition for sense in self.domain_model[candidate] ])
                 distractors.append(distractor)
-
+            print(distractors)
         except (KeyError, IndexError) as e:
             print("Couldn't find the frequency for this word")
             print(e)
@@ -82,6 +80,6 @@ class Question:
 if __name__ == "__main__":
 
     d = DomainModel()
-    q = Instructor(d,3)
+    q = Instructor(d,5)
     q.quiz()
 

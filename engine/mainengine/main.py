@@ -14,7 +14,7 @@ def hello():
 if __name__ == "__main__":
 
     d = DomainModel()
-    I = Instructor(d, 3)
+    I = Instructor(d, 10)
 
     I.quiz()
 

@@ -86,7 +86,8 @@ def average(list_of_num):
 def get_similar_frequency_words(word, pos):
     # Find frequency of the word
     word_frequency = get_word_frequency(word, pos)
-    print(word_frequency)
+
+
     # Todo: Find frequencies from the N-Gram website and increase the data in database
     if word_frequency == None:
         raise KeyError
@@ -111,4 +112,6 @@ if __name__ == "__main__":
 
    print(word_is_the_key_dictionary)# used in get_word_frequency
    print(frequency_is_the_key_dictionary[4249]) #used in get_similar_frequency words
+   print(get_word_frequency('abandon',''))
+   print(get_similar_frequency_words('steering',''))
 

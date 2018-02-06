@@ -149,7 +149,5 @@ class Sense:
 
 
 if __name__ == "__main__":
-    from nltk.corpus import wordnet as wn
+
     word = Word("rage")
-    for sense in word:
-        print(sense)
