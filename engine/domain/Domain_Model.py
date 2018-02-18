@@ -159,7 +159,7 @@ class DomainModel:
         return self.word_list.__getitem__(item)
 if __name__ == "__main__":
     d=DomainModel()
-    print (d['contract'].senses)
+    print (d['eventual'].senses)
 
 
 

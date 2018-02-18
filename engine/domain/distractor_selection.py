@@ -102,16 +102,15 @@ def get_similar_frequency_words(word, pos):
 
                 similar_frequency_words += words_by_frequency_table[freq]
         # Filter out repetitions, parts of different speech, and same words as target
-        if pos in ["a", "n", "v"]:
-            result = set([w for (w, p) in similar_frequency_words if w != word and p == pos])
-        else:
-            result = set([w for (w, p) in similar_frequency_words if w != word])
+            if pos in ["a", "n", "v","r","s"]:
+             result = set([w for (w, p) in similar_frequency_words if w != word and p == pos])
+            else:
+                result = set([w for (w, p) in similar_frequency_words if w != word])
     return result
 
 if __name__ == "__main__":
 
-   print(word_is_the_key_dictionary)# used in get_word_frequency
-   print(frequency_is_the_key_dictionary[4249]) #used in get_similar_frequency words
-   print(get_word_frequency('abandon',''))
-   print(get_similar_frequency_words('steering',''))
+   print(build_frequency_is_the_key_dictionary())
+   print(get_similar_frequency_words('spoon','n'))
+
 

@@ -95,17 +95,19 @@ class Student:
 
 
 if __name__ == "__main__":
-    wasif = Student("wasif", "pass")
+    nisali = Student("nisali", "password")
     sense = Word("actor").senses[1]
-    wasif.update_score(sense, correct=True)
+    nisali.update_score(sense, correct=True)
+    sense = Word("actor").senses[0]
+    nisali.update_score(sense, correct=True)
     sense = Word("fish").senses[0]
-    wasif.update_score(sense, correct=True)
+    nisali.update_score(sense, correct=True)
     sense = Word("age").senses[0]
-    wasif.update_score(sense, correct=False)
+    nisali.update_score(sense, correct=False)
 
-    print(wasif.get_word_profile('pool'))
-    print(wasif.get_word_profile('age'))
-    print(wasif.get_word_profile('fight'))
+    print(nisali.get_word_profile('actor'))
+    print(nisali.get_word_profile('age'))
+    print(nisali.get_word_profile('fight'))
 
 
 

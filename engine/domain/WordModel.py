@@ -48,6 +48,7 @@ class Sense:
     # The senses_id along with the pos distinguishes the senses model
     def __init__(self, sense, parent):
         # Parse the name to get word
+
         splitted = sense.name().split('.')
         if len(splitted) == 3:
             self.sense_word = sense.name().split('.')[0]
@@ -56,7 +57,7 @@ class Sense:
 
         self.parent_word = parent
         self.sense = sense
-
+        self.original = sense.name()
         self.id = int(sense.name().split('.')[-1])
         self.pos = sense.pos()
         self.wordnet_name = sense.name()

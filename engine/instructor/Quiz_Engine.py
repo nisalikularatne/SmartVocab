@@ -10,7 +10,7 @@ class Instructor:
         self.n = n
 
     def quiz(self):
-        words = [word for word in self.domain_model]
+        words = [word for word in self.domain_model ]
         for word in random.sample(words, self.n):
             q = self.automatic_quiz_generator(word)
             q.request()
@@ -19,6 +19,7 @@ class Instructor:
         senses = self.domain_model[word] #sense object list
         candidates = [sense for sense in senses if word not in sense.definition] #list of the sense
         if candidates:
+            global sense
             sense = random.choice(candidates) #gets random sense
         # Generate Question
         # First randomly select a definition
@@ -36,12 +37,14 @@ class Instructor:
             # Make sure the part of speech matches
             distractors = []
             for candidate in distractor_candidates:
-                distractor = random.choice([sense.definition for sense in self.domain_model[candidate] ])
+                distractor = random.choice([s.definition for s in self.domain_model[candidate]  if s.pos == pos])
                 distractors.append(distractor)
-            print(distractors)
+
         except (KeyError, IndexError) as e:
             print("Couldn't find the frequency for this word")
             print(e)
+            distractor = random.choice([s.definition for s in self.domain_model[candidate]])
+            distractors.append(distractor)
 
         return Question(sense, prompt, correct=definition, incorrect=distractors)
 
@@ -49,7 +52,7 @@ class Instructor:
 class Question:
     def __init__(self, sense, prompt, correct, incorrect,response=''):
         self.sense=sense
-        self.word = "".join(sense.name)
+        self.word = "".join(sense.name.split('.')[0:-2])
         self.prompt = prompt
         self.correct = correct
         self.incorrect = incorrect
@@ -80,6 +83,6 @@ class Question:
 if __name__ == "__main__":
 
     d = DomainModel()
-    q = Instructor(d,5)
+    q = Instructor(d,3)
     q.quiz()
 
