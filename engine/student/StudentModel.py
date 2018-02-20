@@ -1,16 +1,16 @@
 import pickle
 from engine.domain.word_cefr_details import retrieve_cefr_information, word_list
-from engine.domain.WordModel import Word, Sense
-class WordProfile:
+from engine.domain.WordModel import Word
 
+from engine.domain.Domain_Model import DomainModel
+class WordProfile:
+    # Word profile is made up of all the word senses
+    # Each sense has an individual score associated with it
+    # There's an overall word score as well
     def __init__(self, word):
         self.word = Word(word)
         self.total_score = 0.0
-
-        self.senses_profiles = []
-        for sense in self.word:
-            self.senses_profiles.append(SenseProfile(sense, self))
-
+        self.sense_profiles = {sense.name: SenseProfile(self, sense) for sense in word}
         self.n = len(self.senses_profiles)
 
     def __iter__(self):
@@ -35,6 +35,35 @@ class WordProfile:
     def update_score(self):
         self.total_score = (sum([x.score for x in self.senses_profiles])/self.n)
 
+
+
+
+class VocabularyProfile:
+    def __init__(self):
+
+        self.profile = {}
+
+        d = DomainModel()
+        for word_name, word_model in d.items():
+         self.profile[word_name] = WordProfile(word_model)
+    pass
+
+    def __getitem__(self, item):
+        return self.profile[item]
+    def items(self):
+        return self.profile.items()
+    def __iter__(self):
+        return self.profile.__iter__()
+    def __next__(self):
+        return self.profile.__next__()
+    def __repr__(self):
+        result = ''
+        for _, word_profile in self.items():
+            result += '{}\n'.format(word_profile)
+        return result
+
+
+
 class SenseProfile:
     # Sense profile is an individual sense
     # A question is generated based on the word sense
@@ -43,20 +72,13 @@ class SenseProfile:
     def __init__(self, sense, parent):
         self.parent = parent
         self.sense = sense
+        self.name=sense.name
         self.score = 0.0
 
+
     def __repr__(self):
-        return "{}".format((self.sense, self.score))
+        return "{}".format((self.sense.name, self.score))
 
-    def __eq__(self, other):
-        if isinstance(other, Sense):
-            return self.sense == other
-        else:
-            return self.sense == other.sense
-
-    def __hash__(self):
-        return hash((self.sense))
-    # Update Score for the sense
 
     def update_score(self, correct):
         if correct:
@@ -65,20 +87,23 @@ class SenseProfile:
             self.score -= 0.2
         self.parent.update_score()
 
+
+
+
+
 class Student:
-    def __init__(self, name, password):
+    def __init__(self, name, password,new=False):
         self.name = name
         self.password = password
         self.vocabulary_profile = {}
         for word in word_list:
             self.vocabulary_profile[word] = WordProfile(word)
+        if new:
+            self.save()
+        else:
+            self.load()
 
-    def initialize_vocabulary_profile(self):
-        # A student's vocabulary profile can be indexed using the word profile
-        # Each word has multiple senses, each with their own profile
-        for word in retrieve_cefr_information():
 
-            self.vocabulary_profile
 
     def get_word_profile(self, word):
         return self.vocabulary_profile[word]
@@ -95,19 +120,5 @@ class Student:
 
 
 if __name__ == "__main__":
-    nisali = Student("nisali", "password")
-    sense = Word("actor").senses[1]
-    nisali.update_score(sense, correct=True)
-    sense = Word("actor").senses[0]
-    nisali.update_score(sense, correct=True)
-    sense = Word("fish").senses[0]
-    nisali.update_score(sense, correct=True)
-    sense = Word("age").senses[0]
-    nisali.update_score(sense, correct=False)
-
-    print(nisali.get_word_profile('actor'))
-    print(nisali.get_word_profile('age'))
-    print(nisali.get_word_profile('fight'))
-
-
-
+    d=VocabularyProfile()
+    print(d)

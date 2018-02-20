@@ -39,9 +39,10 @@ class Word:
         return hash((self.word))
 
     # Representation
-    def __repr__(self):
-        return "<Word '{}'>".format((self.word))
 
+
+    def __repr__(self):
+      return "<Word '{}'>".format((self.word))
 class Sense:
     # The senses model should be indexable using the senses_id
     # The senses_id, sense_pos distinguishes the senses model

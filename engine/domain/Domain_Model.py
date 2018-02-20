@@ -67,6 +67,12 @@ class Word:
         }
         return result
 
+    def __repr__(self):
+        result = "<Word {}>\n".format((self.word, self.cefr, self.frequency))
+        for sense in self:
+            result += "\t{}\n".format(sense)
+        return result
+
 
 class Sense:
     def __init__(self, name, pos, definition):
@@ -159,7 +165,6 @@ class DomainModel:
         return self.word_list.__getitem__(item)
 if __name__ == "__main__":
     d=DomainModel()
-    print (d['eventual'].senses)
 
 
 
