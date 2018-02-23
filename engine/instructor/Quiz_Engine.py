@@ -1,19 +1,25 @@
 import random
 from nltk.corpus import wordnet as wn
 from engine.domain.Domain_Model import DomainModel
+from engine.student.StudentModel import Student
 from engine.domain.WordModel import Word
 from engine.domain.word_cefr_details import word_list
 from engine.domain.distractor_selection import get_similar_frequency_words
 class Instructor:
-    def __init__(self,domain_model,n=10):
+    def __init__(self,domain_model,student_model,n=10):
         self.domain_model = domain_model
+        self.student_model=student_model
         self.n = n
 
     def quiz(self):
         words = [word for word in self.domain_model ]
         for word in random.sample(words, self.n):
             q = self.automatic_quiz_generator(word)
-            q.request()
+            correct=q.request()
+            sense=q.sense.name
+            self.student_model[word].updateSense(sense, correct)
+            self.student_model[word].update()
+        self.student_model.save()
 
     def automatic_quiz_generator(self,word, prompt="What's the definition of {}"):
         senses = self.domain_model[word] #sense object list
@@ -83,6 +89,7 @@ class Question:
 if __name__ == "__main__":
 
     d = DomainModel()
-    q = Instructor(d,3)
+    s=Student('abhishek','123')
+    q = Instructor(d,s,3)
     q.quiz()
 

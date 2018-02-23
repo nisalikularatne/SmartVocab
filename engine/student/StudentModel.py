@@ -1,22 +1,46 @@
 import pickle
 from engine.domain.word_cefr_details import retrieve_cefr_information, word_list
-from engine.domain.WordModel import Word
-
+from engine.domain.WordModel import Word,Sense
 from engine.domain.Domain_Model import DomainModel
+import os
+import inspect
+import json
+from collections import namedtuple
+filepath = os.path.realpath(os.path.abspath(os.path.join(os.path.split(inspect.getfile( inspect.currentframe() ))[0],"../../users/")))
+
 class WordProfile:
     # Word profile is made up of all the word senses
     # Each sense has an individual score associated with it
     # There's an overall word score as well
-    def __init__(self, word):
-        self.word = Word(word)
-        self.total_score = 0.0
-        self.sense_profiles = {sense.name: SenseProfile(self, sense) for sense in word}
-        self.n = len(self.senses_profiles)
+    def __init__(self, word,sense_profiles,score,new):
+        if new == False:
+            self.word = word
+            self.score = score
+            self.sense_profiles = {s: SenseProfile.load_json(word, sp) for s, sp in sense_profiles.items()}
+            self.n = len(self.sense_profiles)
+        else:
+            self.word = word
+            self.original=word
+            self.score = 0.0
+            self.sense_profiles = {sense.name: SenseProfile(self, sense,sense.name,self.score) for sense in Word(self.word)}
+            self.n = len(self.sense_profiles)
+
+
+    @staticmethod
+    def load_json(word_profile, new=False):
+        word = word_profile['word']
+        score = word_profile['score']
+        sense_profiles_json = word_profile['sense_profile']
+        return WordProfile(word, sense_profiles_json,score,new=False)
+
 
     def __iter__(self):
-        return self.senses_profiles.__iter__()
+        return self.sense_profiles.__iter__()
     def __next__(self):
-        return self.senses_profiles.__next__()
+        return self.sense_profiles.__next__()
+
+    def __getitem__(self, item):
+        return self.sense_profiles.__getitem__(item)
 
     def __eq__(self, other):
         return self.word.word == self.other.word and self.word.cefr == self.other.cefr
@@ -24,44 +48,36 @@ class WordProfile:
     def __hash__(self):
         return self.word.__hash__()
 
-    def __repr__(self):
-        result = ""
-        result += "The word profile for {} is {:.4f}: \n\t".format(self.word, self.total_score)
-        for sense_profile in self.senses_profiles:
-            result += str(sense_profile) + '\n\t'
+        def __repr__(self):
+            result = "{}||{}||{}\n".format(self.word, len(self), self.score)
+            for sense_profile in self:
+                result += "\t{}\n".format(self[sense_profile])
+            return result.rstrip()
+        return result
+    def dict_repr(self):
+
+        result = {
+            "word": self.word,
+            "score": self.score,
+            "sense_profile": {
+                name: sense_profile.dict_repr() for name, sense_profile in self.sense_profiles.items()
+            }
+
+        }
+
         return result
     # Total Score is the average of all sense scores
 
-    def update_score(self):
-        self.total_score = (sum([x.score for x in self.senses_profiles])/self.n)
+    def update(self):
+        if self.n == 0: return 0
+        self.score = sum([v.score for x, v in self.sense_profiles.items()]) / self.n
+        print(self.score)
 
-
-
-
-class VocabularyProfile:
-    def __init__(self):
-
-        self.profile = {}
-
-        d = DomainModel()
-        for word_name, word_model in d.items():
-         self.profile[word_name] = WordProfile(word_model)
-    pass
-
-    def __getitem__(self, item):
-        return self.profile[item]
-    def items(self):
-        return self.profile.items()
-    def __iter__(self):
-        return self.profile.__iter__()
-    def __next__(self):
-        return self.profile.__next__()
-    def __repr__(self):
-        result = ''
-        for _, word_profile in self.items():
-            result += '{}\n'.format(word_profile)
-        return result
-
+    def updateSense(self, sense, correct):
+        if isinstance(sense, str):
+            return self[sense].update(correct)
+        else:
+            return self[sense.name].update(correct)
 
 
 class SenseProfile:
@@ -69,41 +85,112 @@ class SenseProfile:
     # A question is generated based on the word sense
     # A score is given based on the word sense
     # Each sense has an associated history of questions that have been asked
-    def __init__(self, sense, parent):
-        self.parent = parent
-        self.sense = sense
-        self.name=sense.name
-        self.score = 0.0
+    def __init__(self, sense, parent,name,score,new=False):
+        if new==False:
+            self.score=score
+            self.word = parent
+            self.name = name
+        else   :
+            self.parent = parent
+            self.sense = sense
+            self.name=name
+            self.original=sense.original
+
+            self.score = 0.0
 
 
+
+
+
+    def dict_repr(self):
+        result = {'name': self.name,
+                       'score':self.score
+                        }
+
+
+        return result
     def __repr__(self):
-        return "{}".format((self.sense.name, self.score))
+        return "{}".format(self.score)
+    def __eq__(self, other):
+        if isinstance(other, Sense):
+            return self.sense == other
+        else:
+            return self.sense == other.sense
 
+    def __hash__(self):
+        return hash((self.sense))
+    # Update Score for the sense
 
-    def update_score(self, correct):
+    def update(self, correct):
         if correct:
             self.score += 0.2
         else:
             self.score -= 0.2
-        self.parent.update_score()
 
+
+    @staticmethod
+    def load_json(w, sp):
+        word = w
+        name = sp['name']
+        score = sp['score']
+        sense=None
+        return SenseProfile(sense,word, name, score,new=False)
+
+
+class VocabularyProfile:
+    def __init__(self):
+
+        self.profile = {}
+
+        for word in word_list:
+            self.profile[word] = WordProfile(word,sense_profiles=None,score=0.0,new=True)
+        pass
+
+
+    def __getitem__(self, item):
+        return self.profile[item]
+    def items(self):
+        return self.profile.items()
+    def __iter__(self):
+        return self.profile.__iter__()
+    def json(self):
+        return self.profile
+    def __next__(self):
+        return self.profile.__next__()
+    def dict_repr(self):
+        result = {}
+        for _, word_profile in self.items():
+            result[_] = word_profile.dict_repr()
+        return result
+    def __repr__(self):
+        result = {}
+        for _, word_profile in self.items():
+            result[_] = word_profile
+        return str(result)
+
+    def load_json(self, f, new=False):
+        if new == False:
+            vocabulary_profile = f['vocabulary_profile']
+        for word, word_profile in vocabulary_profile.items():
+            self.profile[word] = WordProfile.load_json(word_profile, new)
 
 
 
 
 class Student:
-    def __init__(self, name, password,new=False):
-        self.name = name
+    def __init__(self, username, password,new=False):
+        self.username = username
         self.password = password
-        self.vocabulary_profile = {}
-        for word in word_list:
-            self.vocabulary_profile[word] = WordProfile(word)
+        self.vocabulary_profile = VocabularyProfile()
         if new:
             self.save()
         else:
             self.load()
 
-
+    def save(self):
+                filename = filepath + "/{}-{}-model.json".format(self.username, self.password)
+                with open(filename, 'w') as f:
+                    f.write(json.dumps(self.dict_repr(), indent=4))
 
     def get_word_profile(self, word):
         return self.vocabulary_profile[word]
@@ -111,14 +198,54 @@ class Student:
     def get_sense_profile(self, sense):
         return self.get_word_profile(sense.parent_word.word).senses_profiles
 
-    def update_score(self, sense, correct):
+    def update(self, sense, correct):
         # Find the sense
         sense_profiles = self.get_sense_profile(sense)
         for s in sense_profiles:
             if s == sense:
                 s.update_score(correct)
+    def __getitem__(self, item):
+        return self.vocabulary_profile[item]
+
+    def __getattr__(self, item):
+        return self.vocabulary_profile.__getattribute__(item)
+    def dict_repr(self):
+        result = {
+            'username': self.username,
+            'password': self.password,
+            'vocabulary_profile': self.vocabulary_profile.dict_repr(),
+        }
+        return result
+    def __repr__(self):
+        result = '{}||{}\n'.format(self.username, self.password)
+        result += self.vocabulary_profile.__repr__()
+        return result
+
+    def load(self, new=False):
+        filename = filepath + "/{}-{}-model.json".format(self.username, self.password)
+
+        with open(filename, 'r') as f:
+            f = json.load(f)
+            self.vocabulary_profile.load_json(f, new=new)
 
 
 if __name__ == "__main__":
-    d=VocabularyProfile()
-    print(d)
+  v=VocabularyProfile()
+  s=Student('abhishek','123',new=False)
+  s.vocabulary_profile['hectic'].updateSense('feverish.s.01', correct=True)
+  s.vocabulary_profile['hectic'].updateSense('feverish.s.01', correct=True)
+
+
+  s.save()
+
+
+
+
+
+
+
+
+
+
+
+

@@ -58,7 +58,7 @@ class Sense:
 
         self.parent_word = parent
         self.sense = sense
-        self.original = sense.name()
+        self.name = sense.name()
         self.id = int(sense.name().split('.')[-1])
         self.pos = sense.pos()
         self.wordnet_name = sense.name()
