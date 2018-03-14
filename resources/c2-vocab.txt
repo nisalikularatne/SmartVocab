@@ -1,1999 +1,1999 @@
-able adjective CLEVER C2
-above adverb, preposition TOO IMPORTANT C2
-abrupt adjective SUDDEN C2
-abrupt adjective RUDE C2
-abruptly adverb C2
-abuse noun LANGUAGE C2
-abusive adjective C2
-academic adjective CLEVER C2
-accelerate verb VEHICLE C2
-accessible adjective UNDERSTAND C2
-accompany verb MUSIC C2
-accountable adjective C2
-accumulation noun C2
-acre noun C2
-act noun FALSE BEHAVIOUR C2
-action noun FIGHTING C2
-action noun PROCESS C2
-address verb SPEAK C2
-address verb BUILDING DETAILS C2
-adjacent adjective C2
-adolescent noun C2
-advocate verb C2
-advocate noun C2
-affectionate adjective C2
-after preposition NAMED FOR C2
-age noun OLD C2
-agenda noun IMPORTANT SUBJECTS C2
-ahead adjective MORE PROGRESS C2
-air noun QUALITY C2
-alarm noun WORRY C2
-albeit conjunction C2
-alcoholic adjective PERSON C2
-alcoholic noun C2
-alert verb C2
-alive adjective PLACE C2
-alive adjective CONTINUING C2
-allege verb C2
-allegedly adverb C2
-alliance noun C2
-allied adjective C2
-allocation noun SHARE C2
-allocation noun PROCESS C2
-allow verb NOT PREVENT C2
-ally noun COUNTRY C2
-alone adjective, adverb ONLY ONE C2
-ambiguity noun C2
-ambiguous adjective C2
-amend verb C2
-amid preposition AMONG C2
-analogous adjective C2
-analogy noun C2
-anchor noun BOAT C2
-anchor noun SUPPORT C2
-anchor verb BOAT C2
-anchor verb FASTEN C2
-animated adjective EXCITEMENT C2
-anonymous adjective C2
-antibiotic noun C2
-anticipation noun WAITING C2
-apologetic adjective C2
-appalling adjective SHOCKING C2
-applaud verb PRAISE C2
-application noun USE C2
-appointment noun JOB C2
-appreciate verb UNDERSTAND C2
-arbitrary adjective C2
-arch noun C2
-arch verb C2
-arid adjective C2
-arm noun CHAIR C2
-army noun ORGANIZED GROUP C2
-around adverb EXISTING C2
-arouse verb C2
-arrival noun BECOME AVAILABLE C2
-artificial adjective NOT SINCERE C2
-artificial intelligence noun C2
-aspiration noun C2
-assault noun C2
-assault verb C2
-assemble verb GROUP C2
-assemble verb BUILD C2
-assembly noun GROUP C2
-assembly noun BUILD C2
-assertive adjective C2
-association noun CONNECTION C2
-assurance noun CONFIDENCE C2
-astronomy noun C2
-attach verb INCLUDE C2
-attachment noun FEELING C2
-attack verb DISEASE C2
-attack noun CRITICISM C2
-attainable adjective C2
-attraction noun FEELING C2
-attribute noun C2
-automatic adjective PERSON C2
-automatic adjective CERTAIN C2
-avenue noun POSSIBILITY C2
-away adverb CONTINUOUS ACTION C2
-awe noun C2
-awesome adjective SPECIAL C2
-awkward adjective NOT ATTRACTIVE C2
-back verb SUPPORT C2
-backing noun C2
-backward adjective C2
-baggage noun FEELINGS C2
-balcony noun THEATRE C2
-band noun CIRCLE C2
-bar noun PREVENTING SUCCESS C2
-bare adjective BASIC C2
-bare adjective EMPTY C2
-bark verb SHOUT C2
-bark noun TREE C2
-barn noun C2
-base noun MAIN PLACE C2
-base noun MAIN PART C2
-battle noun ARGUMENT C2
-battle verb C2
-bear verb HAVE CHILD C2
-beat verb SOUND C2
-bed noun BOTTOM C2
-bed noun GROUND C2
-before preposition IMPORTANCE C2
-behind preposition NOT AFFECTING C2
-belief noun EFFECTIVE C2
-below adverb, preposition RANK C2
-beneath preposition NOT GOOD ENOUGH C2
-bet noun RISK C2
-beyond adverb TIME C2
-bias noun C2
-bid noun ATTEMPT C2
-bid noun BUY C2
-bid verb C2
-bind verb TIE C2
-bind verb UNITE C2
-blackmail noun C2
-blackmail verb C2
-bland adjective NO TASTE C2
-bland adjective BORING C2
-blank adjective NO FEELING C2
-blanket noun LAYER C2
-bleak adjective NO HOPE C2
-bleak adjective COLD C2
-blend noun C2
-blindness noun NOT NOTICING C2
-blister noun C2
-block noun STOP PROGRESS C2
-block verb STOP PROGRESS C2
-blood noun FAMILY ORIGIN C2
-bloody adjective ANGER C2
-blow verb SOUND C2
-blow noun HIT C2
-blow noun BAD EVENT C2
-blue adjective SAD C2
-blunt adjective NOT SHARP C2
-blunt adjective RUDE C2
-boast verb HAVE C2
-body noun GROUP C2
-bomber noun AIRCRAFT C2
-bond verb C2
-bow noun MUSIC C2
-brass noun MUSIC C2
-break verb BECOME KNOWN C2
-break verb STORM C2
-break verb WEATHER C2
-break noun OPPORTUNITY C2
-breakdown noun EXPLANATION C2
-bribery noun C2
-bridge noun CONNECTION C2
-broadminded adjective C2
-bronze noun METAL C2
-bronze adjective METAL C2
-bronze adjective COLOUR C2
-bubble verb LIQUID C2
-bundle noun TIED GROUP C2
-bureaucracy noun RULES C2
-bureaucracy noun GOVERNMENT C2
-burial noun C2
-buzz noun EXCITEMENT C2
-buzz noun SOUND C2
-buzz verb SOUND C2
-buzz verb ENERGY C2
-cabin noun SHIP C2
-calf noun LEG C2
-capitalism noun C2
-capitalist adjective C2
-care noun WORRY C2
-career noun TIME C2
-carefree adjective C2
-cargo noun C2
-carriage noun WITH HORSE C2
-carrot noun REWARD C2
-carry verb HAVE C2
-carry verb SUPPORT C2
-carve verb C2
-case noun ILLNESS C2
-case noun ARGUMENT C2
-casserole noun FOOD C2
-casserole noun CONTAINER C2
-cast verb ACTORS C2
-cast verb LIGHT C2
-casual adjective WORK C2
-casualty noun INJURED C2
-casualty noun HOSPITAL C2
-catastrophe noun C2
-catch verb STICK C2
-cause noun REASON FOR C2
-caution verb C2
-ceiling noun AMOUNT C2
-central adjective IMPORTANT C2
-centre noun POLITICAL C2
-certainty noun SURE THING C2
-challenge noun DISAGREEMENT C2
-champion noun SUPPORT C2
-chancellor noun GOVERNMENT C2
-chancellor noun MONEY C2
-channel noun COMMUNICATION C2
-channel verb C2
-chapel noun C2
-character noun PERSON C2
-characteristic adjective C2
-charisma noun C2
-charismatic adjective C2
-charity noun KINDNESS C2
-charm noun LUCKY C2
-charm verb C2
-chase verb TRY C2
-cheer noun C2
-cheerfulness noun C2
-chest noun BOX C2
-chill noun COLD C2
-chill noun FEAR C2
-chronic adjective C2
-circle verb MOVE C2
-circuit noun TRACK C2
-circuit noun ELECTRIC C2
-circuit noun EVENTS C2
-circular adjective ARGUMENT C2
-circulation noun BLOOD C2
-circulation noun NEWSPAPERS C2
-civilian noun C2
-clarity noun C2
-clash verb FIGHT C2
-clash verb COLOUR C2
-clash verb EVENT C2
-clash noun FIGHT C2
-clash noun DIFFERENCE C2
-classical adjective TRADITIONAL C2
-classification noun C2
-clean adjective NO CRIME C2
-cliché noun C2
-clichéd adjective C2
-click verb IDEA C2
-click verb SOUND C2
-click verb PEOPLE C2
-climate noun SITUATION C2
-cling verb HOLD TIGHT C2
-clinical adjective NO EMOTION C2
-close verb END C2
-close adjective CAREFUL C2
-closed adjective NOT ACCEPTING IDEAS C2
-closure noun C2
-cloud verb C2
-clumsiness noun C2
-clutch verb C2
-coastline noun C2
-coherence noun CLEAR C2
-coherence noun SHARED BELIEFS/PURPOSE C2
-coherent adjective CAREFUL THOUGHT C2
-coherent adjective UNDERSTAND C2
-coin verb C2
-coincide verb HAPPEN TOGETHER C2
-coincide verb BE THE SAME C2
-coldness noun TEMPERATURE C2
-coldness noun CHARACTER C2
-collapse verb FAIL C2
-colour noun INTEREST C2
-colour noun SKIN C2
-colour verb AFFECT C2
-combat noun C2
-combat verb C2
-comeback noun C2
-comfort noun ENOUGH MONEY C2
-comfort noun FOR SADNESS C2
-comfort verb C2
-comfortable adjective MONEY C2
-comforting adjective C2
-command noun CONTROL C2
-commander noun C2
-commemorate verb C2
-commence verb C2
-commercial adjective FOR PROFIT C2
-commit verb DECISION C2
-committed adjective C2
-compatible adjective PEOPLE C2
-compatible adjective IDEAS C2
-compensate verb MAKE BETTER C2
-complex noun MENTAL C2
-complexion noun C2
-complexity noun C2
-complication noun MEDICAL PROBLEM C2
-compliment noun PRAISE C2
-complimentary adjective PRAISING C2
-complimentary adjective FREE C2
-composition noun PARTS C2
-composition noun ARRANGEMENT C2
-composition noun WRITING MUSIC C2
-compromise verb HARM C2
-compulsive adjective HABIT C2
-compulsive adjective INTERESTING C2
-conceal verb C2
-concede verb ADMIT C2
-concede verb GIVE C2
-conceited adjective C2
-conceive verb IDEA C2
-conceive verb IMAGINE C2
-conceive verb BABY C2
-concentration noun LARGE AMOUNT C2
-conception noun C2
-concerned adjective AFFECTED C2
-concession noun AGREEMENT C2
-concession noun LOW PRICE C2
-conclusion noun END C2
-conclusive adjective C2
-conclusively adverb C2
-concrete adjective REAL C2
-condemn verb C2
-condition verb C2
-confidence noun TRUST C2
-confine verb C2
-confront verb ACCUSE C2
-confront verb DEAL WITH C2
-confrontation noun C2
-connect verb INVOLVE C2
-conscience noun C2
-consecutive adjective C2
-consensus noun C2
-consent verb C2
-consider verb THINK OF OTHERS C2
-consideration noun KINDNESS C2
-consistent adjective NOT CHANGING C2
-consistently adverb C2
-constant adjective SAME LEVEL C2
-constitution noun HEALTH C2
-constitutional adjective C2
-constrain verb C2
-constraint noun C2
-consultation noun DISCUSSING C2
-consultation noun MEETING C2
-contact noun EYE C2
-contain verb EMOTION C2
-contemplate verb C2
-contempt noun C2
-content noun AMOUNT C2
-continental adjective C2
-continuity noun C2
-contraception noun C2
-contraceptive noun C2
-contract verb AGREEMENT C2
-contract verb DISEASE C2
-contradict verb DIFFERENT C2
-contradiction noun C2
-contradictory adjective C2
-contrary adjective OPPOSITE C2
-contrast verb DIFFERENCE C2
-contrast verb COMPARE C2
-conversion noun C2
-convert verb RELIGION C2
-convict verb C2
-conviction noun CRIME C2
-conviction noun BELIEF C2
-cookie noun C2
-cool adjective UNFRIENDLY C2
-coolness noun CALM C2
-coolness noun UNFRIENDLY C2
-coral noun C2
-core noun IMPORTANT PART C2
-core noun FRUIT C2
-corner noun PLACE C2
-corpse noun C2
-corresponding adjective C2
-counselling noun C2
-counsellor noun C2
-count verb CONSIDER C2
-count verb BE ACCEPTED C2
-count verb INCLUDE C2
-count noun NUMBER C2
-counter noun DISC C2
-coup noun C2
-course noun DEVELOPMENT C2
-courteous adjective C2
-crack noun LINE C2
-crackdown noun C2
-crave verb C2
-craving noun C2
-crawl verb INSECT C2
-craziness noun C2
-credibility noun C2
-creep noun UNPLEASANT C2
-cricket noun INSECT C2
-crisp adjective MATERIAL C2
-crisp adjective WEATHER C2
-critical adjective OPINIONS C2
-cross verb LINE/BORDER C2
-crude adjective WITHOUT SKILL C2
-crude adjective RUDE C2
-crumble verb C2
-crush verb C2
-crush noun CROWD C2
-crush noun LOVE C2
-cry noun ANIMAL/BIRD C2
-crystal noun GLASS C2
-cultivate verb DEVELOP C2
-cunning adjective C2
-curb verb C2
-cushion noun PROTECTION C2
-custody noun CHILD C2
-custody noun PRISON C2
-cutlery noun C2
-cynical adjective C2
-dash noun AMOUNT C2
-dated adjective C2
-dazed adjective C2
-dazzle verb EXTREMELY GOOD C2
-dazzle verb LIGHT C2
-dazzling adjective EXCITING C2
-dazzling adjective BRIGHT C2
-dead adjective QUIET C2
-dead adjective COMPLETE C2
-dead adjective BODY C2
-debate verb C2
-decaffeinated adjective C2
-decay noun C2
-deceased adjective DEAD C2
-deception noun C2
-deceptive adjective C2
-decide verb RESULT C2
-decisively adverb C2
-dedicated adjective FOR PURPOSE C2
-deduce verb C2
-deduction noun FACT C2
-deem verb C2
-deep adjective SERIOUS C2
-deepen verb WORSE/STRONGER C2
-defective adjective C2
-defensive adjective C2
-deficiency noun NOT ENOUGH C2
-definitive adjective C2
-defy verb C2
-delegate verb C2
-delegation noun C2
-delicate adjective ATTRACTIVE C2
-demolish verb PROVE WRONG C2
-demonstrate verb EXPRESS C2
-denial noun C2
-dependence noun C2
-depict verb C2
-deposit noun SUBSTANCE C2
-depressed adjective ECONOMY C2
-depression noun ECONOMY C2
-deprivation noun C2
-depth noun AMOUNT C2
-descendant noun C2
-desperate adjective SERIOUS C2
-desperation noun C2
-detached adjective NOT EMOTIONAL C2
-deterrent noun C2
-detrimental adjective C2
-devastating adjective DESTROYING C2
-devastation noun C2
-develop verb HAPPEN C2
-developer noun LAND C2
-development noun START C2
-devil noun BADLY-BEHAVED PERSON C2
-devise verb C2
-diagnose verb C2
-diagnosis noun C2
-dialect noun C2
-dialogue noun DISCUSSION C2
-diarrhoea noun C2
-dice noun C2
-dice verb C2
-difference noun DISAGREEMENT C2
-differentiate verb MAKE DIFFERENT C2
-dignified adjective C2
-dignity noun C2
-dim adjective NOT BRIGHT C2
-dim verb C2
-diplomacy noun COUNTRIES C2
-diplomacy noun PEOPLE C2
-diplomatic adjective PEOPLE C2
-diplomatically adverb C2
-direction noun DEVELOPMENT C2
-disc noun BACK C2
-discipline noun KNOWLEDGE C2
-disclose verb C2
-discomfort noun PAIN C2
-discomfort noun MENTAL FEELING C2
-discourage verb PREVENT C2
-discreet adjective C2
-discretion noun C2
-discriminate verb NOTICE C2
-disguise verb HIDE C2
-disgust noun C2
-disillusioned adjective C2
-disloyal adjective C2
-dismay noun C2
-disorder noun NOT ORGANIZED C2
-display verb FEELING C2
-disposable adjective C2
-disposable income noun C2
-disposition noun C2
-dispute noun DISAGREEMENT C2
-dispute verb C2
-disqualify verb C2
-disrespectful adjective C2
-disruptive adjective C2
-dissolve verb BECOME LIQUID C2
-distant adjective RELATIVE C2
-distinct adjective HEAR/SEE C2
-distinction noun QUALITY C2
-distress noun DANGER C2
-disturb verb UPSET C2
-disturbance noun FIGHTING C2
-disturbed adjective C2
-disturbing adjective C2
-divert verb CHANGE ROUTE C2
-DNA noun C2
-dominance noun C2
-dominant adjective STRONG C2
-donor noun BLOOD/ORGANS C2
-donor noun MONEY/GOODS C2
-doom noun C2
-doorway noun C2
-downhill adverb TOWARDS BOTTOM C2
-drag verb TIME C2
-drain verb REMOVE LIQUID C2
-drain verb FLOW AWAY C2
-drain verb REDUCE C2
-drain verb MAKE TIRED C2
-drain noun FOR WATER C2
-dread verb C2
-drift verb SITUATION C2
-drive verb MAKE WORK C2
-drought noun C2
-drown verb COVER C2
-dry adjective BORING C2
-dubious adjective NOT TRUE C2
-dubious adjective DOUBTING C2
-due adjective DESERVE C2
-due adjective BEHAVIOUR C2
-dump verb END RELATIONSHIP C2
-dump noun UNTIDY PLACE C2
-dynamic adjective CHANGING C2
-earn verb DESERVE C2
-eccentric adjective C2
-echo verb SOUND C2
-echo verb REPEAT C2
-echo noun SOUND C2
-effectively adverb REALLY C2
-elaborate adjective C2
-elapse verb C2
-elated adjective C2
-electric adjective EXCITING C2
-elimination noun C2
-elusive adjective C2
-embarrass verb C2
-embody verb C2
-embrace verb HOLD C2
-embrace noun C2
-eminent adjective C2
-emit verb C2
-empathy noun C2
-empirical adjective C2
-endeavour noun C2
-endorse verb C2
-endurance noun C2
-engrossed adjective C2
-enjoy verb GOOD SITUATION C2
-enquiry noun OFFICIAL PROCESS C2
-enterprise noun PLAN C2
-entity noun C2
-entrance noun COMING IN C2
-equate verb C2
-eradicate verb C2
-erode verb REMOVE C2
-erode verb DESTROY C2
-erosion noun NEGATIVE EFFECT C2
-erupt verb C2
-escape verb FORGET C2
-escape verb NOT NOTICE C2
-essence noun BASIC QUALITY C2
-essential adjective BASIC C2
-establish verb DECIDE C2
-establish verb DISCOVER C2
-ethical adjective RIGHT/WRONG C2
-ethical adjective GOOD C2
-eventful adjective C2
-eventual adjective C2
-evidence noun LAW C2
-examine verb TEST C2
-excel verb BE GOOD C2
-exceptional adjective UNUSUAL C2
-exclaim verb C2
-execute verb KILL C2
-execute verb DO C2
-exemplify verb C2
-exercise noun MILITARY C2
-exercise verb USE C2
-exhibit verb SHOW FEELINGS C2
-exile noun C2
-expenditure noun C2
-experiment verb DO TESTS C2
-experimental adjective C2
-expire verb C2
-explicit adjective CLEAR C2
-explicit adjective SHOWING SEX C2
-explosive adjective EQUIPMENT C2
-explosive adjective SITUATION C2
-explosive noun C2
-expressive adjective C2
-exquisite adjective C2
-extravagant adjective C2
-extreme adjective OPINIONS C2
-extremist noun C2
-facial adjective C2
-faithful adjective RELATIONSHIP C2
-faithful adjective NOT CHANGED C2
-fake noun COPY C2
-fake noun PERSON C2
-fake verb COPY C2
-fake verb PRETEND C2
-fall verb BE DEFEATED C2
-fall verb BECOME WORSE C2
-fall verb HANG DOWN C2
-famine noun C2
-fanatic noun C2
-fancy verb SURPRISE C2
-faraway adjective LONG DISTANCE C2
-fast adverb FIRMLY C2
-faultless adjective C2
-favour verb C2
-favourable adjective CONDITIONS C2
-favourite noun LIKELY TO WIN C2
-fearful adjective C2
-fearless adjective C2
-feat noun C2
-feature noun NEWSPAPER C2
-feeble adjective WEAK C2
-feeble adjective NOT GOOD C2
-fertile adjective C2
-fever noun EXCITEMENT C2
-fictional adjective C2
-field noun IN RACE/BUSINESS C2
-field noun CONTAINING SUBSTANCE C2
-figure verb THINK C2
-film noun LAYER C2
-filter verb C2
-filter noun C2
-final adjective NO MORE DISCUSSION C2
-fine adjective THIN C2
-finite adjective C2
-fire noun SHOOTING C2
-fireplace noun C2
-firm adjective STRICT C2
-firm adjective STRONG C2
-fist noun C2
-fixed adjective EYES C2
-flair noun STYLE C2
-flash verb APPEAR C2
-flash noun SUDDEN EXPERIENCE C2
-flashback noun MEMORY C2
-flashback noun STORY C2
-flat adjective WITHOUT GAS C2
-flatten verb C2
-flavour noun QUALITY C2
-flawed adjective C2
-flawless adjective C2
-flesh noun BODY C2
-flexible adjective ABLE TO BEND C2
-flood noun AMOUNT C2
-floppy adjective C2
-flourish verb C2
-fluctuate verb C2
-fluid noun C2
-fluid adjective C2
-fly verb TIME C2
-fly verb TAKE/SEND C2
-focus noun C2
-follower noun C2
-force noun INFLUENCE C2
-force verb USE POWER C2
-forceful adjective C2
-foremost adjective C2
-forgery noun COPY C2
-forgery noun CRIME C2
-forgiveness noun C2
-form verb SHAPE C2
-form verb BE C2
-formation noun DEVELOPMENT C2
-formation noun SHAPE C2
-formidable adjective POWERFUL C2
-formidable adjective DIFFICULT C2
-formulate verb PLAN C2
-formulate verb SAY C2
-foul adjective BAD C2
-foul noun C2
-found verb BASE C2
-foundation noun IDEA C2
-founder noun C2
-fraction noun C2
-fragile adjective BREAK C2
-fragile adjective PERSON C2
-fragrance noun C2
-fragrant adjective C2
-frail adjective C2
-framework noun C2
-frantic adjective FAST C2
-frantic adjective WORRIED C2
-fraud noun CRIME C2
-fraud noun TRICK C2
-fraudulent adjective C2
-frenzy noun C2
-fresh adjective SKIN C2
-fringe noun HAIR C2
-fringe noun EDGE C2
-fringe adjective C2
-frontier noun BETWEEN COUNTRIES C2
-frown verb SHOW ANGER C2
-frown noun C2
-fulfilling adjective C2
-fulfilment noun PLEASURE C2
-fulfilment noun SOMETHING DONE C2
-fundamental adjective C2
-fundamentally adverb C2
-further verb C2
-fury noun C2
-fussy adjective NOT LIKING C2
-fussy adjective CAREFUL C2
-future noun WHAT WILL HAPPEN C2
-gain noun SOMETHING OBTAINED C2
-gamble verb RISK MONEY C2
-gamble noun C2
-gang noun FRIENDS C2
-gasp verb MAKE NOISE C2
-gasp verb BREATHE WITH DIFFICULTY C2
-gasp noun C2
-gaze noun C2
-genius noun QUALITY C2
-gesture verb C2
-giant noun ORGANIZATION C2
-giggle verb C2
-glare noun LIGHT C2
-glare noun LOOK C2
-glare verb C2
-glow noun LIGHT C2
-glow noun SKIN C2
-glow verb C2
-glue noun C2
-glue verb STICK C2
-go verb SOUND/MOVEMENT C2
-go verb WORKING C2
-good noun MORALLY RIGHT C2
-goodness noun C2
-grace noun POLITENESS C2
-grace verb C2
-graceful adjective POLITE C2
-grain noun SEED C2
-grain noun PIECE C2
-grain noun QUALITY C2
-grammatical adjective C2
-grasp noun UNDERSTAND C2
-grasp noun HOLD C2
-grasp noun ACHIEVE C2
-greet verb REACT C2
-grim adjective BAD C2
-grim adjective SERIOUS C2
-grim adjective UNPLEASANT C2
-grin verb SMILE C2
-grin noun C2
-grip verb EMOTION C2
-grip verb INTEREST C2
-groan verb C2
-groan noun C2
-grounds noun REASON C2
-grounds noun LAND C2
-guarantee noun PROMISE C2
-gulf noun C2
-guts noun ORGANS C2
-hail noun C2
-hail verb CALL C2
-hail verb ICE C2
-handle verb TOUCH C2
-handy adjective USEFUL C2
-handy adjective NEAR C2
-hang verb IN AIR C2
-harmless adjective NOT UPSETTING C2
-harmony noun MUSIC C2
-harshly adverb C2
-haul verb C2
-haul noun AMOUNT C2
-hazardous adjective C2
-head noun FRONT/TOP C2
-healthy adjective SUCCESSFUL C2
-heap noun PILE C2
-heavy adjective FORCE C2
-heir noun C2
-heritage noun C2
-hesitation noun C2
-hierarchical adjective C2
-hierarchy noun C2
-high adjective DRUGS C2
-high-profile adjective C2
-hinder verb C2
-hit verb THINK C2
-hollow adjective NOTHING INSIDE C2
-hollow adjective WITHOUT MEANING C2
-homelessness noun C2
-hop verb ONE FOOT C2
-hop verb ANIMAL C2
-hopeful adjective GOOD THING WILL HAPPEN C2
-hopelessly adverb C2
-horizon noun C2
-horn noun MUSIC C2
-horrified adjective C2
-horrifying adjective C2
-host noun TELEVISION C2
-hostage noun PERSON C2
-hostility noun C2
-house noun THEATRE C2
-house verb PROVIDE SPACE C2
-house verb GIVE HOME C2
-however conjunction C2
-hum verb C2
-humanitarian adjective C2
-humanity noun KINDNESS C2
-humanity noun BEING HUMAN C2
-humble adjective NOT PROUD C2
-humble adjective POOR C2
-humiliated adjective C2
-humiliating adjective C2
-humility noun C2
-humour noun MOOD C2
-hygienic adjective C2
-hypocrisy noun C2
-hypocritical adjective C2
-hypothesis noun C2
-icily adverb C2
-idle adjective LAZY C2
-idle adjective NOT SERIOUS C2
-idol noun GOD C2
-ignorance noun C2
-ignorant adjective C2
-illiterate adjective C2
-illusion noun FALSE IDEA C2
-illusion noun DIFFERENT C2
-illustration noun EXPLAIN C2
-image noun IDEA C2
-imitation noun C2
-immature adjective C2
-imminent adjective C2
-immortal adjective LIFE C2
-immortal adjective MEMORY C2
-immune adjective C2
-immune system noun C2
-impact noun HITTING C2
-impatience noun C2
-imperative adjective C2
-implementation noun C2
-implication noun SUGGESTION C2
-implication noun INVOLVEMENT C2
-implicit adjective C2
-imply verb NOT DIRECT C2
-imply verb MUST BE TRUE C2
-import noun ACTIVITY C2
-impossibility noun C2
-impossible adjective DIFFICULT C2
-imprisonment noun C2
-impulse noun FEELING C2
-impulsive adjective C2
-in preposition CAUSE C2
-incentive noun C2
-inclination noun C2
-inconceivable adjective C2
-inconsiderate adjective C2
-incorporate verb C2
-incur verb C2
-incurable adjective C2
-indeed adverb MORE C2
-indefinitely adverb C2
-indication noun INTENTION C2
-indicator noun C2
-indifference noun C2
-indifferent adjective C2
-indirect adjective NOT OBVIOUS C2
-indispensable adjective C2
-indisputable adjective C2
-individual noun SPECIAL C2
-individuality noun C2
-indulge verb YOURSELF C2
-indulge verb SOMEONE ELSE C2
-industrious adjective C2
-inequality noun C2
-inexplicable adjective C2
-infancy noun C2
-infant noun C2
-infect verb PLACE/SUBSTANCE C2
-infectious adjective DISEASE C2
-infectious adjective LAUGH C2
-infer verb C2
-inferior noun C2
-inferiority noun C2
-infinite adjective C2
-infinitely adverb C2
-influx noun C2
-inhabit verb C2
-inherent adjective C2
-inherit verb FROM DEAD PERSON C2
-inherit verb QUALITY C2
-inheritance noun C2
-inhibition noun C2
-inhuman adjective C2
-initiate verb C2
-injection noun DRUG C2
-injection noun MONEY C2
-innate adjective C2
-innocence noun NOT EXPERIENCED C2
-innocent adjective NOT INTENDED TO HARM C2
-innumerable adjective C2
-inquiry noun PROCESS C2
-inquiry noun ASKING QUESTIONS C2
-insane adjective ILL C2
-insecure adjective NOT SAFE C2
-insecurity noun C2
-inseparable adjective THINGS C2
-inseparable adjective FRIENDS C2
-inside preposition TIME C2
-insofar as conjunction C2
-insomnia noun C2
-inspection noun EXAMINATION C2
-inspiration noun GOOD IDEA C2
-instinct noun C2
-institution noun TRADITION C2
-instruct verb TEACH C2
-instruction noun TEACHING/TRAINING C2
-instruction noun TELL C2
-instrument noun FOR ACHIEVING SOMETHING C2
-intact adjective C2
-integrity noun C2
-intellect noun C2
-intellectual adjective INTERESTED IN IDEAS C2
-intellectual noun C2
-intellectually adverb C2
-intense adjective SERIOUS C2
-intensely adverb VERY C2
-intensely adverb SERIOUSLY C2
-intensify verb C2
-intensity noun C2
-intent noun PLAN C2
-interest noun ADVANTAGE C2
-interference noun ELECTRONIC SIGNAL C2
-interim adjective C2
-interpretation noun EXPLANATION C2
-interpretation noun STORY/MUSIC C2
-interval noun TIME C2
-intervene verb C2
-intervention noun C2
-intimate adjective PRIVATE C2
-intimate adjective RELATIONSHIP C2
-intimate adjective SMALL C2
-intolerable adjective C2
-intolerance noun C2
-intolerant adjective C2
-intriguing adjective C2
-intrinsic adjective C2
-introduce verb TO AN AUDIENCE C2
-introvert noun C2
-intrude verb C2
-intruder noun CRIME C2
-intruder noun NOT WANTED C2
-intrusion noun C2
-intuition noun C2
-invade verb BECOME INVOLVED C2
-invariably adverb C2
-invasion noun LARGE NUMBERS C2
-invitation noun CAUSE RESULT C2
-invite verb REACTION C2
-ironic adjective C2
-ironically adverb C2
-irony noun SITUATION C2
-irony noun HUMOUR C2
-irrational adjective C2
-irresistible adjective ATTRACTIVE C2
-irresistible adjective STRONG C2
-irreversible adjective C2
-irritable adjective C2
-irritation noun C2
-isolation noun LONELY C2
-issue verb C2
-it pronoun EMPHASIZE C2
-jam verb FILL C2
-joint noun BODY PART C2
-journal noun BOOK C2
-judge verb BAD OPINION C2
-judgment noun ABILITY C2
-juggle verb C2
-juicy adjective EXCITING C2
-justifiable adjective C2
-justification noun C2
-kick noun FEELING C2
-kidney noun C2
-kill verb END C2
-knot noun FASTENING C2
-know verb GUESS CORRECTLY C2
-knowingly adverb INTENTIONALLY C2
-knowingly adverb SHOWING KNOWLEDGE C2
-knuckle noun C2
-label noun WORD C2
-label verb DESCRIBE C2
-labour noun BIRTH C2
-lad noun C2
-laid-back adjective C2
-land noun COUNTRY C2
-land verb ACHIEVE C2
-landmark noun EVENT C2
-late adjective DEAD C2
-later adjective TOWARDS THE END C2
-later adjective RECENT C2
-lavish adjective C2
-law noun ALWAYS TRUE C2
-lead verb BE THE BEST C2
-lead noun FILM/PLAY C2
-leak verb SECRETS C2
-leak noun SECRET C2
-leap noun CHANGE C2
-leave verb PRODUCE SITUATION C2
-leave verb DO LATER C2
-leave verb AFTER DEATH C2
-leave noun C2
-lecture verb C2
-legacy noun MONEY/PROPERTY C2
-legacy noun SITUATION C2
-legislation noun C2
-legitimate adjective REASONABLE C2
-legitimate adjective LEGAL C2
-lenient adjective C2
-lethal adjective C2
-lie verb RESPONSIBILITY/BLAME C2
-life noun ACTIVE PERIOD C2
-lifelong adjective C2
-lifespan noun C2
-likelihood noun C2
-likewise adverb C2
-line noun ROW C2
-line noun BORDER C2
-line noun APPROACH TO SUBJECT C2
-line noun MILITARY C2
-line verb C2
-linen noun CLOTH C2
-linen noun SHEETS ETC. C2
-linger verb C2
-literal adjective C2
-literate adjective C2
-live verb STAY ALIVE C2
-loathe verb C2
-loathing noun C2
-lobby verb C2
-local noun C2
-loft noun C2
-logically adverb C2
-longevity noun C2
-longing noun C2
-long-lasting adjective C2
-long-running adjective C2
-loom verb APPEAR C2
-loom verb WORRY C2
-loose adjective NOT EXACT C2
-loosen verb C2
-loss noun DISADVANTAGE C2
-lucrative adjective C2
-lump noun PIECE C2
-lure verb C2
-lure noun C2
-mainstream adjective C2
-maintain verb SAY SOMETHING IS TRUE C2
-malicious adjective C2
-margin noun DIFFERENCE C2
-margin noun OUTER PART C2
-margin noun PROFIT C2
-marginal adjective C2
-mark verb REPRESENT C2
-market noun BUSINESS C2
-massacre noun C2
-master noun SKILLED PERSON C2
-masterpiece noun C2
-match noun SUITABLE C2
-materialism noun C2
-materialist noun C2
-materialist adjective C2
-materialistic adjective C2
-matter noun TYPE OF THING C2
-maximize verb C2
-mean adjective AVERAGE C2
-means noun MONEY C2
-measure verb JUDGE C2
-measure noun AMOUNT C2
-measurement noun PROCESS C2
-mechanical adjective BEHAVIOUR C2
-medically adverb C2
-medication noun C2
-mediocre adjective C2
-mediocrity noun C2
-medium noun C2
-meet verb ACHIEVE C2
-melody noun C2
-memorial noun C2
-memory noun MIND C2
-merciful adjective C2
-merciless adjective C2
-mercy noun KINDNESS C2
-merely adverb NOT LARGE C2
-merge verb C2
-merger noun C2
-merit verb C2
-metaphor noun C2
-meticulous adjective C2
-mighty adjective C2
-millennium noun C2
-mingle verb MIX C2
-miniature adjective C2
-minute adjective SMALL C2
-minute adjective EXACT C2
-miserable adjective NOT ENOUGH C2
-mishap noun C2
-misinterpret verb C2
-misinterpretation noun C2
-misplace verb C2
-missile noun C2
-mission noun JOB C2
-moan verb COMPLAIN C2
-moan verb SOUND C2
-model noun EXAMPLE C2
-moderate verb LESS EXTREME C2
-moderately adverb C2
-modestly adverb NOT PROUDLY C2
-momentum noun C2
-monetary adjective C2
-monopoly noun C2
-monster noun PERSON C2
-morale noun C2
-mortality noun C2
-motion noun MOVEMENT C2
-motion noun SUGGESTION C2
-mount verb INCREASE C2
-mount verb RIDE C2
-mountain noun PILE C2
-move noun CHANGE OF POSITION C2
-muddle noun C2
-muddled adjective C2
-murmur verb C2
-murmur noun C2
-musically adverb C2
-narrative noun C2
-narrator noun C2
-narrow adjective LIMITED C2
-narrow verb BECOME LESS C2
-native adjective ANIMALS AND PLANTS C2
-naturally adverb FROM BIRTH C2
-naval adjective C2
-near preposition CONDITION C2
-near adjective CHARACTERISTIC C2
-neck noun PART OF CLOTHING C2
-needle noun MEDICAL C2
-needless adjective C2
-negligence noun C2
-negligent adjective C2
-negligible adjective C2
-nerve noun PART OF THE BODY C2
-nerve noun RUDENESS C2
-nerve noun BEING BRAVE C2
-nest noun BIRDS C2
-nest verb C2
-normality noun C2
-nostalgia noun C2
-nostalgic adjective C2
-nostril noun C2
-nosy adjective C2
-note noun MUSIC C2
-novelty noun QUALITY C2
-novelty noun NEW THING C2
-number verb BE AN AMOUNT C2
-nurse verb C2
-obligatory adjective EXPECTED C2
-obscene adjective SEX C2
-obscene adjective TOO LARGE C2
-observant adjective C2
-observe verb OBEY C2
-observer noun C2
-obsessive adjective C2
-occupation noun CONTROL C2
-oddly adverb C2
-odour noun C2
-off adjective STOPPED C2
-offer noun PAYMENT C2
-official adjective JOB/DUTIES C2
-official adjective KNOWN C2
-official adjective NOT TRUE C2
-official noun C2
-off-putting adjective C2
-offset verb C2
-offspring noun C2
-omission noun C2
-on adverb PERFORMING C2
-ongoing adjective C2
-only conjunction C2
-open adjective HONEST C2
-open adjective NOT SECRET C2
-opening noun HOLE C2
-openness noun C2
-optimism noun C2
-ordeal noun C2
-order noun CORRECT BEHAVIOUR C2
-organ noun MUSIC C2
-orientation noun BELIEFS C2
-orientation noun TRAINING C2
-ornament noun C2
-orphan noun C2
-orthodox adjective RELIGION C2
-orthodox adjective IDEA C2
-out adverb FAR AWAY C2
-outbreak noun C2
-outgoing adjective LEAVING A PLACE C2
-outgoings noun C2
-outlet noun SHOP C2
-outlet noun EXPRESS C2
-outline noun SHAPE C2
-outlook noun THINKING C2
-output noun C2
-outrage noun FEELING C2
-outrage noun THING CAUSING SHOCK C2
-over preposition CONTROL C2
-over preposition ABOUT C2
-overboard adverb C2
-overflow verb CONTENTS C2
-overflow verb TOO MANY PEOPLE C2
-overhear verb C2
-overlap verb C2
-overload verb C2
-overload noun C2
-overlook verb NOT NOTICE C2
-overnight adjective, adverb SUDDENLY C2
-pack noun ANIMALS C2
-pact noun C2
-palm noun HAND C2
-panel noun PIECE C2
-paper noun WRITING C2
-paradigm noun C2
-paradox noun C2
-paradoxical adjective C2
-parallel adjective C2
-parallel noun C2
-paramount adjective C2
-part verb SEPARATE C2
-part verb LEAVE C2
-particle noun C2
-pass verb GO AWAY C2
-pass verb BE MORE THAN C2
-pass verb SPORTS C2
-pass noun SPORTS C2
-passage noun PROGRESS C2
-pastime noun C2
-pat verb C2
-patch noun AREA C2
-patch noun MATERIAL C2
-patch noun LAND C2
-patch verb C2
-path noun DIRECTION C2
-pathetic adjective BAD C2
-pathetic adjective SAD C2
-pay verb SUFFER C2
-peel verb COVERING C2
-peer pressure noun C2
-perceive verb NOTICE C2
-perception noun C2
-perceptive adjective C2
-perfect adjective TO EMPHASIZE C2
-perfect verb C2
-perseverance noun C2
-persist verb CONTINUE TO EXIST C2
-persist verb CONTINUE TO DO C2
-persistence noun C2
-persistent adjective C2
-persuasion noun C2
-petty adjective C2
-phenomenal adjective C2
-philosophical adjective PHILOSOPHY C2
-philosophical adjective CALM C2
-physical adjective THINGS C2
-pinpoint verb C2
-pioneer noun C2
-pit noun C2
-pitiful adjective C2
-pity verb C2
-plague noun C2
-plague verb C2
-plain adjective OBVIOUS C2
-plain adjective PERSON C2
-plant verb IDEA/DOUBTS C2
-platform noun FOR OPINIONS C2
-plausible adjective C2
-plea noun C2
-plead verb LEGAL C2
-plead verb ASK C2
-plead verb EXCUSE C2
-plight noun C2
-plot noun LAND C2
-plump adjective C2
-pocket noun MONEY C2
-poetic adjective C2
-point noun QUALITY C2
-point noun DIRECTION C2
-pole noun C2
-ponder verb C2
-pop verb SOUND C2
-popular adjective MANY PEOPLE C2
-portray verb C2
-portrayal noun C2
-posh adjective HIGH CLASS C2
-positive adjective MEDICAL TEST C2
-possession noun HAVE C2
-possessive adjective FEELINGS C2
-practical adjective GOOD AT PLANNING C2
-practice noun ACTIVITY C2
-practitioner noun C2
-pragmatic adjective C2
-precede verb C2
-precedent noun C2
-predecessor noun C2
-predominant adjective C2
-predominantly adverb C2
-premium noun PAYMENT C2
-premium adjective C2
-prescribe verb C2
-presence noun QUALITY C2
-presence noun POLICE/SOLDIERS C2
-presence noun FEELING C2
-present verb INFORMATION C2
-present verb OPPORTUNITY C2
-presentation noun APPEARANCE C2
-press verb PERSUADE C2
-pressure noun FORCE C2
-presumption noun C2
-prevail verb C2
-preventive adjective C2
-prey noun C2
-prime adjective MAIN C2
-principle noun MORAL RULE C2
-print noun LETTERS C2
-privileged adjective OPPORTUNITY C2
-proceedings noun LEGAL C2
-proceedings noun WRITTEN RECORD C2
-procession noun C2
-produce noun C2
-profound adjective VERY GREAT C2
-profound adjective FEELING C2
-profound adjective UNDERSTANDING C2
-profoundly adverb C2
-progress verb CONTINUE C2
-prominent adjective EASY TO SEE C2
-propaganda noun C2
-prosecute verb C2
-prosecution noun C2
-prosecutor noun C2
-prospect noun IDEA C2
-prosper verb C2
-protagonist noun C2
-proverb noun C2
-province noun C2
-provincial adjective C2
-provocation noun C2
-provoke verb C2
-proximity noun C2
-psychiatrist noun C2
-purpose noun INTENTION C2
-pursuit noun C2
-pushy adjective C2
-put verb SAY C2
-puzzle noun SITUATION C2
-quaint adjective C2
-qualification noun SKILLS C2
-quarter noun PART OF TOWN C2
-quest noun C2
-questionable adjective NOT CERTAIN C2
-questionable adjective NOT HONEST C2
-quotation noun PHRASE C2
-quotation noun COST C2
-quote verb COST C2
-quote noun REPEAT C2
-quote noun COST C2
-racist noun C2
-racist adjective C2
-racket noun NOISE C2
-radical adjective BELIEFS C2
-radical noun C2
-rage verb SPEAK C2
-rage verb CONTINUE C2
-raid noun SOLDIERS C2
-raid noun POLICE C2
-raid verb SOLDIERS C2
-raid verb POLICE C2
-rail noun FOR SUPPORTING C2
-rally noun MEETING C2
-rally noun RACE C2
-range noun DISTANCE C2
-rash noun C2
-rash adjective C2
-read verb SIGNS C2
-read noun C2
-readiness noun PREPARED C2
-reading noun EVENT C2
-readjust verb CHANGE BEHAVIOUR C2
-realistically adverb ACCEPTING FACTS C2
-realization noun ACHIEVING C2
-realm noun C2
-reasoning noun C2
-reassurance noun C2
-receptive adjective C2
-reckless adjective C2
-recognition noun ACCEPT C2
-recognition noun HONOUR C2
-recognition noun KNOW C2
-recollect verb C2
-recollection noun C2
-reconcile verb MAKE AGREE C2
-reconstruct verb PAST EVENT C2
-reconstruction noun PAST EVENT C2
-record noun BEHAVIOUR C2
-recovery noun GET BACK C2
-recreational adjective C2
-recruit noun C2
-recur verb C2
-redistribute verb C2
-redundant adjective NOT NEEDED C2
-referendum noun C2
-refine verb C2
-refined adjective POLITE C2
-refined adjective IMPROVED C2
-reflection noun THOUGHT C2
-reform noun C2
-reform verb C2
-refrain verb C2
-refuge noun C2
-regardless adverb C2
-regime noun C2
-register verb SHOW A FEELING C2
-reign verb KING/QUEEN C2
-reign verb MAIN FEELING/QUALITY C2
-reinforce verb OBJECT C2
-rejection noun NOT ACCEPT C2
-rejection noun JOB/COLLEGE C2
-rejection noun PERSON C2
-relate verb CONNECT C2
-relate verb TELL C2
-relentless adjective C2
-relentlessly adverb C2
-relief noun LESS PAIN C2
-relief noun HELP C2
-relieve verb FROM PAIN C2
-relish verb C2
-relish noun ENJOYMENT C2
-relish noun SAUCE C2
-remorse noun C2
-remote adjective TIME C2
-remote adjective SLIGHT C2
-remove verb JOB C2
-render verb CAUSE TO BE C2
-renewable adjective OFFICIAL AGREEMENT C2
-renewal noun REPAIR/IMPROVE C2
-renowned adjective C2
-repair verb IMPROVE C2
-repeated adjective C2
-repetition noun C2
-replace verb PUT BACK C2
-reportedly adverb C2
-represent verb SPEAK/ACT FOR C2
-represent verb SHOW C2
-representation noun SHOWING C2
-representation noun SPEAKING FOR C2
-reproach noun C2
-reproach verb C2
-reproduce verb PRODUCE YOUNG C2
-reproduction noun YOUNG C2
-resemblance noun C2
-resent verb C2
-resentment noun C2
-reservation noun DOUBT C2
-reserve noun SUPPLY C2
-reserved adjective C2
-residence noun BUILDING C2
-residential adjective COURSE/JOB C2
-resignation noun LEAVE JOB C2
-resignation noun ACCEPT C2
-resilience noun C2
-resilient adjective C2
-resistance noun DISAGREE C2
-resistance noun FIGHT C2
-resistance noun ORGANIZATION C2
-resistance noun ILLNESS C2
-resolution noun DECISION C2
-resolution noun PROMISE C2
-resolution noun SOLUTION C2
-resolve noun C2
-resourceful adjective C2
-respectable adjective ENOUGH C2
-respectfully adverb C2
-restless adjective NOT SATISFIED C2
-restraint noun C2
-restriction noun RULE C2
-restrictive adjective C2
-restructure verb C2
-retailer noun C2
-retain verb C2
-retention noun C2
-retreat verb C2
-retreat noun MOVE C2
-retreat noun PLACE C2
-retrieve verb C2
-reunion noun C2
-reveal verb SEE C2
-revelation noun C2
-reversal noun C2
-reverse noun VEHICLE C2
-reversible adjective CAN BE CHANGED C2
-reversible adjective CLOTHES C2
-review noun PROCESS C2
-revival noun C2
-revive verb C2
-revolt verb AGAINST C2
-rhyme verb C2
-rhyme noun POEM C2
-rhyme noun STYLE C2
-ribbon noun C2
-riches noun C2
-right adverb ALL C2
-right-wing adjective C2
-rigid adjective C2
-riot verb C2
-ritual noun C2
-rival verb C2
-rivalry noun C2
-roar verb MAKE NOISE C2
-roar verb SHOUT C2
-roar noun C2
-rock verb C2
-rocket noun WEAPON C2
-rocky adjective RELATIONSHIP C2
-romantic adjective IDEAS C2
-rosy adjective PINK C2
-rosy adjective POSITIVE C2
-rot verb C2
-roughly adverb FORCEFULLY C2
-roughly adverb WITHOUT CARE C2
-round noun DRINKS C2
-round noun EVENTS C2
-route noun METHOD C2
-routine adjective BORING C2
-ruin noun LOSING EVERYTHING C2
-rule noun LEADER C2
-ruling noun C2
-running noun CONTROL C2
-rush noun ACTIVITY C2
-rush noun MOVEMENT C2
-ruthless adjective C2
-sacred adjective IMPORTANT C2
-sadden verb C2
-saddle noun C2
-saddle verb C2
-sail noun MATERIAL C2
-sample noun EXAMINE C2
-sample verb EXPERIENCE C2
-sanction noun C2
-sane adjective C2
-sarcastic adjective C2
-saying noun C2
-scan verb LOOK C2
-scan noun C2
-scar verb C2
-scarcely adverb C2
-scarcity noun C2
-scattered adjective C2
-scenario noun C2
-scene noun ARGUMENT C2
-sceptical adjective C2
-schooling noun C2
-scope noun OPPORTUNITY C2
-scrap noun SMALL PIECE C2
-scrap noun OLD C2
-scrap verb C2
-script noun LETTERS C2
-scruffy adjective C2
-scrutiny noun C2
-seal verb CLOSE ENTRANCE C2
-seal verb CLOSE LETTER C2
-seat noun POLITICS C2
-secluded adjective C2
-second noun PRODUCT C2
-secure adjective NOT FAIL C2
-security noun CONFIDENCE C2
-sedentary adjective C2
-seduce verb SEX C2
-seduce verb PERSUADE C2
-see verb BELIEVE C2
-seek verb TRY TO DO C2
-seize verb PLACE C2
-self-assurance noun C2
-self-assured adjective C2
-self-awareness noun C2
-self-control noun C2
-self-discipline noun C2
-self-made adjective C2
-self-reliance noun C2
-self-reliant adjective C2
-self-respect noun C2
-self-sufficient adjective C2
-sell verb IDEA/PLAN C2
-send verb MAKE HAPPEN C2
-sensational adjective EXCITING C2
-sense verb C2
-senseless adjective C2
-sensibility noun C2
-sentiment noun C2
-sentimental adjective FEELING C2
-sentimental adjective VALUE C2
-sequence noun SERIES C2
-sequence noun ORDER C2
-serene adjective C2
-serenity noun C2
-serve verb PRISON C2
-set adjective C2
-settle verb PAY C2
-settlement noun ARRANGEMENT C2
-settlement noun PLACE C2
-severity noun C2
-shabby adjective UNFAIR C2
-shade noun COVER C2
-shake verb VOICE C2
-shaken adjective C2
-shallow adjective NOT SERIOUS C2
-shape verb C2
-share noun BUSINESS C2
-sharpen verb MAKE SHARP C2
-sharpen verb MAKE BETTER C2
-shattered adjective UPSET C2
-shattered adjective TIRED C2
-sheer adjective STEEP C2
-shield noun OBJECT C2
-shine verb DO WELL C2
-shine verb EYES/FACE C2
-shock noun ELECTRICITY C2
-shock noun MOVEMENT C2
-short-sighted adjective SIGHT C2
-short-sighted adjective THINKING C2
-shrewd adjective C2
-shrug verb C2
-shudder verb C2
-sibling noun C2
-sick adjective CRUEL C2
-side noun SPORT C2
-side noun RELATIVES C2
-side noun BODY C2
-side effect noun RESULT C2
-sideways adverb, adjective C2
-signal verb C2
-silence noun NO TALKING C2
-simplification noun C2
-sin noun RELIGION C2
-sin noun MORALLY WRONG C2
-sincerity noun C2
-sip noun C2
-siren noun C2
-sketch noun DESCRIPTION C2
-skull noun C2
-slap noun C2
-slaughter noun C2
-slender adjective C2
-slice noun PART C2
-slim adjective SMALL C2
-slip verb OUT OF POSITION C2
-slow verb C2
-smoky adjective C2
-smooth adjective MOVEMENT C2
-smoothly adverb WITHOUT SUDDEN MOVEMENTS C2
-snap verb BREAK C2
-snap verb SPEAK ANGRILY C2
-snap verb LOSE CONTROL C2
-snatch verb C2
-sniff verb MAKE A NOISE C2
-sniff verb SMELL C2
-snob noun C2
-snobbish adjective C2
-soar verb INCREASE C2
-soar verb IN THE SKY C2
-sober adjective NOT DRUNK C2
-sober adjective SERIOUS C2
-sober adjective NOT BRIGHT C2
-socialism noun C2
-solid adjective CERTAIN C2
-solitary adjective ONLY C2
-solitary adjective DONE ALONE C2
-soothing adjective C2
-sorrow noun C2
-spade noun C2
-spark noun FIRE C2
-spark noun START C2
-spark verb C2
-sparsely adverb C2
-specimen noun C2
-spectrum noun COLOURS C2
-speculate verb C2
-spending noun C2
-spice noun EXCITEMENT C2
-spiritually adverb C2
-spit verb C2
-spite noun FEELING C2
-splash noun DROP OF LIQUID C2
-splendour noun C2
-split verb COME APART C2
-split verb DISAGREE C2
-spotless adjective C2
-spotlight noun C2
-spouse noun C2
-spread verb SURFACE C2
-spread verb TIME C2
-sprinkle verb C2
-spur verb C2
-squad noun C2
-squander verb C2
-squeak verb C2
-squeaky adjective SOUND C2
-stable noun C2
-stagger verb C2
-stain verb MARK C2
-stain verb DAMAGE C2
-stamp verb FOOT C2
-stance noun C2
-stand verb STATE C2
-stand verb ELECTION C2
-stand noun FURNITURE C2
-standard noun BEHAVIOUR C2
-standpoint noun C2
-stardom noun C2
-start noun ADVANTAGE C2
-starvation noun C2
-statement noun MONEY C2
-stereotypical adjective C2
-stern adjective C2
-stiff adjective FORMAL C2
-stiff adjective SEVERE C2
-still adjective WATER/AIR C2
-stimulus noun C2
-stir verb MOVE C2
-stir verb FEEL C2
-stitch noun THREAD C2
-stitch noun WOUND C2
-stone noun SEED C2
-story noun EXPLANATION C2
-strain noun INJURY C2
-strain verb MONEY C2
-strand noun THREAD C2
-strand noun PART OF STORY C2
-stranded adjective C2
-strap noun C2
-strategically adverb C2
-straw noun TUBE C2
-strength noun INFLUENCE C2
-strenuous adjective C2
-strict adjective EXACT C2
-strike verb EFFECT C2
-striker noun FOOTBALL PLAYER C2
-strive verb C2
-stroke noun MOVEMENT C2
-structural adjective C2
-structure noun BUILDING C2
-structure verb C2
-structured adjective C2
-struggle verb TRY TO DEFEAT/PREVENT C2
-stubbornness noun C2
-stumble verb FALL C2
-stumble verb PAUSE C2
-stunned adjective C2
-stupidity noun C2
-subconsciously adverb C2
-subject adjective STORY/PAINTING C2
-submit verb OBEY C2
-subtle adjective NOT OBVIOUS C2
-subtle adjective NOT STRONG C2
-subtle adjective CLEVER C2
-successive adjective C2
-successor noun THING C2
-succumb verb NOT STOP C2
-succumb verb SUFFER C2
-such pronoun C2
-suck verb C2
-sufferer noun C2
-summit noun MEETING C2
-summon verb ORDER C2
-summon verb HELP C2
-summon verb C2
-superficial adjective NOT SERIOUS C2
-superficial adjective NOT COMPLETE C2
-superficially adverb C2
-superfluous adjective C2
-superior adjective OPINION C2
-superiority noun BETTER C2
-superiority noun OPINION C2
-supplement noun C2
-supplement verb C2
-supplementary adjective C2
-support verb HOLD C2
-suppress verb FEELINGS C2
-suppress verb INFORMATION C2
-suppress verb FIGHT C2
-surpass verb C2
-surplus noun C2
-surrender verb C2
-surround verb CONNECTED WITH C2
-suspect verb NOT TRUST C2
-suspense noun C2
-sustain verb CONTINUE C2
-sustain verb SUPPORT C2
-sustainability noun C2
-swallow verb ACCEPT C2
-swear verb TRUE C2
-swift adjective C2
-swiftly adverb C2
-syllabus noun C2
-symbolic adjective C2
-sympathetic adjective IDEAS C2
-sympathize verb PROBLEMS C2
-sympathize verb IDEAS C2
-sympathy noun IDEAS C2
-symptom noun PROBLEM C2
-synonym noun C2
-synonymous adjective CONNECTED C2
-synonymous adjective WORD C2
-system noun BODY C2
-systematic adjective C2
-systematically adverb C2
-tact noun C2
-tactful adjective C2
-tactless adjective C2
-take verb UNDERSTAND C2
-take verb MEASURE C2
-take verb NEED A QUALITY C2
-talk noun PEOPLE C2
-talks noun C2
-tangible adjective C2
-tank noun CONTAINER C2
-target verb C2
-tasteful adjective C2
-tasteless adjective UGLY C2
-tasteless adjective OFFENSIVE C2
-taxpayer noun C2
-technically adverb DETAIL C2
-tenant noun C2
-tender adjective GENTLE C2
-tender adjective FOOD C2
-tenderness noun C2
-territorial adjective C2
-territory noun AREA OF KNOWLEDGE C2
-testify verb C2
-theoretical adjective NOT PROVED C2
-theoretical adjective IDEAS C2
-theoretically adverb C2
-theory noun PRINCIPLES C2
-thereafter adverb C2
-thesis noun IDEA C2
-thinker noun C2
-thought noun CARE C2
-thoughtful adjective QUIET C2
-thoughtfully adverb C2
-thoughtless adjective C2
-thread noun MATERIAL C2
-thread noun CONNECTION C2
-thread noun INTERNET C2
-threat noun POSSIBILITY C2
-threaten verb HAPPEN C2
-threshold noun LEVEL C2
-thrill verb C2
-thriving adjective C2
-throne noun FOR KING/QUEEN C2
-tick verb CLOCK C2
-tie verb COMPETITION/GAME C2
-tight adjective STRAIGHT C2
-tight adverb STRAIGHT C2
-timber noun WOOD FOR BUILDING C2
-timber noun PIECE OF WOOD C2
-time verb DECIDE WHEN C2
-timid adjective C2
-tin noun METAL C2
-tip noun UNTIDY PLACE C2
-tip verb FALL C2
-tip verb ONE SIDE HIGHER C2
-tire verb BECOME TIRED C2
-tiresome adjective C2
-title noun SPORTS C2
-toddler noun C2
-together adverb IN ONE PLACE C2
-tolerance noun C2
-tolerate verb DEAL WITH C2
-toll noun NUMBER C2
-tomorrow noun FUTURE C2
-tone noun MOOD C2
-top verb MOST IMPORTANT C2
-torrential adjective C2
-torture noun CAUSING PAIN C2
-torture verb C2
-totalitarian adjective C2
-touch noun SMALL DETAIL C2
-tough adjective SEVERE C2
-tough adjective STRONG C2
-tough adjective UNFAIR C2
-toughness noun C2
-track noun DEVELOPMENT C2
-track verb FOLLOW C2
-track verb RECORD C2
-tractor noun C2
-trader noun C2
-traffic noun PLANES AND SHIPS C2
-tragically adverb C2
-trail noun MARKS C2
-trail verb LOWER SCORE C2
-trait noun C2
-tranquility noun C2
-transition noun C2
-translate verb CAUSE C2
-transmission noun BROADCAST C2
-transmission noun SPREADING C2
-transmit verb SPREAD C2
-transplant noun C2
-trash noun C2
-trauma noun C2
-traumatic adjective C2
-tread verb C2
-treasure noun VALUABLE OBJECT C2
-treasure verb C2
-treat noun C2
-treaty noun C2
-tribal adjective C2
-tribute noun C2
-trilogy noun C2
-trio noun C2
-triumph noun FEELING C2
-troops noun C2
-trouble noun NOT WORKING C2
-troublesome adjective C2
-true adjective SINCERE C2
-truth noun TRUE FACT C2
-try verb LAW C2
-turbulent adjective C2
-turmoil noun C2
-turnover noun EMPLOYEES C2
-twist verb TURN C2
-twist verb TURN YOUR BODY C2
-twist verb CHANGE MEANING C2
-twisted adjective STRANGE C2
-ugly adjective SITUATION C2
-ultimately adverb EMPHASIS C2
-unaffected adjective C2
-unanimous adjective C2
-unanimously adverb C2
-unattainable adjective C2
-unavoidably adverb C2
-unbalanced adjective MENTALLY ILL C2
-unbalanced adjective NOT FAIR C2
-unbiased adjective C2
-unconditional adjective C2
-unconscious adjective NOT AWARE C2
-unconsciously adverb C2
-undeniably adverb C2
-underdeveloped adjective C2
-underlying adjective C2
-undermine verb C2
-understanding noun AGREEMENT C2
-undertaking noun C2
-underway adjective HAPPENING C2
-undesirable adjective C2
-undeveloped adjective C2
-undoubted adjective C2
-undue adjective C2
-unethical adjective C2
-uneven adjective C2
-uneventful adjective C2
-unfavourable adjective CRITICIZING C2
-unfavourable adjective NOT GOOD C2
-unfold verb DEVELOP C2
-unimaginable adjective C2
-uninhabited adjective C2
-unlike preposition NOT TYPICAL C2
-unlikely adjective NOT TRUE C2
+able adjective CLEVER 2.0
+above adverb, preposition TOO IMPORTANT 2.0
+abrupt adjective SUDDEN 2.0
+abrupt adjective RUDE 2.0
+abruptly adverb 2.0
+abuse noun LANGUAGE 2.0
+abusive adjective 2.0
+academic adjective CLEVER 2.0
+accelerate verb VEHICLE 2.0
+accessible adjective UNDERSTAND 2.0
+accompany verb MUSIC 2.0
+accountable adjective 2.0
+accumulation noun 2.0
+acre noun 2.0
+act noun FALSE BEHAVIOUR 2.0
+action noun FIGHTING 2.0
+action noun PROCESS 2.0
+address verb SPEAK 2.0
+address verb BUILDING DETAILS 2.0
+adjacent adjective 2.0
+adolescent noun 2.0
+advocate verb 2.0
+advocate noun 2.0
+affectionate adjective 2.0
+after preposition NAMED FOR 2.0
+age noun OLD 2.0
+agenda noun IMPORTANT SUBJECTS 2.0
+ahead adjective MORE PROGRESS 2.0
+air noun QUALITY 2.0
+alarm noun WORRY 2.0
+albeit conjunction 2.0
+alcoholic adjective PERSON 2.0
+alcoholic noun 2.0
+alert verb 2.0
+alive adjective PLACE 2.0
+alive adjective CONTINUING 2.0
+allege verb 2.0
+allegedly adverb 2.0
+alliance noun 2.0
+allied adjective 2.0
+allocation noun SHARE 2.0
+allocation noun PROCESS 2.0
+allow verb NOT PREVENT 2.0
+ally noun COUNTRY 2.0
+alone adjective, adverb ONLY ONE 2.0
+ambiguity noun 2.0
+ambiguous adjective 2.0
+amend verb 2.0
+amid preposition AMONG 2.0
+analogous adjective 2.0
+analogy noun 2.0
+anchor noun BOAT 2.0
+anchor noun SUPPORT 2.0
+anchor verb BOAT 2.0
+anchor verb FASTEN 2.0
+animated adjective EXCITEMENT 2.0
+anonymous adjective 2.0
+antibiotic noun 2.0
+anticipation noun WAITING 2.0
+apologetic adjective 2.0
+appalling adjective SHOCKING 2.0
+applaud verb PRAISE 2.0
+application noun USE 2.0
+appointment noun JOB 2.0
+appreciate verb UNDERSTAND 2.0
+arbitrary adjective 2.0
+arch noun 2.0
+arch verb 2.0
+arid adjective 2.0
+arm noun CHAIR 2.0
+army noun ORGANIZED GROUP 2.0
+around adverb EXISTING 2.0
+arouse verb 2.0
+arrival noun BECOME AVAILABLE 2.0
+artificial adjective NOT SINCERE 2.0
+artificial intelligence noun 2.0
+aspiration noun 2.0
+assault noun 2.0
+assault verb 2.0
+assemble verb GROUP 2.0
+assemble verb BUILD 2.0
+assembly noun GROUP 2.0
+assembly noun BUILD 2.0
+assertive adjective 2.0
+association noun CONNECTION 2.0
+assurance noun CONFIDENCE 2.0
+astronomy noun 2.0
+attach verb INCLUDE 2.0
+attachment noun FEELING 2.0
+attack verb DISEASE 2.0
+attack noun CRITICISM 2.0
+attainable adjective 2.0
+attraction noun FEELING 2.0
+attribute noun 2.0
+automatic adjective PERSON 2.0
+automatic adjective CERTAIN 2.0
+avenue noun POSSIBILITY 2.0
+away adverb CONTINUOUS ACTION 2.0
+awe noun 2.0
+awesome adjective SPECIAL 2.0
+awkward adjective NOT ATTRACTIVE 2.0
+back verb SUPPORT 2.0
+backing noun 2.0
+backward adjective 2.0
+baggage noun FEELINGS 2.0
+balcony noun THEATRE 2.0
+band noun CIRCLE 2.0
+bar noun PREVENTING SUCCESS 2.0
+bare adjective BASIC 2.0
+bare adjective EMPTY 2.0
+bark verb SHOUT 2.0
+bark noun TREE 2.0
+barn noun 2.0
+base noun MAIN PLACE 2.0
+base noun MAIN PART 2.0
+battle noun ARGUMENT 2.0
+battle verb 2.0
+bear verb HAVE CHILD 2.0
+beat verb SOUND 2.0
+bed noun BOTTOM 2.0
+bed noun GROUND 2.0
+before preposition IMPORTANCE 2.0
+behind preposition NOT AFFECTING 2.0
+belief noun EFFECTIVE 2.0
+below adverb, preposition RANK 2.0
+beneath preposition NOT GOOD ENOUGH 2.0
+bet noun RISK 2.0
+beyond adverb TIME 2.0
+bias noun 2.0
+bid noun ATTEMPT 2.0
+bid noun BUY 2.0
+bid verb 2.0
+bind verb TIE 2.0
+bind verb UNITE 2.0
+blackmail noun 2.0
+blackmail verb 2.0
+bland adjective NO TASTE 2.0
+bland adjective BORING 2.0
+blank adjective NO FEELING 2.0
+blanket noun LAYER 2.0
+bleak adjective NO HOPE 2.0
+bleak adjective COLD 2.0
+blend noun 2.0
+blindness noun NOT NOTICING 2.0
+blister noun 2.0
+block noun STOP PROGRESS 2.0
+block verb STOP PROGRESS 2.0
+blood noun FAMILY ORIGIN 2.0
+bloody adjective ANGER 2.0
+blow verb SOUND 2.0
+blow noun HIT 2.0
+blow noun BAD EVENT 2.0
+blue adjective SAD 2.0
+blunt adjective NOT SHARP 2.0
+blunt adjective RUDE 2.0
+boast verb HAVE 2.0
+body noun GROUP 2.0
+bomber noun AIRCRAFT 2.0
+bond verb 2.0
+bow noun MUSIC 2.0
+brass noun MUSIC 2.0
+break verb BECOME KNOWN 2.0
+break verb STORM 2.0
+break verb WEATHER 2.0
+break noun OPPORTUNITY 2.0
+breakdown noun EXPLANATION 2.0
+bribery noun 2.0
+bridge noun CONNECTION 2.0
+broadminded adjective 2.0
+bronze noun METAL 2.0
+bronze adjective METAL 2.0
+bronze adjective COLOUR 2.0
+bubble verb LIQUID 2.0
+bundle noun TIED GROUP 2.0
+bureaucracy noun RULES 2.0
+bureaucracy noun GOVERNMENT 2.0
+burial noun 2.0
+buzz noun EXCITEMENT 2.0
+buzz noun SOUND 2.0
+buzz verb SOUND 2.0
+buzz verb ENERGY 2.0
+cabin noun SHIP 2.0
+calf noun LEG 2.0
+capitalism noun 2.0
+capitalist adjective 2.0
+care noun WORRY 2.0
+career noun TIME 2.0
+carefree adjective 2.0
+cargo noun 2.0
+carriage noun WITH HORSE 2.0
+carrot noun REWARD 2.0
+carry verb HAVE 2.0
+carry verb SUPPORT 2.0
+carve verb 2.0
+case noun ILLNESS 2.0
+case noun ARGUMENT 2.0
+casserole noun FOOD 2.0
+casserole noun CONTAINER 2.0
+cast verb ACTORS 2.0
+cast verb LIGHT 2.0
+casual adjective WORK 2.0
+casualty noun INJURED 2.0
+casualty noun HOSPITAL 2.0
+catastrophe noun 2.0
+catch verb STICK 2.0
+cause noun REASON FOR 2.0
+caution verb 2.0
+ceiling noun AMOUNT 2.0
+central adjective IMPORTANT 2.0
+centre noun POLITICAL 2.0
+certainty noun SURE THING 2.0
+challenge noun DISAGREEMENT 2.0
+champion noun SUPPORT 2.0
+chancellor noun GOVERNMENT 2.0
+chancellor noun MONEY 2.0
+channel noun COMMUNICATION 2.0
+channel verb 2.0
+chapel noun 2.0
+character noun PERSON 2.0
+characteristic adjective 2.0
+charisma noun 2.0
+charismatic adjective 2.0
+charity noun KINDNESS 2.0
+charm noun LUCKY 2.0
+charm verb 2.0
+chase verb TRY 2.0
+cheer noun 2.0
+cheerfulness noun 2.0
+chest noun BOX 2.0
+chill noun COLD 2.0
+chill noun FEAR 2.0
+chronic adjective 2.0
+circle verb MOVE 2.0
+circuit noun TRACK 2.0
+circuit noun ELECTRIC 2.0
+circuit noun EVENTS 2.0
+circular adjective ARGUMENT 2.0
+circulation noun BLOOD 2.0
+circulation noun NEWSPAPERS 2.0
+civilian noun 2.0
+clarity noun 2.0
+clash verb FIGHT 2.0
+clash verb COLOUR 2.0
+clash verb EVENT 2.0
+clash noun FIGHT 2.0
+clash noun DIFFERENCE 2.0
+classical adjective TRADITIONAL 2.0
+classification noun 2.0
+clean adjective NO CRIME 2.0
+cliché noun 2.0
+clichéd adjective 2.0
+click verb IDEA 2.0
+click verb SOUND 2.0
+click verb PEOPLE 2.0
+climate noun SITUATION 2.0
+cling verb HOLD TIGHT 2.0
+clinical adjective NO EMOTION 2.0
+close verb END 2.0
+close adjective CAREFUL 2.0
+closed adjective NOT ACCEPTING IDEAS 2.0
+closure noun 2.0
+cloud verb 2.0
+clumsiness noun 2.0
+clutch verb 2.0
+coastline noun 2.0
+coherence noun CLEAR 2.0
+coherence noun SHARED BELIEFS/PURPOSE 2.0
+coherent adjective CAREFUL THOUGHT 2.0
+coherent adjective UNDERSTAND 2.0
+coin verb 2.0
+coincide verb HAPPEN TOGETHER 2.0
+coincide verb BE THE SAME 2.0
+coldness noun TEMPERATURE 2.0
+coldness noun CHARACTER 2.0
+collapse verb FAIL 2.0
+colour noun INTEREST 2.0
+colour noun SKIN 2.0
+colour verb AFFECT 2.0
+combat noun 2.0
+combat verb 2.0
+comeback noun 2.0
+comfort noun ENOUGH MONEY 2.0
+comfort noun FOR SADNESS 2.0
+comfort verb 2.0
+comfortable adjective MONEY 2.0
+comforting adjective 2.0
+command noun CONTROL 2.0
+commander noun 2.0
+commemorate verb 2.0
+commence verb 2.0
+commercial adjective FOR PROFIT 2.0
+commit verb DECISION 2.0
+committed adjective 2.0
+compatible adjective PEOPLE 2.0
+compatible adjective IDEAS 2.0
+compensate verb MAKE BETTER 2.0
+complex noun MENTAL 2.0
+complexion noun 2.0
+complexity noun 2.0
+complication noun MEDICAL PROBLEM 2.0
+compliment noun PRAISE 2.0
+complimentary adjective PRAISING 2.0
+complimentary adjective FREE 2.0
+composition noun PARTS 2.0
+composition noun ARRANGEMENT 2.0
+composition noun WRITING MUSIC 2.0
+compromise verb HARM 2.0
+compulsive adjective HABIT 2.0
+compulsive adjective INTERESTING 2.0
+conceal verb 2.0
+concede verb ADMIT 2.0
+concede verb GIVE 2.0
+conceited adjective 2.0
+conceive verb IDEA 2.0
+conceive verb IMAGINE 2.0
+conceive verb BABY 2.0
+concentration noun LARGE AMOUNT 2.0
+conception noun 2.0
+concerned adjective AFFECTED 2.0
+concession noun AGREEMENT 2.0
+concession noun LOW PRICE 2.0
+conclusion noun END 2.0
+conclusive adjective 2.0
+conclusively adverb 2.0
+concrete adjective REAL 2.0
+condemn verb 2.0
+condition verb 2.0
+confidence noun TRUST 2.0
+confine verb 2.0
+confront verb ACCUSE 2.0
+confront verb DEAL WITH 2.0
+confrontation noun 2.0
+connect verb INVOLVE 2.0
+conscience noun 2.0
+consecutive adjective 2.0
+consensus noun 2.0
+consent verb 2.0
+consider verb THINK OF OTHERS 2.0
+consideration noun KINDNESS 2.0
+consistent adjective NOT CHANGING 2.0
+consistently adverb 2.0
+constant adjective SAME LEVEL 2.0
+constitution noun HEALTH 2.0
+constitutional adjective 2.0
+constrain verb 2.0
+constraint noun 2.0
+consultation noun DISCUSSING 2.0
+consultation noun MEETING 2.0
+contact noun EYE 2.0
+contain verb EMOTION 2.0
+contemplate verb 2.0
+contempt noun 2.0
+content noun AMOUNT 2.0
+continental adjective 2.0
+continuity noun 2.0
+contraception noun 2.0
+contraceptive noun 2.0
+contract verb AGREEMENT 2.0
+contract verb DISEASE 2.0
+contradict verb DIFFERENT 2.0
+contradiction noun 2.0
+contradictory adjective 2.0
+contrary adjective OPPOSITE 2.0
+contrast verb DIFFERENCE 2.0
+contrast verb COMPARE 2.0
+conversion noun 2.0
+convert verb RELIGION 2.0
+convict verb 2.0
+conviction noun CRIME 2.0
+conviction noun BELIEF 2.0
+cookie noun 2.0
+cool adjective UNFRIENDLY 2.0
+coolness noun CALM 2.0
+coolness noun UNFRIENDLY 2.0
+coral noun 2.0
+core noun IMPORTANT PART 2.0
+core noun FRUIT 2.0
+corner noun PLACE 2.0
+corpse noun 2.0
+corresponding adjective 2.0
+counselling noun 2.0
+counsellor noun 2.0
+count verb CONSIDER 2.0
+count verb BE ACCEPTED 2.0
+count verb INCLUDE 2.0
+count noun NUMBER 2.0
+counter noun DISC 2.0
+coup noun 2.0
+course noun DEVELOPMENT 2.0
+courteous adjective 2.0
+crack noun LINE 2.0
+crackdown noun 2.0
+crave verb 2.0
+craving noun 2.0
+crawl verb INSECT 2.0
+craziness noun 2.0
+credibility noun 2.0
+creep noun UNPLEASANT 2.0
+cricket noun INSECT 2.0
+crisp adjective MATERIAL 2.0
+crisp adjective WEATHER 2.0
+critical adjective OPINIONS 2.0
+cross verb LINE/BORDER 2.0
+crude adjective WITHOUT SKILL 2.0
+crude adjective RUDE 2.0
+crumble verb 2.0
+crush verb 2.0
+crush noun CROWD 2.0
+crush noun LOVE 2.0
+cry noun ANIMAL/BIRD 2.0
+crystal noun GLASS 2.0
+cultivate verb DEVELOP 2.0
+cunning adjective 2.0
+curb verb 2.0
+cushion noun PROTECTION 2.0
+custody noun CHILD 2.0
+custody noun PRISON 2.0
+cutlery noun 2.0
+cynical adjective 2.0
+dash noun AMOUNT 2.0
+dated adjective 2.0
+dazed adjective 2.0
+dazzle verb EXTREMELY GOOD 2.0
+dazzle verb LIGHT 2.0
+dazzling adjective EXCITING 2.0
+dazzling adjective BRIGHT 2.0
+dead adjective QUIET 2.0
+dead adjective COMPLETE 2.0
+dead adjective BODY 2.0
+debate verb 2.0
+decaffeinated adjective 2.0
+decay noun 2.0
+deceased adjective DEAD 2.0
+deception noun 2.0
+deceptive adjective 2.0
+decide verb RESULT 2.0
+decisively adverb 2.0
+dedicated adjective FOR PURPOSE 2.0
+deduce verb 2.0
+deduction noun FACT 2.0
+deem verb 2.0
+deep adjective SERIOUS 2.0
+deepen verb WORSE/STRONGER 2.0
+defective adjective 2.0
+defensive adjective 2.0
+deficiency noun NOT ENOUGH 2.0
+definitive adjective 2.0
+defy verb 2.0
+delegate verb 2.0
+delegation noun 2.0
+delicate adjective ATTRACTIVE 2.0
+demolish verb PROVE WRONG 2.0
+demonstrate verb EXPRESS 2.0
+denial noun 2.0
+dependence noun 2.0
+depict verb 2.0
+deposit noun SUBSTANCE 2.0
+depressed adjective ECONOMY 2.0
+depression noun ECONOMY 2.0
+deprivation noun 2.0
+depth noun AMOUNT 2.0
+descendant noun 2.0
+desperate adjective SERIOUS 2.0
+desperation noun 2.0
+detached adjective NOT EMOTIONAL 2.0
+deterrent noun 2.0
+detrimental adjective 2.0
+devastating adjective DESTROYING 2.0
+devastation noun 2.0
+develop verb HAPPEN 2.0
+developer noun LAND 2.0
+development noun START 2.0
+devil noun BADLY-BEHAVED PERSON 2.0
+devise verb 2.0
+diagnose verb 2.0
+diagnosis noun 2.0
+dialect noun 2.0
+dialogue noun DISCUSSION 2.0
+diarrhoea noun 2.0
+dice noun 2.0
+dice verb 2.0
+difference noun DISAGREEMENT 2.0
+differentiate verb MAKE DIFFERENT 2.0
+dignified adjective 2.0
+dignity noun 2.0
+dim adjective NOT BRIGHT 2.0
+dim verb 2.0
+diplomacy noun COUNTRIES 2.0
+diplomacy noun PEOPLE 2.0
+diplomatic adjective PEOPLE 2.0
+diplomatically adverb 2.0
+direction noun DEVELOPMENT 2.0
+disc noun BACK 2.0
+discipline noun KNOWLEDGE 2.0
+disclose verb 2.0
+discomfort noun PAIN 2.0
+discomfort noun MENTAL FEELING 2.0
+discourage verb PREVENT 2.0
+discreet adjective 2.0
+discretion noun 2.0
+discriminate verb NOTICE 2.0
+disguise verb HIDE 2.0
+disgust noun 2.0
+disillusioned adjective 2.0
+disloyal adjective 2.0
+dismay noun 2.0
+disorder noun NOT ORGANIZED 2.0
+display verb FEELING 2.0
+disposable adjective 2.0
+disposable income noun 2.0
+disposition noun 2.0
+dispute noun DISAGREEMENT 2.0
+dispute verb 2.0
+disqualify verb 2.0
+disrespectful adjective 2.0
+disruptive adjective 2.0
+dissolve verb BECOME LIQUID 2.0
+distant adjective RELATIVE 2.0
+distinct adjective HEAR/SEE 2.0
+distinction noun QUALITY 2.0
+distress noun DANGER 2.0
+disturb verb UPSET 2.0
+disturbance noun FIGHTING 2.0
+disturbed adjective 2.0
+disturbing adjective 2.0
+divert verb CHANGE ROUTE 2.0
+DNA noun 2.0
+dominance noun 2.0
+dominant adjective STRONG 2.0
+donor noun BLOOD/ORGANS 2.0
+donor noun MONEY/GOODS 2.0
+doom noun 2.0
+doorway noun 2.0
+downhill adverb TOWARDS BOTTOM 2.0
+drag verb TIME 2.0
+drain verb REMOVE LIQUID 2.0
+drain verb FLOW AWAY 2.0
+drain verb REDUCE 2.0
+drain verb MAKE TIRED 2.0
+drain noun FOR WATER 2.0
+dread verb 2.0
+drift verb SITUATION 2.0
+drive verb MAKE WORK 2.0
+drought noun 2.0
+drown verb COVER 2.0
+dry adjective BORING 2.0
+dubious adjective NOT TRUE 2.0
+dubious adjective DOUBTING 2.0
+due adjective DESERVE 2.0
+due adjective BEHAVIOUR 2.0
+dump verb END RELATIONSHIP 2.0
+dump noun UNTIDY PLACE 2.0
+dynamic adjective CHANGING 2.0
+earn verb DESERVE 2.0
+eccentric adjective 2.0
+echo verb SOUND 2.0
+echo verb REPEAT 2.0
+echo noun SOUND 2.0
+effectively adverb REALLY 2.0
+elaborate adjective 2.0
+elapse verb 2.0
+elated adjective 2.0
+electric adjective EXCITING 2.0
+elimination noun 2.0
+elusive adjective 2.0
+embarrass verb 2.0
+embody verb 2.0
+embrace verb HOLD 2.0
+embrace noun 2.0
+eminent adjective 2.0
+emit verb 2.0
+empathy noun 2.0
+empirical adjective 2.0
+endeavour noun 2.0
+endorse verb 2.0
+endurance noun 2.0
+engrossed adjective 2.0
+enjoy verb GOOD SITUATION 2.0
+enquiry noun OFFICIAL PROCESS 2.0
+enterprise noun PLAN 2.0
+entity noun 2.0
+entrance noun COMING IN 2.0
+equate verb 2.0
+eradicate verb 2.0
+erode verb REMOVE 2.0
+erode verb DESTROY 2.0
+erosion noun NEGATIVE EFFECT 2.0
+erupt verb 2.0
+escape verb FORGET 2.0
+escape verb NOT NOTICE 2.0
+essence noun BASIC QUALITY 2.0
+essential adjective BASIC 2.0
+establish verb DECIDE 2.0
+establish verb DISCOVER 2.0
+ethical adjective RIGHT/WRONG 2.0
+ethical adjective GOOD 2.0
+eventful adjective 2.0
+eventual adjective 2.0
+evidence noun LAW 2.0
+examine verb TEST 2.0
+excel verb BE GOOD 2.0
+exceptional adjective UNUSUAL 2.0
+exclaim verb 2.0
+execute verb KILL 2.0
+execute verb DO 2.0
+exemplify verb 2.0
+exercise noun MILITARY 2.0
+exercise verb USE 2.0
+exhibit verb SHOW FEELINGS 2.0
+exile noun 2.0
+expenditure noun 2.0
+experiment verb DO TESTS 2.0
+experimental adjective 2.0
+expire verb 2.0
+explicit adjective CLEAR 2.0
+explicit adjective SHOWING SEX 2.0
+explosive adjective EQUIPMENT 2.0
+explosive adjective SITUATION 2.0
+explosive noun 2.0
+expressive adjective 2.0
+exquisite adjective 2.0
+extravagant adjective 2.0
+extreme adjective OPINIONS 2.0
+extremist noun 2.0
+facial adjective 2.0
+faithful adjective RELATIONSHIP 2.0
+faithful adjective NOT CHANGED 2.0
+fake noun COPY 2.0
+fake noun PERSON 2.0
+fake verb COPY 2.0
+fake verb PRETEND 2.0
+fall verb BE DEFEATED 2.0
+fall verb BECOME WORSE 2.0
+fall verb HANG DOWN 2.0
+famine noun 2.0
+fanatic noun 2.0
+fancy verb SURPRISE 2.0
+faraway adjective LONG DISTANCE 2.0
+fast adverb FIRMLY 2.0
+faultless adjective 2.0
+favour verb 2.0
+favourable adjective CONDITIONS 2.0
+favourite noun LIKELY TO WIN 2.0
+fearful adjective 2.0
+fearless adjective 2.0
+feat noun 2.0
+feature noun NEWSPAPER 2.0
+feeble adjective WEAK 2.0
+feeble adjective NOT GOOD 2.0
+fertile adjective 2.0
+fever noun EXCITEMENT 2.0
+fictional adjective 2.0
+field noun IN RACE/BUSINESS 2.0
+field noun CONTAINING SUBSTANCE 2.0
+figure verb THINK 2.0
+film noun LAYER 2.0
+filter verb 2.0
+filter noun 2.0
+final adjective NO MORE DISCUSSION 2.0
+fine adjective THIN 2.0
+finite adjective 2.0
+fire noun SHOOTING 2.0
+fireplace noun 2.0
+firm adjective STRICT 2.0
+firm adjective STRONG 2.0
+fist noun 2.0
+fixed adjective EYES 2.0
+flair noun STYLE 2.0
+flash verb APPEAR 2.0
+flash noun SUDDEN EXPERIENCE 2.0
+flashback noun MEMORY 2.0
+flashback noun STORY 2.0
+flat adjective WITHOUT GAS 2.0
+flatten verb 2.0
+flavour noun QUALITY 2.0
+flawed adjective 2.0
+flawless adjective 2.0
+flesh noun BODY 2.0
+flexible adjective ABLE TO BEND 2.0
+flood noun AMOUNT 2.0
+floppy adjective 2.0
+flourish verb 2.0
+fluctuate verb 2.0
+fluid noun 2.0
+fluid adjective 2.0
+fly verb TIME 2.0
+fly verb TAKE/SEND 2.0
+focus noun 2.0
+follower noun 2.0
+force noun INFLUENCE 2.0
+force verb USE POWER 2.0
+forceful adjective 2.0
+foremost adjective 2.0
+forgery noun COPY 2.0
+forgery noun CRIME 2.0
+forgiveness noun 2.0
+form verb SHAPE 2.0
+form verb BE 2.0
+formation noun DEVELOPMENT 2.0
+formation noun SHAPE 2.0
+formidable adjective POWERFUL 2.0
+formidable adjective DIFFICULT 2.0
+formulate verb PLAN 2.0
+formulate verb SAY 2.0
+foul adjective BAD 2.0
+foul noun 2.0
+found verb BASE 2.0
+foundation noun IDEA 2.0
+founder noun 2.0
+fraction noun 2.0
+fragile adjective BREAK 2.0
+fragile adjective PERSON 2.0
+fragrance noun 2.0
+fragrant adjective 2.0
+frail adjective 2.0
+framework noun 2.0
+frantic adjective FAST 2.0
+frantic adjective WORRIED 2.0
+fraud noun CRIME 2.0
+fraud noun TRICK 2.0
+fraudulent adjective 2.0
+frenzy noun 2.0
+fresh adjective SKIN 2.0
+fringe noun HAIR 2.0
+fringe noun EDGE 2.0
+fringe adjective 2.0
+frontier noun BETWEEN COUNTRIES 2.0
+frown verb SHOW ANGER 2.0
+frown noun 2.0
+fulfilling adjective 2.0
+fulfilment noun PLEASURE 2.0
+fulfilment noun SOMETHING DONE 2.0
+fundamental adjective 2.0
+fundamentally adverb 2.0
+further verb 2.0
+fury noun 2.0
+fussy adjective NOT LIKING 2.0
+fussy adjective CAREFUL 2.0
+future noun WHAT WILL HAPPEN 2.0
+gain noun SOMETHING OBTAINED 2.0
+gamble verb RISK MONEY 2.0
+gamble noun 2.0
+gang noun FRIENDS 2.0
+gasp verb MAKE NOISE 2.0
+gasp verb BREATHE WITH DIFFICULTY 2.0
+gasp noun 2.0
+gaze noun 2.0
+genius noun QUALITY 2.0
+gesture verb 2.0
+giant noun ORGANIZATION 2.0
+giggle verb 2.0
+glare noun LIGHT 2.0
+glare noun LOOK 2.0
+glare verb 2.0
+glow noun LIGHT 2.0
+glow noun SKIN 2.0
+glow verb 2.0
+glue noun 2.0
+glue verb STICK 2.0
+go verb SOUND/MOVEMENT 2.0
+go verb WORKING 2.0
+good noun MORALLY RIGHT 2.0
+goodness noun 2.0
+grace noun POLITENESS 2.0
+grace verb 2.0
+graceful adjective POLITE 2.0
+grain noun SEED 2.0
+grain noun PIECE 2.0
+grain noun QUALITY 2.0
+grammatical adjective 2.0
+grasp noun UNDERSTAND 2.0
+grasp noun HOLD 2.0
+grasp noun ACHIEVE 2.0
+greet verb REACT 2.0
+grim adjective BAD 2.0
+grim adjective SERIOUS 2.0
+grim adjective UNPLEASANT 2.0
+grin verb SMILE 2.0
+grin noun 2.0
+grip verb EMOTION 2.0
+grip verb INTEREST 2.0
+groan verb 2.0
+groan noun 2.0
+grounds noun REASON 2.0
+grounds noun LAND 2.0
+guarantee noun PROMISE 2.0
+gulf noun 2.0
+guts noun ORGANS 2.0
+hail noun 2.0
+hail verb CALL 2.0
+hail verb ICE 2.0
+handle verb TOUCH 2.0
+handy adjective USEFUL 2.0
+handy adjective NEAR 2.0
+hang verb IN AIR 2.0
+harmless adjective NOT UPSETTING 2.0
+harmony noun MUSIC 2.0
+harshly adverb 2.0
+haul verb 2.0
+haul noun AMOUNT 2.0
+hazardous adjective 2.0
+head noun FRONT/TOP 2.0
+healthy adjective SUCCESSFUL 2.0
+heap noun PILE 2.0
+heavy adjective FORCE 2.0
+heir noun 2.0
+heritage noun 2.0
+hesitation noun 2.0
+hierarchical adjective 2.0
+hierarchy noun 2.0
+high adjective DRUGS 2.0
+high-profile adjective 2.0
+hinder verb 2.0
+hit verb THINK 2.0
+hollow adjective NOTHING INSIDE 2.0
+hollow adjective WITHOUT MEANING 2.0
+homelessness noun 2.0
+hop verb ONE FOOT 2.0
+hop verb ANIMAL 2.0
+hopeful adjective GOOD THING WILL HAPPEN 2.0
+hopelessly adverb 2.0
+horizon noun 2.0
+horn noun MUSIC 2.0
+horrified adjective 2.0
+horrifying adjective 2.0
+host noun TELEVISION 2.0
+hostage noun PERSON 2.0
+hostility noun 2.0
+house noun THEATRE 2.0
+house verb PROVIDE SPACE 2.0
+house verb GIVE HOME 2.0
+however conjunction 2.0
+hum verb 2.0
+humanitarian adjective 2.0
+humanity noun KINDNESS 2.0
+humanity noun BEING HUMAN 2.0
+humble adjective NOT PROUD 2.0
+humble adjective POOR 2.0
+humiliated adjective 2.0
+humiliating adjective 2.0
+humility noun 2.0
+humour noun MOOD 2.0
+hygienic adjective 2.0
+hypocrisy noun 2.0
+hypocritical adjective 2.0
+hypothesis noun 2.0
+icily adverb 2.0
+idle adjective LAZY 2.0
+idle adjective NOT SERIOUS 2.0
+idol noun GOD 2.0
+ignorance noun 2.0
+ignorant adjective 2.0
+illiterate adjective 2.0
+illusion noun FALSE IDEA 2.0
+illusion noun DIFFERENT 2.0
+illustration noun EXPLAIN 2.0
+image noun IDEA 2.0
+imitation noun 2.0
+immature adjective 2.0
+imminent adjective 2.0
+immortal adjective LIFE 2.0
+immortal adjective MEMORY 2.0
+immune adjective 2.0
+immune system noun 2.0
+impact noun HITTING 2.0
+impatience noun 2.0
+imperative adjective 2.0
+implementation noun 2.0
+implication noun SUGGESTION 2.0
+implication noun INVOLVEMENT 2.0
+implicit adjective 2.0
+imply verb NOT DIRECT 2.0
+imply verb MUST BE TRUE 2.0
+import noun ACTIVITY 2.0
+impossibility noun 2.0
+impossible adjective DIFFICULT 2.0
+imprisonment noun 2.0
+impulse noun FEELING 2.0
+impulsive adjective 2.0
+in preposition CAUSE 2.0
+incentive noun 2.0
+inclination noun 2.0
+inconceivable adjective 2.0
+inconsiderate adjective 2.0
+incorporate verb 2.0
+incur verb 2.0
+incurable adjective 2.0
+indeed adverb MORE 2.0
+indefinitely adverb 2.0
+indication noun INTENTION 2.0
+indicator noun 2.0
+indifference noun 2.0
+indifferent adjective 2.0
+indirect adjective NOT OBVIOUS 2.0
+indispensable adjective 2.0
+indisputable adjective 2.0
+individual noun SPECIAL 2.0
+individuality noun 2.0
+indulge verb YOURSELF 2.0
+indulge verb SOMEONE ELSE 2.0
+industrious adjective 2.0
+inequality noun 2.0
+inexplicable adjective 2.0
+infancy noun 2.0
+infant noun 2.0
+infect verb PLACE/SUBSTANCE 2.0
+infectious adjective DISEASE 2.0
+infectious adjective LAUGH 2.0
+infer verb 2.0
+inferior noun 2.0
+inferiority noun 2.0
+infinite adjective 2.0
+infinitely adverb 2.0
+influx noun 2.0
+inhabit verb 2.0
+inherent adjective 2.0
+inherit verb FROM DEAD PERSON 2.0
+inherit verb QUALITY 2.0
+inheritance noun 2.0
+inhibition noun 2.0
+inhuman adjective 2.0
+initiate verb 2.0
+injection noun DRUG 2.0
+injection noun MONEY 2.0
+innate adjective 2.0
+innocence noun NOT EXPERIENCED 2.0
+innocent adjective NOT INTENDED TO HARM 2.0
+innumerable adjective 2.0
+inquiry noun PROCESS 2.0
+inquiry noun ASKING QUESTIONS 2.0
+insane adjective ILL 2.0
+insecure adjective NOT SAFE 2.0
+insecurity noun 2.0
+inseparable adjective THINGS 2.0
+inseparable adjective FRIENDS 2.0
+inside preposition TIME 2.0
+insofar as conjunction 2.0
+insomnia noun 2.0
+inspection noun EXAMINATION 2.0
+inspiration noun GOOD IDEA 2.0
+instinct noun 2.0
+institution noun TRADITION 2.0
+instruct verb TEACH 2.0
+instruction noun TEACHING/TRAINING 2.0
+instruction noun TELL 2.0
+instrument noun FOR ACHIEVING SOMETHING 2.0
+intact adjective 2.0
+integrity noun 2.0
+intellect noun 2.0
+intellectual adjective INTERESTED IN IDEAS 2.0
+intellectual noun 2.0
+intellectually adverb 2.0
+intense adjective SERIOUS 2.0
+intensely adverb VERY 2.0
+intensely adverb SERIOUSLY 2.0
+intensify verb 2.0
+intensity noun 2.0
+intent noun PLAN 2.0
+interest noun ADVANTAGE 2.0
+interference noun ELECTRONIC SIGNAL 2.0
+interim adjective 2.0
+interpretation noun EXPLANATION 2.0
+interpretation noun STORY/MUSIC 2.0
+interval noun TIME 2.0
+intervene verb 2.0
+intervention noun 2.0
+intimate adjective PRIVATE 2.0
+intimate adjective RELATIONSHIP 2.0
+intimate adjective SMALL 2.0
+intolerable adjective 2.0
+intolerance noun 2.0
+intolerant adjective 2.0
+intriguing adjective 2.0
+intrinsic adjective 2.0
+introduce verb TO AN AUDIENCE 2.0
+introvert noun 2.0
+intrude verb 2.0
+intruder noun CRIME 2.0
+intruder noun NOT WANTED 2.0
+intrusion noun 2.0
+intuition noun 2.0
+invade verb BECOME INVOLVED 2.0
+invariably adverb 2.0
+invasion noun LARGE NUMBERS 2.0
+invitation noun CAUSE RESULT 2.0
+invite verb REACTION 2.0
+ironic adjective 2.0
+ironically adverb 2.0
+irony noun SITUATION 2.0
+irony noun HUMOUR 2.0
+irrational adjective 2.0
+irresistible adjective ATTRACTIVE 2.0
+irresistible adjective STRONG 2.0
+irreversible adjective 2.0
+irritable adjective 2.0
+irritation noun 2.0
+isolation noun LONELY 2.0
+issue verb 2.0
+it pronoun EMPHASIZE 2.0
+jam verb FILL 2.0
+joint noun BODY PART 2.0
+journal noun BOOK 2.0
+judge verb BAD OPINION 2.0
+judgment noun ABILITY 2.0
+juggle verb 2.0
+juicy adjective EXCITING 2.0
+justifiable adjective 2.0
+justification noun 2.0
+kick noun FEELING 2.0
+kidney noun 2.0
+kill verb END 2.0
+knot noun FASTENING 2.0
+know verb GUESS CORRECTLY 2.0
+knowingly adverb INTENTIONALLY 2.0
+knowingly adverb SHOWING KNOWLEDGE 2.0
+knuckle noun 2.0
+label noun WORD 2.0
+label verb DESCRIBE 2.0
+labour noun BIRTH 2.0
+lad noun 2.0
+laid-back adjective 2.0
+land noun COUNTRY 2.0
+land verb ACHIEVE 2.0
+landmark noun EVENT 2.0
+late adjective DEAD 2.0
+later adjective TOWARDS THE END 2.0
+later adjective RECENT 2.0
+lavish adjective 2.0
+law noun ALWAYS TRUE 2.0
+lead verb BE THE BEST 2.0
+lead noun FILM/PLAY 2.0
+leak verb SECRETS 2.0
+leak noun SECRET 2.0
+leap noun CHANGE 2.0
+leave verb PRODUCE SITUATION 2.0
+leave verb DO LATER 2.0
+leave verb AFTER DEATH 2.0
+leave noun 2.0
+lecture verb 2.0
+legacy noun MONEY/PROPERTY 2.0
+legacy noun SITUATION 2.0
+legislation noun 2.0
+legitimate adjective REASONABLE 2.0
+legitimate adjective LEGAL 2.0
+lenient adjective 2.0
+lethal adjective 2.0
+lie verb RESPONSIBILITY/BLAME 2.0
+life noun ACTIVE PERIOD 2.0
+lifelong adjective 2.0
+lifespan noun 2.0
+likelihood noun 2.0
+likewise adverb 2.0
+line noun ROW 2.0
+line noun BORDER 2.0
+line noun APPROACH TO SUBJECT 2.0
+line noun MILITARY 2.0
+line verb 2.0
+linen noun CLOTH 2.0
+linen noun SHEETS ETC. 2.0
+linger verb 2.0
+literal adjective 2.0
+literate adjective 2.0
+live verb STAY ALIVE 2.0
+loathe verb 2.0
+loathing noun 2.0
+lobby verb 2.0
+local noun 2.0
+loft noun 2.0
+logically adverb 2.0
+longevity noun 2.0
+longing noun 2.0
+long-lasting adjective 2.0
+long-running adjective 2.0
+loom verb APPEAR 2.0
+loom verb WORRY 2.0
+loose adjective NOT EXACT 2.0
+loosen verb 2.0
+loss noun DISADVANTAGE 2.0
+lucrative adjective 2.0
+lump noun PIECE 2.0
+lure verb 2.0
+lure noun 2.0
+mainstream adjective 2.0
+maintain verb SAY SOMETHING IS TRUE 2.0
+malicious adjective 2.0
+margin noun DIFFERENCE 2.0
+margin noun OUTER PART 2.0
+margin noun PROFIT 2.0
+marginal adjective 2.0
+mark verb REPRESENT 2.0
+market noun BUSINESS 2.0
+massacre noun 2.0
+master noun SKILLED PERSON 2.0
+masterpiece noun 2.0
+match noun SUITABLE 2.0
+materialism noun 2.0
+materialist noun 2.0
+materialist adjective 2.0
+materialistic adjective 2.0
+matter noun TYPE OF THING 2.0
+maximize verb 2.0
+mean adjective AVERAGE 2.0
+means noun MONEY 2.0
+measure verb JUDGE 2.0
+measure noun AMOUNT 2.0
+measurement noun PROCESS 2.0
+mechanical adjective BEHAVIOUR 2.0
+medically adverb 2.0
+medication noun 2.0
+mediocre adjective 2.0
+mediocrity noun 2.0
+medium noun 2.0
+meet verb ACHIEVE 2.0
+melody noun 2.0
+memorial noun 2.0
+memory noun MIND 2.0
+merciful adjective 2.0
+merciless adjective 2.0
+mercy noun KINDNESS 2.0
+merely adverb NOT LARGE 2.0
+merge verb 2.0
+merger noun 2.0
+merit verb 2.0
+metaphor noun 2.0
+meticulous adjective 2.0
+mighty adjective 2.0
+millennium noun 2.0
+mingle verb MIX 2.0
+miniature adjective 2.0
+minute adjective SMALL 2.0
+minute adjective EXACT 2.0
+miserable adjective NOT ENOUGH 2.0
+mishap noun 2.0
+misinterpret verb 2.0
+misinterpretation noun 2.0
+misplace verb 2.0
+missile noun 2.0
+mission noun JOB 2.0
+moan verb COMPLAIN 2.0
+moan verb SOUND 2.0
+model noun EXAMPLE 2.0
+moderate verb LESS EXTREME 2.0
+moderately adverb 2.0
+modestly adverb NOT PROUDLY 2.0
+momentum noun 2.0
+monetary adjective 2.0
+monopoly noun 2.0
+monster noun PERSON 2.0
+morale noun 2.0
+mortality noun 2.0
+motion noun MOVEMENT 2.0
+motion noun SUGGESTION 2.0
+mount verb INCREASE 2.0
+mount verb RIDE 2.0
+mountain noun PILE 2.0
+move noun CHANGE OF POSITION 2.0
+muddle noun 2.0
+muddled adjective 2.0
+murmur verb 2.0
+murmur noun 2.0
+musically adverb 2.0
+narrative noun 2.0
+narrator noun 2.0
+narrow adjective LIMITED 2.0
+narrow verb BECOME LESS 2.0
+native adjective ANIMALS AND PLANTS 2.0
+naturally adverb FROM BIRTH 2.0
+naval adjective 2.0
+near preposition CONDITION 2.0
+near adjective CHARACTERISTIC 2.0
+neck noun PART OF CLOTHING 2.0
+needle noun MEDICAL 2.0
+needless adjective 2.0
+negligence noun 2.0
+negligent adjective 2.0
+negligible adjective 2.0
+nerve noun PART OF THE BODY 2.0
+nerve noun RUDENESS 2.0
+nerve noun BEING BRAVE 2.0
+nest noun BIRDS 2.0
+nest verb 2.0
+normality noun 2.0
+nostalgia noun 2.0
+nostalgic adjective 2.0
+nostril noun 2.0
+nosy adjective 2.0
+note noun MUSIC 2.0
+novelty noun QUALITY 2.0
+novelty noun NEW THING 2.0
+number verb BE AN AMOUNT 2.0
+nurse verb 2.0
+obligatory adjective EXPECTED 2.0
+obscene adjective SEX 2.0
+obscene adjective TOO LARGE 2.0
+observant adjective 2.0
+observe verb OBEY 2.0
+observer noun 2.0
+obsessive adjective 2.0
+occupation noun CONTROL 2.0
+oddly adverb 2.0
+odour noun 2.0
+off adjective STOPPED 2.0
+offer noun PAYMENT 2.0
+official adjective JOB/DUTIES 2.0
+official adjective KNOWN 2.0
+official adjective NOT TRUE 2.0
+official noun 2.0
+off-putting adjective 2.0
+offset verb 2.0
+offspring noun 2.0
+omission noun 2.0
+on adverb PERFORMING 2.0
+ongoing adjective 2.0
+only conjunction 2.0
+open adjective HONEST 2.0
+open adjective NOT SECRET 2.0
+opening noun HOLE 2.0
+openness noun 2.0
+optimism noun 2.0
+ordeal noun 2.0
+order noun CORRECT BEHAVIOUR 2.0
+organ noun MUSIC 2.0
+orientation noun BELIEFS 2.0
+orientation noun TRAINING 2.0
+ornament noun 2.0
+orphan noun 2.0
+orthodox adjective RELIGION 2.0
+orthodox adjective IDEA 2.0
+out adverb FAR AWAY 2.0
+outbreak noun 2.0
+outgoing adjective LEAVING A PLACE 2.0
+outgoings noun 2.0
+outlet noun SHOP 2.0
+outlet noun EXPRESS 2.0
+outline noun SHAPE 2.0
+outlook noun THINKING 2.0
+output noun 2.0
+outrage noun FEELING 2.0
+outrage noun THING CAUSING SHOCK 2.0
+over preposition CONTROL 2.0
+over preposition ABOUT 2.0
+overboard adverb 2.0
+overflow verb CONTENTS 2.0
+overflow verb TOO MANY PEOPLE 2.0
+overhear verb 2.0
+overlap verb 2.0
+overload verb 2.0
+overload noun 2.0
+overlook verb NOT NOTICE 2.0
+overnight adjective, adverb SUDDENLY 2.0
+pack noun ANIMALS 2.0
+pact noun 2.0
+palm noun HAND 2.0
+panel noun PIECE 2.0
+paper noun WRITING 2.0
+paradigm noun 2.0
+paradox noun 2.0
+paradoxical adjective 2.0
+parallel adjective 2.0
+parallel noun 2.0
+paramount adjective 2.0
+part verb SEPARATE 2.0
+part verb LEAVE 2.0
+particle noun 2.0
+pass verb GO AWAY 2.0
+pass verb BE MORE THAN 2.0
+pass verb SPORTS 2.0
+pass noun SPORTS 2.0
+passage noun PROGRESS 2.0
+pastime noun 2.0
+pat verb 2.0
+patch noun AREA 2.0
+patch noun MATERIAL 2.0
+patch noun LAND 2.0
+patch verb 2.0
+path noun DIRECTION 2.0
+pathetic adjective BAD 2.0
+pathetic adjective SAD 2.0
+pay verb SUFFER 2.0
+peel verb COVERING 2.0
+peer pressure noun 2.0
+perceive verb NOTICE 2.0
+perception noun 2.0
+perceptive adjective 2.0
+perfect adjective TO EMPHASIZE 2.0
+perfect verb 2.0
+perseverance noun 2.0
+persist verb CONTINUE TO EXIST 2.0
+persist verb CONTINUE TO DO 2.0
+persistence noun 2.0
+persistent adjective 2.0
+persuasion noun 2.0
+petty adjective 2.0
+phenomenal adjective 2.0
+philosophical adjective PHILOSOPHY 2.0
+philosophical adjective CALM 2.0
+physical adjective THINGS 2.0
+pinpoint verb 2.0
+pioneer noun 2.0
+pit noun 2.0
+pitiful adjective 2.0
+pity verb 2.0
+plague noun 2.0
+plague verb 2.0
+plain adjective OBVIOUS 2.0
+plain adjective PERSON 2.0
+plant verb IDEA/DOUBTS 2.0
+platform noun FOR OPINIONS 2.0
+plausible adjective 2.0
+plea noun 2.0
+plead verb LEGAL 2.0
+plead verb ASK 2.0
+plead verb EXCUSE 2.0
+plight noun 2.0
+plot noun LAND 2.0
+plump adjective 2.0
+pocket noun MONEY 2.0
+poetic adjective 2.0
+point noun QUALITY 2.0
+point noun DIRECTION 2.0
+pole noun 2.0
+ponder verb 2.0
+pop verb SOUND 2.0
+popular adjective MANY PEOPLE 2.0
+portray verb 2.0
+portrayal noun 2.0
+posh adjective HIGH CLASS 2.0
+positive adjective MEDICAL TEST 2.0
+possession noun HAVE 2.0
+possessive adjective FEELINGS 2.0
+practical adjective GOOD AT PLANNING 2.0
+practice noun ACTIVITY 2.0
+practitioner noun 2.0
+pragmatic adjective 2.0
+precede verb 2.0
+precedent noun 2.0
+predecessor noun 2.0
+predominant adjective 2.0
+predominantly adverb 2.0
+premium noun PAYMENT 2.0
+premium adjective 2.0
+prescribe verb 2.0
+presence noun QUALITY 2.0
+presence noun POLICE/SOLDIERS 2.0
+presence noun FEELING 2.0
+present verb INFORMATION 2.0
+present verb OPPORTUNITY 2.0
+presentation noun APPEARANCE 2.0
+press verb PERSUADE 2.0
+pressure noun FORCE 2.0
+presumption noun 2.0
+prevail verb 2.0
+preventive adjective 2.0
+prey noun 2.0
+prime adjective MAIN 2.0
+principle noun MORAL RULE 2.0
+print noun LETTERS 2.0
+privileged adjective OPPORTUNITY 2.0
+proceedings noun LEGAL 2.0
+proceedings noun WRITTEN RECORD 2.0
+procession noun 2.0
+produce noun 2.0
+profound adjective VERY GREAT 2.0
+profound adjective FEELING 2.0
+profound adjective UNDERSTANDING 2.0
+profoundly adverb 2.0
+progress verb CONTINUE 2.0
+prominent adjective EASY TO SEE 2.0
+propaganda noun 2.0
+prosecute verb 2.0
+prosecution noun 2.0
+prosecutor noun 2.0
+prospect noun IDEA 2.0
+prosper verb 2.0
+protagonist noun 2.0
+proverb noun 2.0
+province noun 2.0
+provincial adjective 2.0
+provocation noun 2.0
+provoke verb 2.0
+proximity noun 2.0
+psychiatrist noun 2.0
+purpose noun INTENTION 2.0
+pursuit noun 2.0
+pushy adjective 2.0
+put verb SAY 2.0
+puzzle noun SITUATION 2.0
+quaint adjective 2.0
+qualification noun SKILLS 2.0
+quarter noun PART OF TOWN 2.0
+quest noun 2.0
+questionable adjective NOT CERTAIN 2.0
+questionable adjective NOT HONEST 2.0
+quotation noun PHRASE 2.0
+quotation noun COST 2.0
+quote verb COST 2.0
+quote noun REPEAT 2.0
+quote noun COST 2.0
+racist noun 2.0
+racist adjective 2.0
+racket noun NOISE 2.0
+radical adjective BELIEFS 2.0
+radical noun 2.0
+rage verb SPEAK 2.0
+rage verb CONTINUE 2.0
+raid noun SOLDIERS 2.0
+raid noun POLICE 2.0
+raid verb SOLDIERS 2.0
+raid verb POLICE 2.0
+rail noun FOR SUPPORTING 2.0
+rally noun MEETING 2.0
+rally noun RACE 2.0
+range noun DISTANCE 2.0
+rash noun 2.0
+rash adjective 2.0
+read verb SIGNS 2.0
+read noun 2.0
+readiness noun PREPARED 2.0
+reading noun EVENT 2.0
+readjust verb CHANGE BEHAVIOUR 2.0
+realistically adverb ACCEPTING FACTS 2.0
+realization noun ACHIEVING 2.0
+realm noun 2.0
+reasoning noun 2.0
+reassurance noun 2.0
+receptive adjective 2.0
+reckless adjective 2.0
+recognition noun ACCEPT 2.0
+recognition noun HONOUR 2.0
+recognition noun KNOW 2.0
+recollect verb 2.0
+recollection noun 2.0
+reconcile verb MAKE AGREE 2.0
+reconstruct verb PAST EVENT 2.0
+reconstruction noun PAST EVENT 2.0
+record noun BEHAVIOUR 2.0
+recovery noun GET BACK 2.0
+recreational adjective 2.0
+recruit noun 2.0
+recur verb 2.0
+redistribute verb 2.0
+redundant adjective NOT NEEDED 2.0
+referendum noun 2.0
+refine verb 2.0
+refined adjective POLITE 2.0
+refined adjective IMPROVED 2.0
+reflection noun THOUGHT 2.0
+reform noun 2.0
+reform verb 2.0
+refrain verb 2.0
+refuge noun 2.0
+regardless adverb 2.0
+regime noun 2.0
+register verb SHOW A FEELING 2.0
+reign verb KING/QUEEN 2.0
+reign verb MAIN FEELING/QUALITY 2.0
+reinforce verb OBJECT 2.0
+rejection noun NOT ACCEPT 2.0
+rejection noun JOB/COLLEGE 2.0
+rejection noun PERSON 2.0
+relate verb CONNECT 2.0
+relate verb TELL 2.0
+relentless adjective 2.0
+relentlessly adverb 2.0
+relief noun LESS PAIN 2.0
+relief noun HELP 2.0
+relieve verb FROM PAIN 2.0
+relish verb 2.0
+relish noun ENJOYMENT 2.0
+relish noun SAUCE 2.0
+remorse noun 2.0
+remote adjective TIME 2.0
+remote adjective SLIGHT 2.0
+remove verb JOB 2.0
+render verb CAUSE TO BE 2.0
+renewable adjective OFFICIAL AGREEMENT 2.0
+renewal noun REPAIR/IMPROVE 2.0
+renowned adjective 2.0
+repair verb IMPROVE 2.0
+repeated adjective 2.0
+repetition noun 2.0
+replace verb PUT BACK 2.0
+reportedly adverb 2.0
+represent verb SPEAK/ACT FOR 2.0
+represent verb SHOW 2.0
+representation noun SHOWING 2.0
+representation noun SPEAKING FOR 2.0
+reproach noun 2.0
+reproach verb 2.0
+reproduce verb PRODUCE YOUNG 2.0
+reproduction noun YOUNG 2.0
+resemblance noun 2.0
+resent verb 2.0
+resentment noun 2.0
+reservation noun DOUBT 2.0
+reserve noun SUPPLY 2.0
+reserved adjective 2.0
+residence noun BUILDING 2.0
+residential adjective COURSE/JOB 2.0
+resignation noun LEAVE JOB 2.0
+resignation noun ACCEPT 2.0
+resilience noun 2.0
+resilient adjective 2.0
+resistance noun DISAGREE 2.0
+resistance noun FIGHT 2.0
+resistance noun ORGANIZATION 2.0
+resistance noun ILLNESS 2.0
+resolution noun DECISION 2.0
+resolution noun PROMISE 2.0
+resolution noun SOLUTION 2.0
+resolve noun 2.0
+resourceful adjective 2.0
+respectable adjective ENOUGH 2.0
+respectfully adverb 2.0
+restless adjective NOT SATISFIED 2.0
+restraint noun 2.0
+restriction noun RULE 2.0
+restrictive adjective 2.0
+restructure verb 2.0
+retailer noun 2.0
+retain verb 2.0
+retention noun 2.0
+retreat verb 2.0
+retreat noun MOVE 2.0
+retreat noun PLACE 2.0
+retrieve verb 2.0
+reunion noun 2.0
+reveal verb SEE 2.0
+revelation noun 2.0
+reversal noun 2.0
+reverse noun VEHICLE 2.0
+reversible adjective CAN BE CHANGED 2.0
+reversible adjective CLOTHES 2.0
+review noun PROCESS 2.0
+revival noun 2.0
+revive verb 2.0
+revolt verb AGAINST 2.0
+rhyme verb 2.0
+rhyme noun POEM 2.0
+rhyme noun STYLE 2.0
+ribbon noun 2.0
+riches noun 2.0
+right adverb ALL 2.0
+right-wing adjective 2.0
+rigid adjective 2.0
+riot verb 2.0
+ritual noun 2.0
+rival verb 2.0
+rivalry noun 2.0
+roar verb MAKE NOISE 2.0
+roar verb SHOUT 2.0
+roar noun 2.0
+rock verb 2.0
+rocket noun WEAPON 2.0
+rocky adjective RELATIONSHIP 2.0
+romantic adjective IDEAS 2.0
+rosy adjective PINK 2.0
+rosy adjective POSITIVE 2.0
+rot verb 2.0
+roughly adverb FORCEFULLY 2.0
+roughly adverb WITHOUT CARE 2.0
+round noun DRINKS 2.0
+round noun EVENTS 2.0
+route noun METHOD 2.0
+routine adjective BORING 2.0
+ruin noun LOSING EVERYTHING 2.0
+rule noun LEADER 2.0
+ruling noun 2.0
+running noun CONTROL 2.0
+rush noun ACTIVITY 2.0
+rush noun MOVEMENT 2.0
+ruthless adjective 2.0
+sacred adjective IMPORTANT 2.0
+sadden verb 2.0
+saddle noun 2.0
+saddle verb 2.0
+sail noun MATERIAL 2.0
+sample noun EXAMINE 2.0
+sample verb EXPERIENCE 2.0
+sanction noun 2.0
+sane adjective 2.0
+sarcastic adjective 2.0
+saying noun 2.0
+scan verb LOOK 2.0
+scan noun 2.0
+scar verb 2.0
+scarcely adverb 2.0
+scarcity noun 2.0
+scattered adjective 2.0
+scenario noun 2.0
+scene noun ARGUMENT 2.0
+sceptical adjective 2.0
+schooling noun 2.0
+scope noun OPPORTUNITY 2.0
+scrap noun SMALL PIECE 2.0
+scrap noun OLD 2.0
+scrap verb 2.0
+script noun LETTERS 2.0
+scruffy adjective 2.0
+scrutiny noun 2.0
+seal verb CLOSE ENTRANCE 2.0
+seal verb CLOSE LETTER 2.0
+seat noun POLITICS 2.0
+secluded adjective 2.0
+second noun PRODUCT 2.0
+secure adjective NOT FAIL 2.0
+security noun CONFIDENCE 2.0
+sedentary adjective 2.0
+seduce verb SEX 2.0
+seduce verb PERSUADE 2.0
+see verb BELIEVE 2.0
+seek verb TRY TO DO 2.0
+seize verb PLACE 2.0
+self-assurance noun 2.0
+self-assured adjective 2.0
+self-awareness noun 2.0
+self-control noun 2.0
+self-discipline noun 2.0
+self-made adjective 2.0
+self-reliance noun 2.0
+self-reliant adjective 2.0
+self-respect noun 2.0
+self-sufficient adjective 2.0
+sell verb IDEA/PLAN 2.0
+send verb MAKE HAPPEN 2.0
+sensational adjective EXCITING 2.0
+sense verb 2.0
+senseless adjective 2.0
+sensibility noun 2.0
+sentiment noun 2.0
+sentimental adjective FEELING 2.0
+sentimental adjective VALUE 2.0
+sequence noun SERIES 2.0
+sequence noun ORDER 2.0
+serene adjective 2.0
+serenity noun 2.0
+serve verb PRISON 2.0
+set adjective 2.0
+settle verb PAY 2.0
+settlement noun ARRANGEMENT 2.0
+settlement noun PLACE 2.0
+severity noun 2.0
+shabby adjective UNFAIR 2.0
+shade noun COVER 2.0
+shake verb VOICE 2.0
+shaken adjective 2.0
+shallow adjective NOT SERIOUS 2.0
+shape verb 2.0
+share noun BUSINESS 2.0
+sharpen verb MAKE SHARP 2.0
+sharpen verb MAKE BETTER 2.0
+shattered adjective UPSET 2.0
+shattered adjective TIRED 2.0
+sheer adjective STEEP 2.0
+shield noun OBJECT 2.0
+shine verb DO WELL 2.0
+shine verb EYES/FACE 2.0
+shock noun ELECTRICITY 2.0
+shock noun MOVEMENT 2.0
+short-sighted adjective SIGHT 2.0
+short-sighted adjective THINKING 2.0
+shrewd adjective 2.0
+shrug verb 2.0
+shudder verb 2.0
+sibling noun 2.0
+sick adjective CRUEL 2.0
+side noun SPORT 2.0
+side noun RELATIVES 2.0
+side noun BODY 2.0
+side effect noun RESULT 2.0
+sideways adverb, adjective 2.0
+signal verb 2.0
+silence noun NO TALKING 2.0
+simplification noun 2.0
+sin noun RELIGION 2.0
+sin noun MORALLY WRONG 2.0
+sincerity noun 2.0
+sip noun 2.0
+siren noun 2.0
+sketch noun DESCRIPTION 2.0
+skull noun 2.0
+slap noun 2.0
+slaughter noun 2.0
+slender adjective 2.0
+slice noun PART 2.0
+slim adjective SMALL 2.0
+slip verb OUT OF POSITION 2.0
+slow verb 2.0
+smoky adjective 2.0
+smooth adjective MOVEMENT 2.0
+smoothly adverb WITHOUT SUDDEN MOVEMENTS 2.0
+snap verb BREAK 2.0
+snap verb SPEAK ANGRILY 2.0
+snap verb LOSE CONTROL 2.0
+snatch verb 2.0
+sniff verb MAKE A NOISE 2.0
+sniff verb SMELL 2.0
+snob noun 2.0
+snobbish adjective 2.0
+soar verb INCREASE 2.0
+soar verb IN THE SKY 2.0
+sober adjective NOT DRUNK 2.0
+sober adjective SERIOUS 2.0
+sober adjective NOT BRIGHT 2.0
+socialism noun 2.0
+solid adjective CERTAIN 2.0
+solitary adjective ONLY 2.0
+solitary adjective DONE ALONE 2.0
+soothing adjective 2.0
+sorrow noun 2.0
+spade noun 2.0
+spark noun FIRE 2.0
+spark noun START 2.0
+spark verb 2.0
+sparsely adverb 2.0
+specimen noun 2.0
+spectrum noun COLOURS 2.0
+speculate verb 2.0
+spending noun 2.0
+spice noun EXCITEMENT 2.0
+spiritually adverb 2.0
+spit verb 2.0
+spite noun FEELING 2.0
+splash noun DROP OF LIQUID 2.0
+splendour noun 2.0
+split verb COME APART 2.0
+split verb DISAGREE 2.0
+spotless adjective 2.0
+spotlight noun 2.0
+spouse noun 2.0
+spread verb SURFACE 2.0
+spread verb TIME 2.0
+sprinkle verb 2.0
+spur verb 2.0
+squad noun 2.0
+squander verb 2.0
+squeak verb 2.0
+squeaky adjective SOUND 2.0
+stable noun 2.0
+stagger verb 2.0
+stain verb MARK 2.0
+stain verb DAMAGE 2.0
+stamp verb FOOT 2.0
+stance noun 2.0
+stand verb STATE 2.0
+stand verb ELECTION 2.0
+stand noun FURNITURE 2.0
+standard noun BEHAVIOUR 2.0
+standpoint noun 2.0
+stardom noun 2.0
+start noun ADVANTAGE 2.0
+starvation noun 2.0
+statement noun MONEY 2.0
+stereotypical adjective 2.0
+stern adjective 2.0
+stiff adjective FORMAL 2.0
+stiff adjective SEVERE 2.0
+still adjective WATER/AIR 2.0
+stimulus noun 2.0
+stir verb MOVE 2.0
+stir verb FEEL 2.0
+stitch noun THREAD 2.0
+stitch noun WOUND 2.0
+stone noun SEED 2.0
+story noun EXPLANATION 2.0
+strain noun INJURY 2.0
+strain verb MONEY 2.0
+strand noun THREAD 2.0
+strand noun PART OF STORY 2.0
+stranded adjective 2.0
+strap noun 2.0
+strategically adverb 2.0
+straw noun TUBE 2.0
+strength noun INFLUENCE 2.0
+strenuous adjective 2.0
+strict adjective EXACT 2.0
+strike verb EFFECT 2.0
+striker noun FOOTBALL PLAYER 2.0
+strive verb 2.0
+stroke noun MOVEMENT 2.0
+structural adjective 2.0
+structure noun BUILDING 2.0
+structure verb 2.0
+structured adjective 2.0
+struggle verb TRY TO DEFEAT/PREVENT 2.0
+stubbornness noun 2.0
+stumble verb FALL 2.0
+stumble verb PAUSE 2.0
+stunned adjective 2.0
+stupidity noun 2.0
+subconsciously adverb 2.0
+subject adjective STORY/PAINTING 2.0
+submit verb OBEY 2.0
+subtle adjective NOT OBVIOUS 2.0
+subtle adjective NOT STRONG 2.0
+subtle adjective CLEVER 2.0
+successive adjective 2.0
+successor noun THING 2.0
+succumb verb NOT STOP 2.0
+succumb verb SUFFER 2.0
+such pronoun 2.0
+suck verb 2.0
+sufferer noun 2.0
+summit noun MEETING 2.0
+summon verb ORDER 2.0
+summon verb HELP 2.0
+summon verb 2.0
+superficial adjective NOT SERIOUS 2.0
+superficial adjective NOT COMPLETE 2.0
+superficially adverb 2.0
+superfluous adjective 2.0
+superior adjective OPINION 2.0
+superiority noun BETTER 2.0
+superiority noun OPINION 2.0
+supplement noun 2.0
+supplement verb 2.0
+supplementary adjective 2.0
+support verb HOLD 2.0
+suppress verb FEELINGS 2.0
+suppress verb INFORMATION 2.0
+suppress verb FIGHT 2.0
+surpass verb 2.0
+surplus noun 2.0
+surrender verb 2.0
+surround verb CONNECTED WITH 2.0
+suspect verb NOT TRUST 2.0
+suspense noun 2.0
+sustain verb CONTINUE 2.0
+sustain verb SUPPORT 2.0
+sustainability noun 2.0
+swallow verb ACCEPT 2.0
+swear verb TRUE 2.0
+swift adjective 2.0
+swiftly adverb 2.0
+syllabus noun 2.0
+symbolic adjective 2.0
+sympathetic adjective IDEAS 2.0
+sympathize verb PROBLEMS 2.0
+sympathize verb IDEAS 2.0
+sympathy noun IDEAS 2.0
+symptom noun PROBLEM 2.0
+synonym noun 2.0
+synonymous adjective CONNECTED 2.0
+synonymous adjective WORD 2.0
+system noun BODY 2.0
+systematic adjective 2.0
+systematically adverb 2.0
+tact noun 2.0
+tactful adjective 2.0
+tactless adjective 2.0
+take verb UNDERSTAND 2.0
+take verb MEASURE 2.0
+take verb NEED A QUALITY 2.0
+talk noun PEOPLE 2.0
+talks noun 2.0
+tangible adjective 2.0
+tank noun CONTAINER 2.0
+target verb 2.0
+tasteful adjective 2.0
+tasteless adjective UGLY 2.0
+tasteless adjective OFFENSIVE 2.0
+taxpayer noun 2.0
+technically adverb DETAIL 2.0
+tenant noun 2.0
+tender adjective GENTLE 2.0
+tender adjective FOOD 2.0
+tenderness noun 2.0
+territorial adjective 2.0
+territory noun AREA OF KNOWLEDGE 2.0
+testify verb 2.0
+theoretical adjective NOT PROVED 2.0
+theoretical adjective IDEAS 2.0
+theoretically adverb 2.0
+theory noun PRINCIPLES 2.0
+thereafter adverb 2.0
+thesis noun IDEA 2.0
+thinker noun 2.0
+thought noun CARE 2.0
+thoughtful adjective QUIET 2.0
+thoughtfully adverb 2.0
+thoughtless adjective 2.0
+thread noun MATERIAL 2.0
+thread noun CONNECTION 2.0
+thread noun INTERNET 2.0
+threat noun POSSIBILITY 2.0
+threaten verb HAPPEN 2.0
+threshold noun LEVEL 2.0
+thrill verb 2.0
+thriving adjective 2.0
+throne noun FOR KING/QUEEN 2.0
+tick verb CLOCK 2.0
+tie verb COMPETITION/GAME 2.0
+tight adjective STRAIGHT 2.0
+tight adverb STRAIGHT 2.0
+timber noun WOOD FOR BUILDING 2.0
+timber noun PIECE OF WOOD 2.0
+time verb DECIDE WHEN 2.0
+timid adjective 2.0
+tin noun METAL 2.0
+tip noun UNTIDY PLACE 2.0
+tip verb FALL 2.0
+tip verb ONE SIDE HIGHER 2.0
+tire verb BECOME TIRED 2.0
+tiresome adjective 2.0
+title noun SPORTS 2.0
+toddler noun 2.0
+together adverb IN ONE PLACE 2.0
+tolerance noun 2.0
+tolerate verb DEAL WITH 2.0
+toll noun NUMBER 2.0
+tomorrow noun FUTURE 2.0
+tone noun MOOD 2.0
+top verb MOST IMPORTANT 2.0
+torrential adjective 2.0
+torture noun CAUSING PAIN 2.0
+torture verb 2.0
+totalitarian adjective 2.0
+touch noun SMALL DETAIL 2.0
+tough adjective SEVERE 2.0
+tough adjective STRONG 2.0
+tough adjective UNFAIR 2.0
+toughness noun 2.0
+track noun DEVELOPMENT 2.0
+track verb FOLLOW 2.0
+track verb RECORD 2.0
+tractor noun 2.0
+trader noun 2.0
+traffic noun PLANES AND SHIPS 2.0
+tragically adverb 2.0
+trail noun MARKS 2.0
+trail verb LOWER SCORE 2.0
+trait noun 2.0
+tranquility noun 2.0
+transition noun 2.0
+translate verb CAUSE 2.0
+transmission noun BROADCAST 2.0
+transmission noun SPREADING 2.0
+transmit verb SPREAD 2.0
+transplant noun 2.0
+trash noun 2.0
+trauma noun 2.0
+traumatic adjective 2.0
+tread verb 2.0
+treasure noun VALUABLE OBJECT 2.0
+treasure verb 2.0
+treat noun 2.0
+treaty noun 2.0
+tribal adjective 2.0
+tribute noun 2.0
+trilogy noun 2.0
+trio noun 2.0
+triumph noun FEELING 2.0
+troops noun 2.0
+trouble noun NOT WORKING 2.0
+troublesome adjective 2.0
+true adjective SINCERE 2.0
+truth noun TRUE FACT 2.0
+try verb LAW 2.0
+turbulent adjective 2.0
+turmoil noun 2.0
+turnover noun EMPLOYEES 2.0
+twist verb TURN 2.0
+twist verb TURN YOUR BODY 2.0
+twist verb CHANGE MEANING 2.0
+twisted adjective STRANGE 2.0
+ugly adjective SITUATION 2.0
+ultimately adverb EMPHASIS 2.0
+unaffected adjective 2.0
+unanimous adjective 2.0
+unanimously adverb 2.0
+unattainable adjective 2.0
+unavoidably adverb 2.0
+unbalanced adjective MENTALLY ILL 2.0
+unbalanced adjective NOT FAIR 2.0
+unbiased adjective 2.0
+unconditional adjective 2.0
+unconscious adjective NOT AWARE 2.0
+unconsciously adverb 2.0
+undeniably adverb 2.0
+underdeveloped adjective 2.0
+underlying adjective 2.0
+undermine verb 2.0
+understanding noun AGREEMENT 2.0
+undertaking noun 2.0
+underway adjective HAPPENING 2.0
+undesirable adjective 2.0
+undeveloped adjective 2.0
+undoubted adjective 2.0
+undue adjective 2.0
+unethical adjective 2.0
+uneven adjective 2.0
+uneventful adjective 2.0
+unfavourable adjective CRITICIZING 2.0
+unfavourable adjective NOT GOOD 2.0
+unfold verb DEVELOP 2.0
+unimaginable adjective 2.0
+uninhabited adjective 2.0
+unlike preposition NOT TYPICAL 2.0
+unlikely adjective NOT TRUE 2.0

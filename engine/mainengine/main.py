@@ -6,7 +6,7 @@ import click
 # from instructor.quiz import generate_definition_question
 from engine.domain.Domain_Model import DomainModel
 from engine.instructor.Quiz_Engine import Instructor
-
+from engine.student.StudentModel import Student
 @click.command()
 def hello():
     click.echo("Hello. How are you?")
@@ -14,7 +14,8 @@ def hello():
 if __name__ == "__main__":
 
     d = DomainModel()
-    I = Instructor(d, 3)
+    s=Student('jaslin3','123')
+    I = Instructor(d,s, 3)
 
     I.quiz()
 

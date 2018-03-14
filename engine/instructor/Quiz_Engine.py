@@ -89,7 +89,7 @@ class Question:
 if __name__ == "__main__":
 
     d = DomainModel()
-    s=Student('abhishek','123')
+    s=Student('jaslin3','123')
     q = Instructor(d,s,3)
     q.quiz()
 

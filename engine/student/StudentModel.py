@@ -1,7 +1,7 @@
 import pickle
 from engine.domain.word_cefr_details import retrieve_cefr_information, word_list
 from engine.domain.WordModel import Word,Sense
-from engine.domain.Domain_Model import DomainModel
+from engine.instructor.LogisticRegressionModel import LogisticRegressionModel
 import os
 import inspect
 import json
@@ -22,7 +22,7 @@ class WordProfile:
             self.word = word
             self.original=word
             self.score = 0.0
-            self.sense_profiles = {sense.name: SenseProfile(self, sense,sense.name,self.score) for sense in Word(self.word)}
+            self.sense_profiles = {sense.name: SenseProfile(self, sense,sense.name,self.score,[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]) for sense in Word(self.word)}
             self.n = len(self.sense_profiles)
 
 
@@ -85,11 +85,13 @@ class SenseProfile:
     # A question is generated based on the word sense
     # A score is given based on the word sense
     # Each sense has an associated history of questions that have been asked
-    def __init__(self, sense, parent,name,score,new=False):
+    def __init__(self, sense, parent,name,score,answer_history,new=False):
         if new==False:
             self.score=score
             self.word = parent
             self.name = name
+            self.proficiency = LogisticRegressionModel(answer_history=answer_history)
+
         else   :
             self.parent = parent
             self.sense = sense
@@ -104,7 +106,8 @@ class SenseProfile:
 
     def dict_repr(self):
         result = {'name': self.name,
-                       'score':self.score
+                       'score':self.score,
+                  'answer_history': self.proficiency.__repr__()
                         }
 
 
@@ -122,10 +125,7 @@ class SenseProfile:
     # Update Score for the sense
 
     def update(self, correct):
-        if correct:
-            self.score += 0.2
-        else:
-            self.score -= 0.2
+        self.score = self.proficiency.update(correct)
 
 
     @staticmethod
@@ -133,8 +133,9 @@ class SenseProfile:
         word = w
         name = sp['name']
         score = sp['score']
+        answer_history = eval(sp['answer_history'])
         sense=None
-        return SenseProfile(sense,word, name, score,new=False)
+        return SenseProfile(sense,word, name, score,answer_history,new=False)
 
 
 class VocabularyProfile:
@@ -178,14 +179,21 @@ class VocabularyProfile:
 
 
 class Student:
-    def __init__(self, username, password,new=False):
+    def __init__(self, username, password):
         self.username = username
         self.password = password
         self.vocabulary_profile = VocabularyProfile()
-        if new:
-            self.save()
+        self.filename = filepath + "/{}-{}-model.json".format(self.username, self.password)
+
+        if os.path.isfile(self.filename):
+            self.load(new=False)
         else:
-            self.load()
+            new = input("User does not exist. Create a new user? (Y) or (N): ")
+            if new.lower() == "y" or new.upper()=="Y":
+                self.save()
+            else:
+
+                raise Exception("User does not exist")
 
     def save(self):
                 filename = filepath + "/{}-{}-model.json".format(self.username, self.password)
@@ -231,11 +239,8 @@ class Student:
 
 if __name__ == "__main__":
   v=VocabularyProfile()
-  s=Student('abhishek','123',new=False)
-  s.vocabulary_profile['hectic'].updateSense('feverish.s.01', correct=True)
-  s.vocabulary_profile['hectic'].updateSense('feverish.s.01', correct=True)
-
-
+  s=Student('jaslin3','123')
+  s.vocabulary_profile['thanks'].updateSense('thanks.n.01', correct=True)
   s.save()
 
 

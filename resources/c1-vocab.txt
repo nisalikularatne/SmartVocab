@@ -1,1640 +1,1640 @@
-abandon verb STOP DOING C1
-abnormal adjective C1
-aboard adverb, preposition C1
-abortion noun C1
-absorb verb REMEMBER C1
-abuse noun WRONG ACTION C1
-accelerate verb HAPPEN C1
-acceptable adjective ALLOWED C1
-acceptance noun C1
-accepted adjective C1
-accessory noun C1
-acclaimed adjective C1
-accomplish verb C1
-accumulate verb C1
-accusation noun C1
-acknowledge verb ACCEPT C1
-acknowledge verb SAY RECEIVED C1
-acquaintance noun C1
-active adjective VOLCANO C1
-adaptation noun C1
-addictive adjective C1
-address verb DEAL WITH C1
-administration noun C1
-administrative adjective C1
-administrator noun C1
-adult adjective NOT A CHILD C1
-adviser noun C1
-affluent adjective C1
-affordable adjective C1
-after preposition DESPITE C1
-agency noun ORGANIZATION C1
-agenda noun MEETING C1
-aggression noun C1
-aggressive adjective DETERMINED C1
-agree verb BE THE SAME C1
-aid noun HELP C1
-aid noun EQUIPMENT C1
-aid verb C1
-alarm verb C1
-alarming adjective C1
-alert adjective C1
-alert noun C1
-allegation noun C1
-alleged adjective C1
-allocate verb C1
-allow verb TIME/MONEY C1
-allow verb MAKE POSSIBLE C1
-allowance noun MONEY C1
-ally noun PERSON C1
-alongside adverb, preposition NEXT TO C1
-alongside adverb, preposition WITH C1
-alteration noun C1
-alternate verb C1
-amateur adjective C1
-amateur noun HOBBY C1
-amateur noun NO SKILL C1
-amendment noun C1
-amid preposition WHILE C1
-among preposition DIVIDE C1
-ample adjective C1
-analytical adjective C1
-angle noun SPACE C1
-angle noun DIRECTION C1
-angle noun WAY OF THINKING C1
-annoyance noun C1
-anticipate verb C1
-anti-social adjective BEHAVIOUR C1
-anti-social adjective PERSON C1
-anyhow adverb CHANGING STATEMENT C1
-appalling adjective BAD C1
-apparent adjective SEEMS TRUE C1
-appeal noun REQUEST C1
-appeal verb REQUEST C1
-appetite noun FOOD C1
-applaud verb CLAP C1
-applause noun C1
-appliance noun C1
-apply verb USE C1
-appoint verb C1
-archaeologist noun C1
-archaeology noun C1
-arise verb C1
-arrival noun NEW PERSON/THING C1
-art noun SKILL C1
-assert verb C1
-asset noun USEFUL C1
-asset noun WORTH MONEY C1
-assign verb C1
-assignment noun C1
-associate verb TWO THINGS/PEOPLE C1
-assumption noun C1
-assurance noun PROMISE C1
-assure verb MAKE CERTAIN C1
-attack verb CRITICIZE C1
-attain verb C1
-attendance noun NUMBER C1
-attendance noun REGULARLY C1
-auction noun C1
-audition noun C1
-authentic adjective C1
-authority noun OFFICIAL GROUP C1
-authorize verb C1
-avenue noun ROAD C1
-average adjective NOT EXCELLENT C1
-awareness noun C1
-away adverb SPORT C1
-bacteria noun C1
-bad adjective PAINFUL C1
-bankrupt adjective C1
-basically adverb MOSTLY C1
-basis noun REASON C1
-basis noun DEVELOPMENT C1
-beak noun C1
-bear verb NAME C1
-beat verb BETTER THAN C1
-beat verb FOOD C1
-behind preposition CAUSING C1
-behind adverb SLOWER C1
-bet verb C1
-between adverb SPACE C1
-between adverb TIME C1
-beware verb C1
-beyond preposition INVOLVING OTHERS C1
-beyond preposition NOT UNDERSTAND C1
-beyond adverb PLACE C1
-biased adjective C1
-bid noun OFFER C1
-big adjective SUCCESSFUL C1
-bilingual adjective C1
-birth noun BEGINNING C1
-blindness noun NOT SEEING C1
-block verb CANNOT SEE C1
-bloody adjective VIOLENT C1
-board noun ORGANIZATION C1
-borrow verb MONEY C1
-bound adjective DIRECTION C1
-boundary noun LINE C1
-boundary noun LIMIT C1
-bracket noun GROUP C1
-brain noun INTELLIGENCE C1
-brass noun METAL C1
-break noun DAMAGE C1
-breakdown noun FAILURE C1
-bribe noun C1
-bribe verb C1
-broaden verb C1
-broadly adverb C1
-bronze noun PRIZE C1
-brutal adjective C1
-bubble noun C1
-bulky adjective C1
-bully verb C1
-bully noun C1
-bump noun BODY C1
-bump noun SURFACE C1
-burden noun C1
-cabin noun HOUSE C1
-call verb ASK TO COME C1
-call noun VISIT C1
-campaign noun ACTIVITIES C1
-campaign noun WAR C1
-campaign verb C1
-cancellation noun C1
-cap verb LIMIT C1
-capability noun C1
-capacity noun JOB C1
-capture noun C1
-carriage noun TRAIN C1
-carry verb DISEASE C1
-cater verb C1
-cause noun PRINCIPLE C1
-caution noun CARE C1
-central adjective CITY C1
-central adjective ORGANIZATION C1
-cereal noun PLANT C1
-changeable adjective C1
-chaotic adjective C1
-character noun INTERESTING PERSON C1
-character noun WRITING C1
-charge noun CRIME C1
-chatty adjective PERSON C1
-chatty adjective WRITING C1
-cheap adjective LOW QUALITY C1
-chilly adjective C1
-cholesterol noun C1
-chore noun C1
-cinema noun ART C1
-civil adjective C1
-civilization noun WAY OF LIFE C1
-claim noun STATEMENT C1
-clarification noun C1
-clarify verb C1
-classify verb C1
-clear adjective NOT BLOCKED C1
-clinical adjective MEDICAL C1
-close adjective SIMILAR C1
-closely adverb VERY NEAR C1
-closely adverb CAREFULLY C1
-closeness noun NEAR C1
-closeness noun RELATIONSHIP C1
-clutch noun ENGINE C1
-coal noun FUEL C1
-code noun RULES C1
-collaborate verb C1
-collaboration noun C1
-column noun NUMBERS/WORDS C1
-comfort noun PLEASANT THING C1
-command noun COMPUTER C1
-commodity noun C1
-common adjective ORDINARY C1
-commonly adverb C1
-commute verb C1
-comparable adjective C1
-comparative adjective C1
-compatible adjective EQUIPMENT C1
-compensate verb MONEY C1
-competence noun C1
-competent adjective C1
-compile verb C1
-complaint noun ANNOYING THING C1
-completion noun C1
-complex noun BUILDINGS C1
-complicate verb C1
-complication noun DIFFICULTY C1
-compliment verb C1
-comply verb C1
-component noun MACHINE C1
-component noun FEATURE C1
-comprehensive adjective C1
-comprehensively adverb C1
-comprise verb CONSIST C1
-comprise verb FORM C1
-concern verb WORRY C1
-conclude verb DECIDE C1
-conclude verb END C1
-concrete adjective CERTAIN C1
-condition noun AGREEMENT C1
-confidential adjective C1
-congestion noun C1
-conquer verb C1
-conscientious adjective C1
-conscious adjective AWAKE C1
-consciousness noun AWARE C1
-consent noun C1
-conservation noun NOT WASTE C1
-conservative adjective C1
-consider verb FACTS C1
-consider verb MAY BE TRUE C1
-considerate adjective C1
-constitute verb C1
-constitution noun LAWS C1
-constructive adjective C1
-consult verb GET INFORMATION C1
-consult verb DISCUSS C1
-consume verb USE RESOURCE C1
-consumption noun C1
-contact noun TOUCH C1
-contestant noun C1
-context noun LANGUAGE C1
-continual adjective C1
-continually adverb C1
-contradict verb SAY SOMEONE IS WRONG C1
-contribute verb WRITE C1
-control noun CALM C1
-controversy noun C1
-convenience noun HELPFUL THING C1
-convention noun MEETING C1
-convention noun CUSTOM C1
-convey verb C1
-convincing adjective C1
-cool adjective CALM C1
-coolness noun COLD C1
-corporate adjective C1
-corrupt adjective C1
-corrupt verb C1
-corruption noun BAD BEHAVIOUR C1
-corruption noun MAKE DISHONEST C1
-cosmopolitan adjective C1
-counterpart noun C1
-countless adjective C1
-courageous adjective C1
-cover verb REPORT C1
-cover verb FINANCIAL PROTECTION C1
-cover verb MONEY C1
-cover noun FINANCIAL C1
-cover noun FROM WEATHER/ATTACK C1
-coverage noun REPORT C1
-crash verb MONEY C1
-crash noun BUSINESS C1
-crawl noun SPEED C1
-crawl noun SWIMMING C1
-criterion noun C1
-critic noun NOT APPROVE C1
-crossing noun TRIP BY WATER C1
-crowd verb C1
-cultivate verb GROW C1
-cultivation noun C1
-cure verb PROBLEM C1
-customary adjective C1
-cut noun REDUCTION C1
-cutback noun C1
-cutting-edge adjective C1
-dark adjective BAD C1
-date noun FRUIT C1
-daycare noun C1
-daydream verb C1
-day-to-day adjective C1
-dead adverb EXTREMELY C1
-debut noun C1
-decisive adjective AFFECTING C1
-declaration noun C1
-dedicated adjective GIVING TIME/ENERGY C1
-dedication noun C1
-deduction noun AMOUNT C1
-deepen verb KNOWLEDGE C1
-defect noun C1
-defence noun MILITARY C1
-defend verb LAW C1
-deficiency noun FAULT C1
-deficit noun C1
-definition noun IMAGE C1
-delegate noun C1
-delicate adjective NEEDING CARE C1
-deliver verb PROMISE C1
-demonstrate verb SHOW HOW C1
-demonstration noun SHOWING C1
-demonstration noun PROOF C1
-density noun C1
-deodorant noun C1
-deposit noun BANK C1
-deposit noun RENT C1
-deposit verb C1
-deprived adjective C1
-deputy noun C1
-deserted adjective C1
-design noun DRAWING C1
-desire verb C1
-destiny noun FUTURE C1
-destiny noun POWER C1
-detached adjective BUILDING C1
-detect verb C1
-deteriorate verb C1
-determine verb FIND C1
-determine verb DECIDE C1
-devastated adjective C1
-devastating adjective SHOCKING C1
-developer noun PRODUCTS C1
-dictate verb C1
-diesel noun C1
-differentiate verb SEE DIFFERENCE C1
-digest verb FOOD C1
-digest verb INFORMATION C1
-digestion noun C1
-diminish verb C1
-diplomatic adjective GOVERNMENTS C1
-direct adjective CLEAR C1
-direct verb ORGANIZE C1
-direction noun CONTROL C1
-directory noun C1
-disadvantaged adjective C1
-disapproval noun C1
-disastrous adjective C1
-discipline noun SELF CONTROL C1
-discomfort noun SITUATION C1
-discontent noun C1
-discovery noun THING/PERSON C1
-discriminate verb TREAT UNFAIRLY C1
-discrimination noun C1
-disgusted adjective C1
-dishonestly adverb C1
-dismiss verb NOT CONSIDER C1
-dismiss verb MAKE LEAVE C1
-dismissal noun IDEA C1
-dismissal noun JOB C1
-disorder noun ILLNESS C1
-disorder noun BAD BEHAVIOUR C1
-displace verb C1
-displacement noun C1
-disrespect noun C1
-disruption noun C1
-dissertation noun C1
-dissolve verb END C1
-distant adjective NOT FRIENDLY C1
-distinct adjective DIFFERENT C1
-distinct adjective CLEAR C1
-distinctive adjective C1
-distort verb C1
-distraction noun NO ATTENTION C1
-distraction noun FUN C1
-distress noun UPSET C1
-distressed adjective C1
-distribute verb SUPPLY C1
-distribution noun SUPPLYING C1
-distribution noun SHARING C1
-disturbance noun INTERRUPTION C1
-diversity noun C1
-divide verb NUMBERS C1
-divide verb DISAGREE C1
-divide noun C1
-dock noun C1
-domain noun C1
-dominant adjective IMPORTANT C1
-dominate verb BE IMPORTANT C1
-domination noun C1
-donate verb BLOOD/ORGANS C1
-doubt verb NOT BELIEVE C1
-down adjective NOT WORKING C1
-downside noun C1
-down-to-earth adjective C1
-downward adjective C1
-downwards adverb C1
-draft verb C1
-drastic adjective C1
-drastically adverb C1
-draught noun C1
-draw verb SPORT C1
-drawback noun C1
-drive noun ENERGY C1
-drop verb TAKE C1
-drop noun DISTANCE C1
-dry adjective WINE C1
-dry adjective HAIR/SKIN C1
-dual adjective C1
-dull adjective NOT BRIGHT C1
-dumb adjective C1
-dump verb GET RID OF C1
-dump noun WASTE C1
-duration noun C1
-easily adverb LIKELY C1
-ecology noun C1
-edible adjective C1
-effectiveness noun C1
-electrical adjective SUPPLY C1
-elegance noun C1
-eligible adjective C1
-eliminate verb GET RID OF C1
-eliminate verb COMPETITION C1
-elite noun C1
-embrace verb ACCEPT C1
-embrace verb INCLUDE C1
-emerge verb BECOME KNOWN C1
-emission noun C1
-emperor noun C1
-empire noun COUNTRIES C1
-empire noun BUSINESSES C1
-employ verb USE C1
-empty adjective NO MEANING C1
-enclose verb BE ALL AROUND C1
-enforce verb C1
-engage verb C1
-enhance verb C1
-enrich verb C1
-enter verb PERIOD OF TIME C1
-enterprise noun BUSINESS C1
-enterprise noun QUALITY C1
-entitle verb GIVE TITLE C1
-environmentalist noun C1
-envisage verb C1
-envision verb C1
-equally adverb SAME AMOUNTS C1
-equally adverb SAME DEGREE C1
-equation noun C1
-equivalent adjective C1
-equivalent noun C1
-erosion noun PHYSICAL DAMAGE C1
-escape noun GETTING OUT C1
-establishment noun ORGANIZATION C1
-establishment noun STARTING C1
-ethnic adjective C1
-evaluate verb C1
-evaluation noun C1
-evolve verb C1
-exaggerate verb C1
-exaggeration noun C1
-exceed verb BE MORE C1
-exceptionally adverb C1
-excess noun C1
-excess adjective C1
-excessive adjective C1
-exclude verb KEEP OUT C1
-exclude verb NOT INCLUDE C1
-exclusive adjective NOT SHARED C1
-exclusively adverb C1
-executive adjective C1
-executive noun C1
-exhaust verb C1
-exhaust noun GAS C1
-exhaust noun PIPE C1
-exhaustive adjective C1
-exhibit verb SHOW OBJECTS C1
-exhibit noun C1
-exist verb LIVE C1
-existence noun LIFE C1
-expenses noun C1
-exploration noun C1
-explosion noun INCREASE C1
-exposure noun C1
-exterior noun C1
-extinct adjective C1
-extinction noun C1
-extra noun ACTOR C1
-extrovert noun C1
-fabric noun C1
-fabulous adjective C1
-facilitate verb C1
-fair adjective AVERAGE C1
-fair noun SHOW OF GOODS/SERVICES C1
-fairness noun C1
-fake adjective C1
-fall noun DEFEAT C1
-false adjective NOT SINCERE C1
-fascinate verb C1
-fascination noun C1
-fatty adjective C1
-feasible adjective C1
-feast noun C1
-feed verb EAT FOOD C1
-feed verb SUPPLY C1
-feminine adjective C1
-fibre noun C1
-fiction noun NOT TRUE C1
-figure noun AMOUNT C1
-figure noun PICTURE C1
-fill verb JOB C1
-filthy adjective DIRTY C1
-filthy adjective OFFENSIVE C1
-fit verb SAME C1
-fit verb SUITABLE C1
-fit adjective SUITABLE C1
-flair noun ABILITY C1
-flaw noun C1
-flee verb C1
-fleet noun SHIPS C1
-fleet noun VEHICLES C1
-flow noun MOVEMENT C1
-follow verb BE INTERESTED C1
-footstep noun C1
-for preposition RESPONSIBILITY C1
-for preposition COMPARE C1
-foresee verb C1
-formal adjective STUDY C1
-formal adjective OFFICIAL C1
-formally adverb OFFICIALLY C1
-formally adverb POLITELY C1
-format noun C1
-formula noun METHOD C1
-formula noun RULE C1
-forthcoming adjective OFFERED C1
-forward adverb PROGRESS C1
-foul adjective UNPLEASANT C1
-foundation noun START C1
-foundation noun ORGANIZATION C1
-fresh adjective NOT TIRED C1
-friction noun C1
-fright noun C1
-fruitful adjective C1
-frustrated adjective C1
-frustrating adjective C1
-fumes noun C1
-function noun EVENT C1
-fund noun C1
-fund verb C1
-funding noun C1
-furnished adjective C1
-fuss noun C1
-gadget noun C1
-gain noun INCREASE C1
-garment noun C1
-gather verb THINK C1
-gathering noun C1
-gene noun C1
-generalization noun C1
-generalize verb C1
-generous adjective LARGE C1
-genetic adjective C1
-genetically modified adjective C1
-genius noun PERSON C1
-gentle adjective SLOPE C1
-genuine adjective SINCERE C1
-geology noun C1
-germ noun DISEASE C1
-gerund noun C1
-gesture noun MOVEMENT C1
-gesture noun ACTION C1
-giant noun IMAGINARY MAN C1
-gift noun ABILITY C1
-gifted adjective C1
-glamour noun C1
-glimpse noun C1
-globalization noun C1
-glory noun PRAISE C1
-glory noun QUALITY C1
-good adjective LARGE C1
-grace noun MOVEMENT C1
-graceful adjective MOVEMENT/SHAPE C1
-grade verb LEVEL C1
-grand adjective C1
-grasp verb HOLD C1
-grasp verb UNDERSTAND C1
-greed noun C1
-grey adjective BORING C1
-grill noun OVER FIRE C1
-gripping adjective C1
-gross adjective TOTAL C1
-gross adjective SERIOUS C1
-group verb C1
-grumpy adjective C1
-guideline noun C1
-habitat noun C1
-happily adverb LUCKY C1
-harassment noun C1
-hard adjective UNPLEASANT C1
-hardship noun C1
-harsh adjective UNPLEASANT C1
-harsh adjective CRUEL C1
-harsh adjective TOO STRONG C1
-hate noun C1
-hatred noun C1
-hazard noun C1
-head verb FRONT/TOP C1
-heading noun C1
-health care noun C1
-heavenly adjective C1
-hectic adjective C1
-helpless adjective C1
-hence adverb C1
-heroic adjective BRAVE C1
-heroic adjective TRYING HARD C1
-high adverb AMOUNT/LEVEL C1
-highly adverb VERY C1
-hilarious adjective C1
-historian noun C1
-historically adverb C1
-hit verb REACH C1
-hold verb JOB OR QUALIFICATION C1
-holy adjective C1
-home noun CARE C1
-homeless adjective C1
-honoured adjective C1
-hop verb MOVE QUICKLY C1
-horizontal adjective C1
-horn noun ANIMAL C1
-hospitable adjective C1
-hospitality noun C1
-host verb C1
-hostile adjective UNFRIENDLY C1
-hostile adjective DIFFICULT C1
-hot adjective EXCITING C1
-hourly adverb C1
-housing noun C1
-humanity noun ALL PEOPLE C1
-humorous adjective C1
-hunger noun WISH C1
-hunt noun C1
-hygiene noun C1
-hysterical adjective C1
-iceberg noun ICE C1
-idea noun AIM C1
-idealistic adjective C1
-idol noun PERSON C1
-ill adjective BAD C1
-illustrate verb DIAGRAM C1
-illustrate verb EXPLAIN C1
-illustration noun PICTURE C1
-imaginary adjective C1
-imaginative adjective THING C1
-imaginative adjective PERSON C1
-imitate verb C1
-immediate adjective CLOSEST C1
-immediately adverb NEXT TO C1
-immense adjective C1
-immensely adverb C1
-impact verb C1
-imperfect adjective C1
-impersonal adjective C1
-implication noun EFFECT C1
-import noun PRODUCT C1
-impose verb RULE/TAX, ETC. C1
-impose verb BELIEF C1
-imprison verb C1
-inability noun C1
-inaccuracy noun C1
-inadequate adjective NOT GOOD C1
-inadequate adjective NOT ENOUGH C1
-inappropriate adjective C1
-inappropriately adverb C1
-incidentally adverb C1
-inclusion noun C1
-inclusive adjective C1
-inconvenience noun C1
-incredibly adverb DIFFICULT TO BELIEVE C1
-index noun C1
-indicate verb SHOW C1
-indication noun EXIST C1
-indirect adjective NOT CONNECTED C1
-indirectly adverb C1
-individually adverb C1
-industrialization noun C1
-industrialized adjective C1
-inedible adjective C1
-inefficient adjective C1
-inevitable adjective C1
-inevitably adverb C1
-infect verb DISEASE C1
-infect verb COMPUTER C1
-inferior adjective C1
-influential adjective C1
-informally adverb C1
-informative adjective C1
-infrastructure noun C1
-initiative noun NEW ACTION C1
-initiative noun ABILITY C1
-injustice noun C1
-innocence noun NOT GUILTY C1
-innovation noun C1
-innovative adjective C1
-insane adjective STUPID C1
-insecure adjective WORRIED C1
-insensitive adjective PEOPLE C1
-insert verb PUT INTO C1
-insert verb ADD TO WRITING C1
-insight noun C1
-insignificant adjective C1
-inspect verb C1
-inspection noun OFFICIAL C1
-installation noun EQUIPMENT C1
-installation noun SOFTWARE C1
-instance noun EXAMPLE C1
-instruct verb ORDER C1
-instrument noun TOOL C1
-insufficient adjective C1
-integral adjective C1
-integrate verb C1
-integration noun C1
-intense adjective EXTREME C1
-intensively adverb C1
-interaction noun C1
-interactive adjective COMMUNICATION C1
-interest noun MONEY CHARGED C1
-interest noun MONEY EARNED C1
-interestingly adverb C1
-interfere verb CAUSE PROBLEMS C1
-interference noun SITUATION C1
-internally adverb C1
-interpret verb DECIDE MEANING C1
-introduction noun FIRST EXPERIENCE C1
-invade verb PLACE C1
-invaluable adjective C1
-invite verb ASK OFFICIALLY C1
-irritate verb C1
-isolated adjective FAR AWAY C1
-isolated adjective ALONE C1
-isolation noun SEPARATE C1
-itinerary noun C1
-jam noun BLOCK C1
-jam verb STUCK C1
-jargon noun C1
-jealousy noun C1
-joint noun PLACE C1
-jointly adverb C1
-journal noun MAGAZINE C1
-judge verb COMPETITION C1
-junk noun C1
-junk mail noun C1
-jury noun COMPETITION C1
-just adjective C1
-justified adjective C1
-juvenile adjective C1
-keen adjective VERY GOOD C1
-keep verb PROVIDE MONEY C1
-kill verb CAUSE PAIN C1
-king noun BEST PERSON C1
-knob noun C1
-knowledgeable adjective C1
-label verb INFORMATION C1
-labour noun WORK C1
-labour noun WORKERS C1
-ladder noun STAGES C1
-landmark noun BUILDING C1
-language noun TYPE OF WORDS C1
-language noun COMPUTERS C1
-last verb BE ENOUGH C1
-launch verb SEND C1
-launch noun START OF ACTIVITY C1
-launch noun LEAVE LAND C1
-lawn noun C1
-layout noun C1
-leader noun WINNER C1
-leadership noun JOB C1
-leadership noun QUALITY C1
-left-wing adjective C1
-legend noun FAME C1
-legendary adjective FAMOUS C1
-legendary adjective OLD C1
-length noun BOOK, ETC. C1
-lengthen verb C1
-lengthy adjective C1
-lessen verb C1
-level noun RANK C1
-liability noun RESPONSIBILITY C1
-liability noun TROUBLE C1
-liable adjective RESPONSIBLE C1
-liberal adjective SOCIETY C1
-liberal adjective POLITICS C1
-liberation noun C1
-lightly adverb NOT MUCH C1
-likely adverb C1
-limitation noun RULE C1
-line noun PRODUCT C1
-linguistic adjective C1
-listener noun C1
-literacy noun C1
-little adverb NOT ENOUGH C1
-log noun C1
-logic noun C1
-loneliness noun C1
-long-time adjective C1
-look noun FASHION C1
-lose verb MONEY C1
-loss noun MONEY C1
-lost adjective NEW SITUATION C1
-lounge noun C1
-low adjective NOT IMPORTANT C1
-low adjective UNHAPPY C1
-luxurious adjective C1
-luxury noun EXPENSIVE THING C1
-machinery noun C1
-magistrate noun C1
-magnetic adjective METAL C1
-magnetic adjective PERSONALITY C1
-magnificently adverb C1
-make verb SUITABLE C1
-mammal noun C1
-manage verb USE TIME/MONEY C1
-mansion noun C1
-march noun C1
-march verb SHOW DISAGREEMENT C1
-march verb SOLDIERS' WALK C1
-mark noun SYMBOL C1
-mark verb DAMAGE/MAKE DIRTY C1
-market noun BUYING GROUP C1
-masculine adjective C1
-mass adjective C1
-mat noun C1
-match verb BE AS GOOD AS C1
-material noun INFORMATION C1
-measure verb BE SIZE C1
-mechanism noun PART OF EQUIPMENT C1
-mechanism noun SYSTEM C1
-meet verb ENOUGH C1
-membership noun PEOPLE C1
-memo noun C1
-mentality noun C1
-merit noun C1
-middle adjective NOT HIGH OR LOW C1
-the middle class noun C1
-middle-class adjective C1
-migration noun C1
-mild adjective SLIGHT C1
-miner noun C1
-mingle verb TALK C1
-minimal adjective C1
-minimize verb C1
-mining noun C1
-ministry noun C1
-minority noun RACE C1
-misbehave verb C1
-misfortune noun C1
-misinform verb C1
-mislead verb C1
-mistaken adjective C1
-misuse verb C1
-misuse noun C1
-mode noun C1
-moderate adjective C1
-modest adjective NOT PROUD C1
-modestly adverb BY SMALL AMOUNT C1
-modification noun C1
-modify verb C1
-monitor verb C1
-monotonous adjective C1
-moral adjective GOOD BEHAVIOUR C1
-motivate verb ENTHUSIASTIC C1
-motivate verb CAUSE C1
-motivation noun REASON C1
-move noun ACTION C1
-move noun CHANGE OF PLACE C1
-movement noun GROUP C1
-much determiner, pronoun A LOT OF C1
-multiple adjective C1
-mundane adjective C1
-municipal adjective C1
-musical adjective ABILITY C1
-mustard noun C1
-mutual adjective OPINION C1
-mutual adjective FRIEND/INTEREST C1
-mysteriously adverb C1
-myth noun FALSE IDEA C1
-naive adjective C1
-naked adjective NOT HIDDEN C1
-namely adverb C1
-nap noun C1
-narrow verb MAKE SMALLER C1
-narrow-minded adjective C1
-natural adjective FROM BIRTH C1
-naturally adverb LIFE C1
-nature noun TYPE C1
-neatly adverb C1
-necessity noun NEED C1
-necessity noun SOMETHING NEEDED C1
-neglect verb NOT GIVE ATTENTION C1
-neglect noun C1
-negotiate verb C1
-negotiation noun C1
-nervousness noun C1
-network noun PEOPLE C1
-network noun COMPANY C1
-networking noun C1
-neutral adjective INDEPENDENT C1
-neutral adjective COLOUR C1
-never-ending adjective C1
-newsletter noun C1
-nickname noun C1
-noble adjective GOOD C1
-noble adjective SOCIAL GROUP C1
-nominate verb C1
-nomination noun C1
-nonetheless adverb C1
-non-existent adjective C1
-norm noun SOCIETY C1
-notable adjective C1
-notably adverb C1
-note noun FEELING C1
-noticeable adjective C1
-noticeably adverb C1
-notify verb C1
-notion noun C1
-notorious adjective C1
-notwithstanding adverb, preposition C1
-number verb GIVE A NUMBER C1
-numerous adjective C1
-nutrition noun C1
-nutritional adjective C1
-nutritious adjective C1
-obese adjective C1
-obesity noun C1
-objectively adverb C1
-obligatory adjective COMPULSORY C1
-oblige verb C1
-observation noun REMARK C1
-observe verb NOTICE C1
-obsolete adjective C1
-obstacle noun C1
-occasional adjective C1
-occupation noun HOBBY C1
-occupy verb CONTROL C1
-occurrence noun C1
-odds noun PROBABILITY C1
-of preposition RELATING TO C1
-off adverb DISTANCE/TIME C1
-offer verb AGREE TO PAY C1
-office noun JOB C1
-officially adverb C1
-omit verb C1
-one pronoun ANY PERSON C1
-oneself pronoun C1
-opening adjective C1
-openly adverb C1
-open-minded adjective C1
-operation noun PLANNED ACTIVITY C1
-operation noun ORGANIZATION C1
-operation noun WORK C1
-opposition noun DISAGREEMENT C1
-opt verb C1
-optimist noun C1
-or conjunction REASON C1
-organ noun BODY C1
-organization noun ARRANGEMENT C1
-origin noun COUNTRY/RACE, ETC. C1
-otherwise adverb DIFFERENTLY C1
-out adverb NOT ACCURATE C1
-outcome noun C1
-outgoing adjective FRIENDLY C1
-outlook noun FUTURE C1
-outnumber verb C1
-outrage verb C1
-outside adjective DIFFERENT ORGANIZATION C1
-outweigh verb C1
-overcrowded adjective C1
-overdo verb C1
-overdraft noun C1
-overdrawn adjective C1
-overestimate verb C1
-overtake verb BIGGER C1
-overview noun DESCRIPTION C1
-overview noun KNOWLEDGE C1
-overwhelm verb C1
-overwhelming adjective C1
-overworked adjective C1
-ownership noun C1
-ozone noun C1
-palm noun TREE C1
-panel noun PEOPLE C1
-paradise noun C1
-partially adverb C1
-participant noun C1
-particular adjective NOT EASILY SATISFIED C1
-pastry noun MIXTURE C1
-pastry noun CAKE C1
-payable adjective TO BE PAID C1
-payable adjective FOR PERSON C1
-peasant noun C1
-peer noun C1
-pensioner noun C1
-perceive verb THINK C1
-perfection noun C1
-perk noun C1
-permit verb MAKE POSSIBLE C1
-permit noun C1
-personnel noun C1
-perspective noun WAY OF THINKING C1
-persuasive adjective C1
-phenomenon noun C1
-philosophy noun WAY OF THINKING C1
-picture verb C1
-place verb SITUATION C1
-planning noun BUILDINGS C1
-pleasurable adjective C1
-plunge verb BECOME LOWER C1
-pointless adjective C1
-policy noun AGREEMENT C1
-politically adv C1
-pony noun C1
-poorly adverb C1
-poorly adjective C1
-portable adjective C1
-portion noun PART C1
-pose verb BE STILL C1
-possess verb C1
-postal adjective C1
-posture noun C1
-power noun POLITICS C1
-power noun COUNTRY C1
-power noun STRENGTH C1
-practical adjective POSSIBLE C1
-practical adjective SUITABLE C1
-practise verb WORK C1
-praise noun C1
-precaution noun C1
-precisely adverb AGREEMENT C1
-predator noun C1
-pregnancy noun C1
-prejudiced adjective C1
-preliminary adjective C1
-premises noun C1
-presently adverb C1
-preservation noun C1
-pressure noun LIQUID/GAS C1
-prestige noun C1
-prestigious adjective C1
-presume verb C1
-price noun RESULT C1
-price verb C1
-priceless adjective IMPORTANT C1
-primitive adjective NOT DEVELOPED C1
-primitive adjective BASIC C1
-principle noun IDEA C1
-print noun PICTURE C1
-prior adjective BEFORE C1
-privatize verb C1
-privilege noun ADVANTAGE C1
-privilege noun OPPORTUNITY C1
-privileged adjective ADVANTAGE C1
-probability noun C1
-problematic adjective C1
-proceed verb CONTINUE C1
-produce verb SHOW C1
-producer noun GOODS/FOOD C1
-productivity noun C1
-professional noun TRAINED C1
-profile noun PUBLIC IMAGE C1
-profitable adjective USEFUL C1
-programmer noun C1
-progression noun C1
-progressive adjective GRADUAL C1
-projection noun CALCULATION C1
-projection noun IMAGE C1
-prolong verb C1
-prolonged adjective C1
-prominent adjective IMPORTANT C1
-promising adjective C1
-promote verb ENCOURAGE C1
-promotion noun ENCOURAGE C1
-proportion noun PART OF TOTAL C1
-proposition noun C1
-prosperity noun C1
-prosperous adjective C1
-prostitute noun C1
-protective adjective WANTING TO PROTECT C1
-protein noun C1
-provider noun C1
-provision noun C1
-publicly adverb C1
-pulse noun C1
-purely adverb C1
-purity noun C1
-pursue verb C1
-push verb ENCOURAGE C1
-push noun ENCOURAGEMENT C1
-puzzle verb C1
-pyramid noun C1
-qualification noun COMPETITION C1
-quote verb REPEAT C1
-quote verb GIVE EXAMPLE C1
-race noun PEOPLE C1
-race noun FOR POWER C1
-racially adverb C1
-radiation noun C1
-radical adjective CHANGE C1
-radically adverb C1
-random adjective CHANCE C1
-randomly adverb C1
-rank noun C1
-rank verb C1
-rare adjective MEAT C1
-rarity noun C1
-rate noun SPEED C1
-rate verb C1
-rating noun C1
-ratio noun C1
-rational adjective C1
-react verb BAD EFFECT C1
-readership noun C1
-readiness noun WILLING C1
-readjust verb SMALL CHANGE C1
-realistically adverb SEEM REAL C1
-realization noun NOTICING C1
-rear verb C1
-reassure verb C1
-reassuring adjective C1
-rebellion noun C1
-rebellious adjective C1
-receive verb REACT C1
-reception noun REACTION C1
-recharge verb C1
-recognize verb SHOW RESPECT C1
-reconsider verb C1
-reconstruct verb BUILD AGAIN C1
-reconstruction noun BUILD AGAIN C1
-record verb SHOW MEASUREMENT C1
-recover verb GET BACK C1
-recovery noun SITUATION C1
-recreate verb C1
-recruit verb C1
-recruitment noun C1
-rectangle noun C1
-rectify verb C1
-redevelop verb C1
-redevelopment noun C1
-redundancy noun C1
-reference noun MENTIONING C1
-reference noun READING C1
-reflect verb THINK C1
-refresh verb C1
-refreshing adjective DIFFERENT C1
-refreshing adjective FEEL BETTER C1
-refund verb C1
-refusal noun C1
-regard noun RESPECT C1
-register noun LANGUAGE STYLE C1
-regulate verb ACTIVITY/PROCESS C1
-regulate verb SPEED/TEMPERATURE C1
-regulation noun CONTROL C1
-rehearse verb C1
-reign noun C1
-reinforce verb OPINION C1
-relative adjective MEASURED C1
-relax verb LESS STIFF C1
-release verb INFORMATION C1
-release verb SUBSTANCE C1
-release noun MAKING FREE C1
-release noun AREA/ATMOSPHERE C1
-relevance noun C1
-reliability noun C1
-relocate verb C1
-reluctant adjective C1
-reluctantly adverb C1
-remarkably adverb C1
-reminder noun C1
-render verb GIVE C1
-renewable adjective ENERGY C1
-renewal noun AGREEMENT C1
-renovate verb C1
-renovation noun C1
-reorganize verb C1
-repeatedly adverb C1
-repetitive adjective C1
-replacement noun PROCESS C1
-reproduce verb COPY C1
-reproduce verb REPEAT C1
-reproduction noun COPY C1
-reptile noun C1
-republic noun C1
-reputable adjective C1
-resemble verb C1
-resident adjective C1
-resist verb FIGHT C1
-resolve verb C1
-respectful adjective C1
-respective adjective C1
-respectively adverb C1
-restart verb C1
-restless adjective NOT STILL C1
-restore verb MAKE EXIST C1
-restrain verb C1
-restrict verb C1
-restricted adjective C1
-restriction noun LIMIT C1
-resume verb C1
-retail noun C1
-rethink verb C1
-return verb DO THE SAME C1
-revenue noun C1
-reverse verb CHANGE C1
-review verb CONSIDER C1
-rewarding adjective C1
-richness noun C1
-riot noun C1
-rip-off noun C1
-rise noun PAY C1
-risk noun SOMETHING BAD C1
-rival noun C1
-rocky adjective WITH ROCKS C1
-role model noun C1
-rough adjective DANGEROUS C1
-rubbish noun NONSENSE C1
-rudely adverb C1
-rudeness noun C1
-rule verb CONTROL C1
-ruler noun LEADER C1
-run verb WORKING C1
-run verb PUBLISH C1
-runway noun C1
-rush verb FORCE ACTION C1
-sack noun BAG C1
-sacred adjective HOLY C1
-sacrifice noun C1
-sacrifice verb C1
-safe adjective WITHOUT RISK C1
-safety noun HOW SAFE C1
-saint noun C1
-satisfactorily adverb C1
-saving noun LESS MONEY C1
-scan verb COMPUTER C1
-scan verb READ C1
-scar noun MIND C1
-scarce adjective C1
-scare verb FRIGHTEN C1
-scenic adjective C1
-scholar noun C1
-scholarship noun C1
-scope noun AMOUNT C1
-search verb FIND ANSWER C1
-secretary noun COMMITTEE C1
-sector noun C1
-secure adjective COMPUTER C1
-security noun SAFE SITUATION C1
-see verb HAPPEN C1
-seemingly adverb C1
-selective adjective C1
-self noun C1
-self-catering adjective C1
-self-centred adjective C1
-self-conscious adjective C1
-self-esteem noun C1
-selfishness noun C1
-semi-detached adjective C1
-sensational adjective SHOCKING C1
-sensibly adverb C1
-sensitivity noun KIND C1
-sensitivity noun EASILY UPSET C1
-sequence noun FILM C1
-serial adjective C1
-serial noun C1
-serve verb BE USEFUL C1
-serve verb WORK C1
-service noun WORK C1
-set verb LEVEL C1
-setback noun C1
-settle verb ARGUMENT C1
-settle verb SNOW/DUST, ETC. C1
-settlement noun AGREEMENT C1
-sewing noun C1
-sexual adjective MALE OR FEMALE C1
-shabby adjective UNTIDY C1
-shame noun BAD FEELING C1
-shameful adjective C1
-sharp adjective CLEAR C1
-sharp adverb SUDDENLY C1
-sharp adverb EXACTLY C1
-sheer adjective EXTREME C1
-sheer adjective LARGE C1
-shield verb C1
-shift verb CHANGE C1
-shift verb MOVE STH C1
-shift noun CHANGE C1
-shine verb REFLECT C1
-shoot verb FILM C1
-shortcoming noun C1
-shorten verb C1
-show verb EASY TO SEE C1
-shuttle noun C1
-shyness noun C1
-side effect noun MEDICINE C1
-significance noun C1
-similarly adverb C1
-simplicity noun C1
-simplify verb C1
-simulation noun C1
-simultaneous adjective C1
-sincere adjective HONEST C1
-sincerely adverb EMPHASIS C1
-sip verb C1
-sketch noun PICTURE C1
-sketch noun ACTING C1
-skilful adjective DONE WELL C1
-skip verb AVOID C1
-slang noun C1
-slavery noun C1
-sleepy adjective PLACE C1
-slippery adjective C1
-slogan noun C1
-slot noun HOLE C1
-slot noun TIME C1
-smart adjective TECHNOLOGY C1
-smog noun C1
-smooth adjective PROCESS C1
-smuggle verb C1
-soak verb MAKE WET C1
-soaring adjective C1
-socialist noun C1
-sole adjective C1
-solely adverb C1
-solicitor noun C1
-solid adjective NOT LIQUID/GAS C1
-solidarity noun C1
-solitude noun C1
-some determiner NOT USING NAME C1
-somewhat adverb C1
-source noun PERSON C1
-sow verb C1
-soya noun C1
-spacious adjective C1
-spam noun C1
-spare verb GIVE C1
-sparkling adjective SPECIAL C1
-speciality noun C1
-specific adjective EXACT C1
-specifically adverb PARTICULAR PURPOSE C1
-specifically adverb EXACTLY C1
-specification noun C1
-spectrum noun ALL POSSIBILITIES C1
-speculation noun C1
-speechless adjective C1
-sphere noun C1
-spin verb TURN C1
-spine noun C1
-spirit noun NOT BODY C1
-spirit noun DRINK C1
-splendid adjective C1
-split verb SHARE C1
-spoil verb CHILD C1
-spokesman noun C1
-spokesperson noun C1
-sponsorship noun C1
-sporty adjective C1
-spread verb ARRANGE C1
-spring noun WATER C1
-spy verb INFORMATION C1
-stability noun C1
-stable adjective SITUATION C1
-stable adjective PERSON C1
-staggering adjective C1
-staircase noun C1
-stale adjective C1
-stamina noun C1
-stand verb NOT BE DESTROYED C1
-stand verb ACCEPT C1
-stand noun FOR SELLING/SHOWING C1
-star noun BEST C1
-starve verb C1
-state noun COUNTRY C1
-state-of-the-art adjective C1
-statistic noun C1
-statistical adjective C1
-status noun C1
-status symbol noun C1
-steady adjective NOT CHANGING C1
-steep adjective LARGE C1
-stereotype noun C1
-stock verb C1
-stocking noun C1
-stock market noun C1
-stormy adjective ARGUING C1
-strategic adjective C1
-straw noun C1
-strength noun GOOD QUALITIES C1
-strength noun BEING BRAVE C1
-stress noun IMPORTANCE C1
-stretch noun C1
-striker noun WORKER C1
-strip noun C1
-stroke noun SWIMMING C1
-stroll noun C1
-stuck adjective NOT CONTINUE C1
-subjective adjective C1
-subsequent adjective C1
-subsequently adverb C1
-subsidy noun C1
-substantially adverb C1
-substitution noun C1
-subtitles noun C1
-successor noun PERSON C1
-sue verb C1
-sufficiently adverb C1
-suitability noun C1
-summarize verb C1
-summit noun MOUNTAIN C1
-superior adjective BETTER C1
-superior noun C1
-supervision noun C1
-supervisor noun C1
-support verb PROVE C1
-supportive adjective C1
-suppose verb LIKELY C1
-supposedly adverb C1
-surge verb C1
-surge noun C1
-surgeon noun C1
-survey verb QUESTION C1
-survey verb EXAMINE C1
-suspend verb STOP C1
-suspicion noun THINK GUILTY C1
-sustainable adjective CONTINUE C1
-sustainable adjective ENVIRONMENT C1
-swap verb C1
-tactic noun C1
-takeover noun C1
-talkative adjective C1
-tank noun VEHICLE C1
-target noun CRITICISM C1
-tasteless adjective FOOD C1
-tax verb C1
-teamwork noun C1
-technically adverb SCIENCE/INDUSTRY C1
-technician noun C1
-techno noun C1
-technologically adverb C1
-tedious adjective C1
-telly noun C1
-tendency noun C1
-terrific adjective LARGE/SERIOUS C1
-tertiary adjective C1
-texture noun C1
-thankful adjective C1
-thankfully adverb C1
-therapeutic adjective HEALTH C1
-therapeutic adjective RELAXED C1
-therapist noun C1
-thereby adverb C1
-this adverb C1
-thoughtful adjective CAREFULLY CONSIDERING C1
-threaten verb DAMAGE C1
-thrill noun C1
-thrive verb C1
-through adjective C1
-throughout preposition EVERYWHERE C1
-throughout adverb C1
-time noun IN A PLACE C1
-time-consuming adjective C1
-tip noun END C1
-toast noun DRINK C1
-tobacco noun C1
-token noun LOVE/THANKS C1
-tolerant adjective C1
-toll noun MONEY C1
-tool noun SOMETHING HELPFUL C1
-torture noun BORING/UNPLEASANT C1
-total verb C1
-towards preposition POSITION C1
-towards preposition PURPOSE C1
-trace verb FIND C1
-trace verb ORIGIN C1
-track noun TRAINS C1
-trade noun AREA OF BUSINESS C1
-trainee noun C1
-tranquil adjective C1
-transaction noun C1
-transformation noun C1
-transmit verb RADIO/TELEVISION C1
-transportation noun C1
-trek noun C1
-trial noun TEST C1
-trigger verb C1
-triumph noun SUCCESS C1
-troubled adjective C1
-truly adverb SINCERELY C1
-trustworthy adjective C1
-tuition noun C1
-tune noun MUSICAL NOTES C1
-turnover noun BUSINESS C1
-twist verb INJURE C1
-twist noun C1
-type noun PERSON C1
-ultimate adjective FINAL C1
-ultimately adverb FINALLY C1
-unaffordable adjective C1
-unattractive adjective NOT INTERESTING C1
-unavailable adjective CANNOT DO SOMETHING C1
-unavoidable adjective C1
-uncertainty noun C1
-uncomfortable adjective EMBARRASSED C1
-uncomfortably adverb C1
-uncommon adjective C1
-unconventional adjective C1
-uncover verb C1
-undeniable adjective C1
-underestimate verb PERSON C1
-undergo verb C1
-underpaid adjective C1
-understandably adverb C1
-undertake verb DO C1
-unfold verb OPEN C1
-unforeseen adjective C1
-unhelpful adjective NOT IMPROVE C1
-unit noun PEOPLE C1
-unite verb C1
-unity noun C1
-universally adverb C1
-unjustified adjective C1
-unload verb SHIP/AIRCRAFT C1
-unmarried adjective C1
-unnecessarily adverb C1
-unnoticed adjective C1
-unpaid adjective NOT PAID C1
-unpaid adjective WORK FOR FREE C1
-unpleasant adjective RUDE C1
-unproductive adjective C1
-unprofessional adjective C1
-unqualified adjective C1
-unquestionably adverb C1
-unreal adjective C1
-unreasonably adverb C1
-unrelated adjective C1
-unsafe adjective DANGEROUS C1
-unsafe adjective IN DANGER C1
-unsolved adjective C1
-unspoiled adjective C1
-unsuccessfully adverb C1
-unthinkable adjective C1
-untouched adjective C1
-untrue adjective C1
-unwanted adjective C1
-unwillingly adverb C1
-unwillingness noun C1
-unwind verb RELAX C1
-upcoming adjective C1
-the upper class noun C1
-upper-class adjective C1
-upward adjective C1
-upwards adverb HIGHER LEVEL C1
-usage noun WORDS C1
-usage noun AMOUNT C1
-usefulness noun C1
-utmost adjective EMPHASIS C1
-utterly adverb C1
-vacancy noun JOB C1
-vacancy noun ROOM C1
-vague adjective NOT CLEAR C1
-variable adjective C1
-variable noun C1
-vegetation noun C1
-veil noun C1
-vein noun C1
-verify verb C1
-version noun DESCRIPTION C1
-versus preposition AGAINST C1
-versus preposition COMPARED WITH C1
-vertical adjective C1
-vest noun UNDERWEAR C1
-vice versa adverb C1
-viewpoint noun C1
-vine noun C1
-virtual adjective ALMOST C1
-visible adjective OBVIOUS C1
-vision noun ABILITY TO PLAN C1
-vocabulary noun LANGUAGE C1
-voluntary adjective C1
-volunteer verb C1
-wait verb NOT DO SOMETHING C1
-walk noun PATH C1
-walker noun C1
-wardrobe noun CLOTHES C1
-warrior noun C1
-wave verb MOVE SIDE TO SIDE C1
-way noun MANNER C1
-weak adjective REASON C1
-weak adjective LIKELY TO FAIL C1
-weaken verb LOSE POWER C1
-well adverb CONSIDERABLY C1
-well-balanced adjective PERSON C1
-well-being noun C1
-well-educated adjective C1
-well-equipped adjective C1
-well-informed adjective C1
-well-off adjective C1
-well-qualified adjective C1
-widespread adjective C1
-will noun WHAT SOMEONE WANTS C1
-win noun C1
-wisely adverb C1
-wit noun C1
-witch noun C1
-withdraw verb MONEY C1
-withdraw verb REMOVE C1
-within preposition INSIDE C1
-workforce noun COMPANY C1
-the working class noun C1
-working-class adjective C1
-workplace noun C1
-workshop noun C1
-worse noun C1
-worsen verb C1
-worship verb RELIGION C1
-worship verb ADMIRE C1
-worthless adjective NOT IMPORTANT C1
-worthy adjective DESERVING RESPECT C1
-wrong adjective NOT SUITABLE C1
-yet adverb IN THE FUTURE C1
-youngster noun C1
+abandon verb STOP DOING 1.2
+abnormal adjective 1.2
+aboard adverb, preposition 1.2
+abortion noun 1.2
+absorb verb REMEMBER 1.2
+abuse noun WRONG ACTION 1.2
+accelerate verb HAPPEN 1.2
+acceptable adjective ALLOWED 1.2
+acceptance noun 1.2
+accepted adjective 1.2
+accessory noun 1.2
+acclaimed adjective 1.2
+accomplish verb 1.2
+accumulate verb 1.2
+accusation noun 1.2
+acknowledge verb ACCEPT 1.2
+acknowledge verb SAY RECEIVED 1.2
+acquaintance noun 1.2
+active adjective VOLCANO 1.2
+adaptation noun 1.2
+addictive adjective 1.2
+address verb DEAL WITH 1.2
+administration noun 1.2
+administrative adjective 1.2
+administrator noun 1.2
+adult adjective NOT A CHILD 1.2
+adviser noun 1.2
+affluent adjective 1.2
+affordable adjective 1.2
+after preposition DESPITE 1.2
+agency noun ORGANIZATION 1.2
+agenda noun MEETING 1.2
+aggression noun 1.2
+aggressive adjective DETERMINED 1.2
+agree verb BE THE SAME 1.2
+aid noun HELP 1.2
+aid noun EQUIPMENT 1.2
+aid verb 1.2
+alarm verb 1.2
+alarming adjective 1.2
+alert adjective 1.2
+alert noun 1.2
+allegation noun 1.2
+alleged adjective 1.2
+allocate verb 1.2
+allow verb TIME/MONEY 1.2
+allow verb MAKE POSSIBLE 1.2
+allowance noun MONEY 1.2
+ally noun PERSON 1.2
+alongside adverb, preposition NEXT TO 1.2
+alongside adverb, preposition WITH 1.2
+alteration noun 1.2
+alternate verb 1.2
+amateur adjective 1.2
+amateur noun HOBBY 1.2
+amateur noun NO SKILL 1.2
+amendment noun 1.2
+amid preposition WHILE 1.2
+among preposition DIVIDE 1.2
+ample adjective 1.2
+analytical adjective 1.2
+angle noun SPACE 1.2
+angle noun DIRECTION 1.2
+angle noun WAY OF THINKING 1.2
+annoyance noun 1.2
+anticipate verb 1.2
+anti-social adjective BEHAVIOUR 1.2
+anti-social adjective PERSON 1.2
+anyhow adverb CHANGING STATEMENT 1.2
+appalling adjective BAD 1.2
+apparent adjective SEEMS TRUE 1.2
+appeal noun REQUEST 1.2
+appeal verb REQUEST 1.2
+appetite noun FOOD 1.2
+applaud verb CLAP 1.2
+applause noun 1.2
+appliance noun 1.2
+apply verb USE 1.2
+appoint verb 1.2
+archaeologist noun 1.2
+archaeology noun 1.2
+arise verb 1.2
+arrival noun NEW PERSON/THING 1.2
+art noun SKILL 1.2
+assert verb 1.2
+asset noun USEFUL 1.2
+asset noun WORTH MONEY 1.2
+assign verb 1.2
+assignment noun 1.2
+associate verb TWO THINGS/PEOPLE 1.2
+assumption noun 1.2
+assurance noun PROMISE 1.2
+assure verb MAKE CERTAIN 1.2
+attack verb CRITICIZE 1.2
+attain verb 1.2
+attendance noun NUMBER 1.2
+attendance noun REGULARLY 1.2
+auction noun 1.2
+audition noun 1.2
+authentic adjective 1.2
+authority noun OFFICIAL GROUP 1.2
+authorize verb 1.2
+avenue noun ROAD 1.2
+average adjective NOT EXCELLENT 1.2
+awareness noun 1.2
+away adverb SPORT 1.2
+bacteria noun 1.2
+bad adjective PAINFUL 1.2
+bankrupt adjective 1.2
+basically adverb MOSTLY 1.2
+basis noun REASON 1.2
+basis noun DEVELOPMENT 1.2
+beak noun 1.2
+bear verb NAME 1.2
+beat verb BETTER THAN 1.2
+beat verb FOOD 1.2
+behind preposition CAUSING 1.2
+behind adverb SLOWER 1.2
+bet verb 1.2
+between adverb SPACE 1.2
+between adverb TIME 1.2
+beware verb 1.2
+beyond preposition INVOLVING OTHERS 1.2
+beyond preposition NOT UNDERSTAND 1.2
+beyond adverb PLACE 1.2
+biased adjective 1.2
+bid noun OFFER 1.2
+big adjective SUCCESSFUL 1.2
+bilingual adjective 1.2
+birth noun BEGINNING 1.2
+blindness noun NOT SEEING 1.2
+block verb CANNOT SEE 1.2
+bloody adjective VIOLENT 1.2
+board noun ORGANIZATION 1.2
+borrow verb MONEY 1.2
+bound adjective DIRECTION 1.2
+boundary noun LINE 1.2
+boundary noun LIMIT 1.2
+bracket noun GROUP 1.2
+brain noun INTELLIGENCE 1.2
+brass noun METAL 1.2
+break noun DAMAGE 1.2
+breakdown noun FAILURE 1.2
+bribe noun 1.2
+bribe verb 1.2
+broaden verb 1.2
+broadly adverb 1.2
+bronze noun PRIZE 1.2
+brutal adjective 1.2
+bubble noun 1.2
+bulky adjective 1.2
+bully verb 1.2
+bully noun 1.2
+bump noun BODY 1.2
+bump noun SURFACE 1.2
+burden noun 1.2
+cabin noun HOUSE 1.2
+call verb ASK TO COME 1.2
+call noun VISIT 1.2
+campaign noun ACTIVITIES 1.2
+campaign noun WAR 1.2
+campaign verb 1.2
+cancellation noun 1.2
+cap verb LIMIT 1.2
+capability noun 1.2
+capacity noun JOB 1.2
+capture noun 1.2
+carriage noun TRAIN 1.2
+carry verb DISEASE 1.2
+cater verb 1.2
+cause noun PRINCIPLE 1.2
+caution noun CARE 1.2
+central adjective CITY 1.2
+central adjective ORGANIZATION 1.2
+cereal noun PLANT 1.2
+changeable adjective 1.2
+chaotic adjective 1.2
+character noun INTERESTING PERSON 1.2
+character noun WRITING 1.2
+charge noun CRIME 1.2
+chatty adjective PERSON 1.2
+chatty adjective WRITING 1.2
+cheap adjective LOW QUALITY 1.2
+chilly adjective 1.2
+cholesterol noun 1.2
+chore noun 1.2
+cinema noun ART 1.2
+civil adjective 1.2
+civilization noun WAY OF LIFE 1.2
+claim noun STATEMENT 1.2
+clarification noun 1.2
+clarify verb 1.2
+classify verb 1.2
+clear adjective NOT BLOCKED 1.2
+clinical adjective MEDICAL 1.2
+close adjective SIMILAR 1.2
+closely adverb VERY NEAR 1.2
+closely adverb CAREFULLY 1.2
+closeness noun NEAR 1.2
+closeness noun RELATIONSHIP 1.2
+clutch noun ENGINE 1.2
+coal noun FUEL 1.2
+code noun RULES 1.2
+collaborate verb 1.2
+collaboration noun 1.2
+column noun NUMBERS/WORDS 1.2
+comfort noun PLEASANT THING 1.2
+command noun COMPUTER 1.2
+commodity noun 1.2
+common adjective ORDINARY 1.2
+commonly adverb 1.2
+commute verb 1.2
+comparable adjective 1.2
+comparative adjective 1.2
+compatible adjective EQUIPMENT 1.2
+compensate verb MONEY 1.2
+competence noun 1.2
+competent adjective 1.2
+compile verb 1.2
+complaint noun ANNOYING THING 1.2
+completion noun 1.2
+complex noun BUILDINGS 1.2
+complicate verb 1.2
+complication noun DIFFICULTY 1.2
+compliment verb 1.2
+comply verb 1.2
+component noun MACHINE 1.2
+component noun FEATURE 1.2
+comprehensive adjective 1.2
+comprehensively adverb 1.2
+comprise verb CONSIST 1.2
+comprise verb FORM 1.2
+concern verb WORRY 1.2
+conclude verb DECIDE 1.2
+conclude verb END 1.2
+concrete adjective CERTAIN 1.2
+condition noun AGREEMENT 1.2
+confidential adjective 1.2
+congestion noun 1.2
+conquer verb 1.2
+conscientious adjective 1.2
+conscious adjective AWAKE 1.2
+consciousness noun AWARE 1.2
+consent noun 1.2
+conservation noun NOT WASTE 1.2
+conservative adjective 1.2
+consider verb FACTS 1.2
+consider verb MAY BE TRUE 1.2
+considerate adjective 1.2
+constitute verb 1.2
+constitution noun LAWS 1.2
+constructive adjective 1.2
+consult verb GET INFORMATION 1.2
+consult verb DISCUSS 1.2
+consume verb USE RESOURCE 1.2
+consumption noun 1.2
+contact noun TOUCH 1.2
+contestant noun 1.2
+context noun LANGUAGE 1.2
+continual adjective 1.2
+continually adverb 1.2
+contradict verb SAY SOMEONE IS WRONG 1.2
+contribute verb WRITE 1.2
+control noun CALM 1.2
+controversy noun 1.2
+convenience noun HELPFUL THING 1.2
+convention noun MEETING 1.2
+convention noun CUSTOM 1.2
+convey verb 1.2
+convincing adjective 1.2
+cool adjective CALM 1.2
+coolness noun COLD 1.2
+corporate adjective 1.2
+corrupt adjective 1.2
+corrupt verb 1.2
+corruption noun BAD BEHAVIOUR 1.2
+corruption noun MAKE DISHONEST 1.2
+cosmopolitan adjective 1.2
+counterpart noun 1.2
+countless adjective 1.2
+courageous adjective 1.2
+cover verb REPORT 1.2
+cover verb FINANCIAL PROTECTION 1.2
+cover verb MONEY 1.2
+cover noun FINANCIAL 1.2
+cover noun FROM WEATHER/ATTACK 1.2
+coverage noun REPORT 1.2
+crash verb MONEY 1.2
+crash noun BUSINESS 1.2
+crawl noun SPEED 1.2
+crawl noun SWIMMING 1.2
+criterion noun 1.2
+critic noun NOT APPROVE 1.2
+crossing noun TRIP BY WATER 1.2
+crowd verb 1.2
+cultivate verb GROW 1.2
+cultivation noun 1.2
+cure verb PROBLEM 1.2
+customary adjective 1.2
+cut noun REDUCTION 1.2
+cutback noun 1.2
+cutting-edge adjective 1.2
+dark adjective BAD 1.2
+date noun FRUIT 1.2
+daycare noun 1.2
+daydream verb 1.2
+day-to-day adjective 1.2
+dead adverb EXTREMELY 1.2
+debut noun 1.2
+decisive adjective AFFECTING 1.2
+declaration noun 1.2
+dedicated adjective GIVING TIME/ENERGY 1.2
+dedication noun 1.2
+deduction noun AMOUNT 1.2
+deepen verb KNOWLEDGE 1.2
+defect noun 1.2
+defence noun MILITARY 1.2
+defend verb LAW 1.2
+deficiency noun FAULT 1.2
+deficit noun 1.2
+definition noun IMAGE 1.2
+delegate noun 1.2
+delicate adjective NEEDING CARE 1.2
+deliver verb PROMISE 1.2
+demonstrate verb SHOW HOW 1.2
+demonstration noun SHOWING 1.2
+demonstration noun PROOF 1.2
+density noun 1.2
+deodorant noun 1.2
+deposit noun BANK 1.2
+deposit noun RENT 1.2
+deposit verb 1.2
+deprived adjective 1.2
+deputy noun 1.2
+deserted adjective 1.2
+design noun DRAWING 1.2
+desire verb 1.2
+destiny noun FUTURE 1.2
+destiny noun POWER 1.2
+detached adjective BUILDING 1.2
+detect verb 1.2
+deteriorate verb 1.2
+determine verb FIND 1.2
+determine verb DECIDE 1.2
+devastated adjective 1.2
+devastating adjective SHOCKING 1.2
+developer noun PRODUCTS 1.2
+dictate verb 1.2
+diesel noun 1.2
+differentiate verb SEE DIFFERENCE 1.2
+digest verb FOOD 1.2
+digest verb INFORMATION 1.2
+digestion noun 1.2
+diminish verb 1.2
+diplomatic adjective GOVERNMENTS 1.2
+direct adjective CLEAR 1.2
+direct verb ORGANIZE 1.2
+direction noun CONTROL 1.2
+directory noun 1.2
+disadvantaged adjective 1.2
+disapproval noun 1.2
+disastrous adjective 1.2
+discipline noun SELF CONTROL 1.2
+discomfort noun SITUATION 1.2
+discontent noun 1.2
+discovery noun THING/PERSON 1.2
+discriminate verb TREAT UNFAIRLY 1.2
+discrimination noun 1.2
+disgusted adjective 1.2
+dishonestly adverb 1.2
+dismiss verb NOT CONSIDER 1.2
+dismiss verb MAKE LEAVE 1.2
+dismissal noun IDEA 1.2
+dismissal noun JOB 1.2
+disorder noun ILLNESS 1.2
+disorder noun BAD BEHAVIOUR 1.2
+displace verb 1.2
+displacement noun 1.2
+disrespect noun 1.2
+disruption noun 1.2
+dissertation noun 1.2
+dissolve verb END 1.2
+distant adjective NOT FRIENDLY 1.2
+distinct adjective DIFFERENT 1.2
+distinct adjective CLEAR 1.2
+distinctive adjective 1.2
+distort verb 1.2
+distraction noun NO ATTENTION 1.2
+distraction noun FUN 1.2
+distress noun UPSET 1.2
+distressed adjective 1.2
+distribute verb SUPPLY 1.2
+distribution noun SUPPLYING 1.2
+distribution noun SHARING 1.2
+disturbance noun INTERRUPTION 1.2
+diversity noun 1.2
+divide verb NUMBERS 1.2
+divide verb DISAGREE 1.2
+divide noun 1.2
+dock noun 1.2
+domain noun 1.2
+dominant adjective IMPORTANT 1.2
+dominate verb BE IMPORTANT 1.2
+domination noun 1.2
+donate verb BLOOD/ORGANS 1.2
+doubt verb NOT BELIEVE 1.2
+down adjective NOT WORKING 1.2
+downside noun 1.2
+down-to-earth adjective 1.2
+downward adjective 1.2
+downwards adverb 1.2
+draft verb 1.2
+drastic adjective 1.2
+drastically adverb 1.2
+draught noun 1.2
+draw verb SPORT 1.2
+drawback noun 1.2
+drive noun ENERGY 1.2
+drop verb TAKE 1.2
+drop noun DISTANCE 1.2
+dry adjective WINE 1.2
+dry adjective HAIR/SKIN 1.2
+dual adjective 1.2
+dull adjective NOT BRIGHT 1.2
+dumb adjective 1.2
+dump verb GET RID OF 1.2
+dump noun WASTE 1.2
+duration noun 1.2
+easily adverb LIKELY 1.2
+ecology noun 1.2
+edible adjective 1.2
+effectiveness noun 1.2
+electrical adjective SUPPLY 1.2
+elegance noun 1.2
+eligible adjective 1.2
+eliminate verb GET RID OF 1.2
+eliminate verb COMPETITION 1.2
+elite noun 1.2
+embrace verb ACCEPT 1.2
+embrace verb INCLUDE 1.2
+emerge verb BECOME KNOWN 1.2
+emission noun 1.2
+emperor noun 1.2
+empire noun COUNTRIES 1.2
+empire noun BUSINESSES 1.2
+employ verb USE 1.2
+empty adjective NO MEANING 1.2
+enclose verb BE ALL AROUND 1.2
+enforce verb 1.2
+engage verb 1.2
+enhance verb 1.2
+enrich verb 1.2
+enter verb PERIOD OF TIME 1.2
+enterprise noun BUSINESS 1.2
+enterprise noun QUALITY 1.2
+entitle verb GIVE TITLE 1.2
+environmentalist noun 1.2
+envisage verb 1.2
+envision verb 1.2
+equally adverb SAME AMOUNTS 1.2
+equally adverb SAME DEGREE 1.2
+equation noun 1.2
+equivalent adjective 1.2
+equivalent noun 1.2
+erosion noun PHYSICAL DAMAGE 1.2
+escape noun GETTING OUT 1.2
+establishment noun ORGANIZATION 1.2
+establishment noun STARTING 1.2
+ethnic adjective 1.2
+evaluate verb 1.2
+evaluation noun 1.2
+evolve verb 1.2
+exaggerate verb 1.2
+exaggeration noun 1.2
+exceed verb BE MORE 1.2
+exceptionally adverb 1.2
+excess noun 1.2
+excess adjective 1.2
+excessive adjective 1.2
+exclude verb KEEP OUT 1.2
+exclude verb NOT INCLUDE 1.2
+exclusive adjective NOT SHARED 1.2
+exclusively adverb 1.2
+executive adjective 1.2
+executive noun 1.2
+exhaust verb 1.2
+exhaust noun GAS 1.2
+exhaust noun PIPE 1.2
+exhaustive adjective 1.2
+exhibit verb SHOW OBJECTS 1.2
+exhibit noun 1.2
+exist verb LIVE 1.2
+existence noun LIFE 1.2
+expenses noun 1.2
+exploration noun 1.2
+explosion noun INCREASE 1.2
+exposure noun 1.2
+exterior noun 1.2
+extinct adjective 1.2
+extinction noun 1.2
+extra noun ACTOR 1.2
+extrovert noun 1.2
+fabric noun 1.2
+fabulous adjective 1.2
+facilitate verb 1.2
+fair adjective AVERAGE 1.2
+fair noun SHOW OF GOODS/SERVICES 1.2
+fairness noun 1.2
+fake adjective 1.2
+fall noun DEFEAT 1.2
+false adjective NOT SINCERE 1.2
+fascinate verb 1.2
+fascination noun 1.2
+fatty adjective 1.2
+feasible adjective 1.2
+feast noun 1.2
+feed verb EAT FOOD 1.2
+feed verb SUPPLY 1.2
+feminine adjective 1.2
+fibre noun 1.2
+fiction noun NOT TRUE 1.2
+figure noun AMOUNT 1.2
+figure noun PICTURE 1.2
+fill verb JOB 1.2
+filthy adjective DIRTY 1.2
+filthy adjective OFFENSIVE 1.2
+fit verb SAME 1.2
+fit verb SUITABLE 1.2
+fit adjective SUITABLE 1.2
+flair noun ABILITY 1.2
+flaw noun 1.2
+flee verb 1.2
+fleet noun SHIPS 1.2
+fleet noun VEHICLES 1.2
+flow noun MOVEMENT 1.2
+follow verb BE INTERESTED 1.2
+footstep noun 1.2
+for preposition RESPONSIBILITY 1.2
+for preposition COMPARE 1.2
+foresee verb 1.2
+formal adjective STUDY 1.2
+formal adjective OFFICIAL 1.2
+formally adverb OFFICIALLY 1.2
+formally adverb POLITELY 1.2
+format noun 1.2
+formula noun METHOD 1.2
+formula noun RULE 1.2
+forthcoming adjective OFFERED 1.2
+forward adverb PROGRESS 1.2
+foul adjective UNPLEASANT 1.2
+foundation noun START 1.2
+foundation noun ORGANIZATION 1.2
+fresh adjective NOT TIRED 1.2
+friction noun 1.2
+fright noun 1.2
+fruitful adjective 1.2
+frustrated adjective 1.2
+frustrating adjective 1.2
+fumes noun 1.2
+function noun EVENT 1.2
+fund noun 1.2
+fund verb 1.2
+funding noun 1.2
+furnished adjective 1.2
+fuss noun 1.2
+gadget noun 1.2
+gain noun INCREASE 1.2
+garment noun 1.2
+gather verb THINK 1.2
+gathering noun 1.2
+gene noun 1.2
+generalization noun 1.2
+generalize verb 1.2
+generous adjective LARGE 1.2
+genetic adjective 1.2
+genetically modified adjective 1.2
+genius noun PERSON 1.2
+gentle adjective SLOPE 1.2
+genuine adjective SINCERE 1.2
+geology noun 1.2
+germ noun DISEASE 1.2
+gerund noun 1.2
+gesture noun MOVEMENT 1.2
+gesture noun ACTION 1.2
+giant noun IMAGINARY MAN 1.2
+gift noun ABILITY 1.2
+gifted adjective 1.2
+glamour noun 1.2
+glimpse noun 1.2
+globalization noun 1.2
+glory noun PRAISE 1.2
+glory noun QUALITY 1.2
+good adjective LARGE 1.2
+grace noun MOVEMENT 1.2
+graceful adjective MOVEMENT/SHAPE 1.2
+grade verb LEVEL 1.2
+grand adjective 1.2
+grasp verb HOLD 1.2
+grasp verb UNDERSTAND 1.2
+greed noun 1.2
+grey adjective BORING 1.2
+grill noun OVER FIRE 1.2
+gripping adjective 1.2
+gross adjective TOTAL 1.2
+gross adjective SERIOUS 1.2
+group verb 1.2
+grumpy adjective 1.2
+guideline noun 1.2
+habitat noun 1.2
+happily adverb LUCKY 1.2
+harassment noun 1.2
+hard adjective UNPLEASANT 1.2
+hardship noun 1.2
+harsh adjective UNPLEASANT 1.2
+harsh adjective CRUEL 1.2
+harsh adjective TOO STRONG 1.2
+hate noun 1.2
+hatred noun 1.2
+hazard noun 1.2
+head verb FRONT/TOP 1.2
+heading noun 1.2
+health care noun 1.2
+heavenly adjective 1.2
+hectic adjective 1.2
+helpless adjective 1.2
+hence adverb 1.2
+heroic adjective BRAVE 1.2
+heroic adjective TRYING HARD 1.2
+high adverb AMOUNT/LEVEL 1.2
+highly adverb VERY 1.2
+hilarious adjective 1.2
+historian noun 1.2
+historically adverb 1.2
+hit verb REACH 1.2
+hold verb JOB OR QUALIFICATION 1.2
+holy adjective 1.2
+home noun CARE 1.2
+homeless adjective 1.2
+honoured adjective 1.2
+hop verb MOVE QUICKLY 1.2
+horizontal adjective 1.2
+horn noun ANIMAL 1.2
+hospitable adjective 1.2
+hospitality noun 1.2
+host verb 1.2
+hostile adjective UNFRIENDLY 1.2
+hostile adjective DIFFICULT 1.2
+hot adjective EXCITING 1.2
+hourly adverb 1.2
+housing noun 1.2
+humanity noun ALL PEOPLE 1.2
+humorous adjective 1.2
+hunger noun WISH 1.2
+hunt noun 1.2
+hygiene noun 1.2
+hysterical adjective 1.2
+iceberg noun ICE 1.2
+idea noun AIM 1.2
+idealistic adjective 1.2
+idol noun PERSON 1.2
+ill adjective BAD 1.2
+illustrate verb DIAGRAM 1.2
+illustrate verb EXPLAIN 1.2
+illustration noun PICTURE 1.2
+imaginary adjective 1.2
+imaginative adjective THING 1.2
+imaginative adjective PERSON 1.2
+imitate verb 1.2
+immediate adjective CLOSEST 1.2
+immediately adverb NEXT TO 1.2
+immense adjective 1.2
+immensely adverb 1.2
+impact verb 1.2
+imperfect adjective 1.2
+impersonal adjective 1.2
+implication noun EFFECT 1.2
+import noun PRODUCT 1.2
+impose verb RULE/TAX, ETC. 1.2
+impose verb BELIEF 1.2
+imprison verb 1.2
+inability noun 1.2
+inaccuracy noun 1.2
+inadequate adjective NOT GOOD 1.2
+inadequate adjective NOT ENOUGH 1.2
+inappropriate adjective 1.2
+inappropriately adverb 1.2
+incidentally adverb 1.2
+inclusion noun 1.2
+inclusive adjective 1.2
+inconvenience noun 1.2
+incredibly adverb DIFFICULT TO BELIEVE 1.2
+index noun 1.2
+indicate verb SHOW 1.2
+indication noun EXIST 1.2
+indirect adjective NOT CONNECTED 1.2
+indirectly adverb 1.2
+individually adverb 1.2
+industrialization noun 1.2
+industrialized adjective 1.2
+inedible adjective 1.2
+inefficient adjective 1.2
+inevitable adjective 1.2
+inevitably adverb 1.2
+infect verb DISEASE 1.2
+infect verb COMPUTER 1.2
+inferior adjective 1.2
+influential adjective 1.2
+informally adverb 1.2
+informative adjective 1.2
+infrastructure noun 1.2
+initiative noun NEW ACTION 1.2
+initiative noun ABILITY 1.2
+injustice noun 1.2
+innocence noun NOT GUILTY 1.2
+innovation noun 1.2
+innovative adjective 1.2
+insane adjective STUPID 1.2
+insecure adjective WORRIED 1.2
+insensitive adjective PEOPLE 1.2
+insert verb PUT INTO 1.2
+insert verb ADD TO WRITING 1.2
+insight noun 1.2
+insignificant adjective 1.2
+inspect verb 1.2
+inspection noun OFFICIAL 1.2
+installation noun EQUIPMENT 1.2
+installation noun SOFTWARE 1.2
+instance noun EXAMPLE 1.2
+instruct verb ORDER 1.2
+instrument noun TOOL 1.2
+insufficient adjective 1.2
+integral adjective 1.2
+integrate verb 1.2
+integration noun 1.2
+intense adjective EXTREME 1.2
+intensively adverb 1.2
+interaction noun 1.2
+interactive adjective COMMUNICATION 1.2
+interest noun MONEY CHARGED 1.2
+interest noun MONEY EARNED 1.2
+interestingly adverb 1.2
+interfere verb CAUSE PROBLEMS 1.2
+interference noun SITUATION 1.2
+internally adverb 1.2
+interpret verb DECIDE MEANING 1.2
+introduction noun FIRST EXPERIENCE 1.2
+invade verb PLACE 1.2
+invaluable adjective 1.2
+invite verb ASK OFFICIALLY 1.2
+irritate verb 1.2
+isolated adjective FAR AWAY 1.2
+isolated adjective ALONE 1.2
+isolation noun SEPARATE 1.2
+itinerary noun 1.2
+jam noun BLOCK 1.2
+jam verb STUCK 1.2
+jargon noun 1.2
+jealousy noun 1.2
+joint noun PLACE 1.2
+jointly adverb 1.2
+journal noun MAGAZINE 1.2
+judge verb COMPETITION 1.2
+junk noun 1.2
+junk mail noun 1.2
+jury noun COMPETITION 1.2
+just adjective 1.2
+justified adjective 1.2
+juvenile adjective 1.2
+keen adjective VERY GOOD 1.2
+keep verb PROVIDE MONEY 1.2
+kill verb CAUSE PAIN 1.2
+king noun BEST PERSON 1.2
+knob noun 1.2
+knowledgeable adjective 1.2
+label verb INFORMATION 1.2
+labour noun WORK 1.2
+labour noun WORKERS 1.2
+ladder noun STAGES 1.2
+landmark noun BUILDING 1.2
+language noun TYPE OF WORDS 1.2
+language noun COMPUTERS 1.2
+last verb BE ENOUGH 1.2
+launch verb SEND 1.2
+launch noun START OF ACTIVITY 1.2
+launch noun LEAVE LAND 1.2
+lawn noun 1.2
+layout noun 1.2
+leader noun WINNER 1.2
+leadership noun JOB 1.2
+leadership noun QUALITY 1.2
+left-wing adjective 1.2
+legend noun FAME 1.2
+legendary adjective FAMOUS 1.2
+legendary adjective OLD 1.2
+length noun BOOK, ETC. 1.2
+lengthen verb 1.2
+lengthy adjective 1.2
+lessen verb 1.2
+level noun RANK 1.2
+liability noun RESPONSIBILITY 1.2
+liability noun TROUBLE 1.2
+liable adjective RESPONSIBLE 1.2
+liberal adjective SOCIETY 1.2
+liberal adjective POLITICS 1.2
+liberation noun 1.2
+lightly adverb NOT MUCH 1.2
+likely adverb 1.2
+limitation noun RULE 1.2
+line noun PRODUCT 1.2
+linguistic adjective 1.2
+listener noun 1.2
+literacy noun 1.2
+little adverb NOT ENOUGH 1.2
+log noun 1.2
+logic noun 1.2
+loneliness noun 1.2
+long-time adjective 1.2
+look noun FASHION 1.2
+lose verb MONEY 1.2
+loss noun MONEY 1.2
+lost adjective NEW SITUATION 1.2
+lounge noun 1.2
+low adjective NOT IMPORTANT 1.2
+low adjective UNHAPPY 1.2
+luxurious adjective 1.2
+luxury noun EXPENSIVE THING 1.2
+machinery noun 1.2
+magistrate noun 1.2
+magnetic adjective METAL 1.2
+magnetic adjective PERSONALITY 1.2
+magnificently adverb 1.2
+make verb SUITABLE 1.2
+mammal noun 1.2
+manage verb USE TIME/MONEY 1.2
+mansion noun 1.2
+march noun 1.2
+march verb SHOW DISAGREEMENT 1.2
+march verb SOLDIERS' WALK 1.2
+mark noun SYMBOL 1.2
+mark verb DAMAGE/MAKE DIRTY 1.2
+market noun BUYING GROUP 1.2
+masculine adjective 1.2
+mass adjective 1.2
+mat noun 1.2
+match verb BE AS GOOD AS 1.2
+material noun INFORMATION 1.2
+measure verb BE SIZE 1.2
+mechanism noun PART OF EQUIPMENT 1.2
+mechanism noun SYSTEM 1.2
+meet verb ENOUGH 1.2
+membership noun PEOPLE 1.2
+memo noun 1.2
+mentality noun 1.2
+merit noun 1.2
+middle adjective NOT HIGH OR LOW 1.2
+the middle class noun 1.2
+middle-class adjective 1.2
+migration noun 1.2
+mild adjective SLIGHT 1.2
+miner noun 1.2
+mingle verb TALK 1.2
+minimal adjective 1.2
+minimize verb 1.2
+mining noun 1.2
+ministry noun 1.2
+minority noun RACE 1.2
+misbehave verb 1.2
+misfortune noun 1.2
+misinform verb 1.2
+mislead verb 1.2
+mistaken adjective 1.2
+misuse verb 1.2
+misuse noun 1.2
+mode noun 1.2
+moderate adjective 1.2
+modest adjective NOT PROUD 1.2
+modestly adverb BY SMALL AMOUNT 1.2
+modification noun 1.2
+modify verb 1.2
+monitor verb 1.2
+monotonous adjective 1.2
+moral adjective GOOD BEHAVIOUR 1.2
+motivate verb ENTHUSIASTIC 1.2
+motivate verb CAUSE 1.2
+motivation noun REASON 1.2
+move noun ACTION 1.2
+move noun CHANGE OF PLACE 1.2
+movement noun GROUP 1.2
+much determiner, pronoun A LOT OF 1.2
+multiple adjective 1.2
+mundane adjective 1.2
+municipal adjective 1.2
+musical adjective ABILITY 1.2
+mustard noun 1.2
+mutual adjective OPINION 1.2
+mutual adjective FRIEND/INTEREST 1.2
+mysteriously adverb 1.2
+myth noun FALSE IDEA 1.2
+naive adjective 1.2
+naked adjective NOT HIDDEN 1.2
+namely adverb 1.2
+nap noun 1.2
+narrow verb MAKE SMALLER 1.2
+narrow-minded adjective 1.2
+natural adjective FROM BIRTH 1.2
+naturally adverb LIFE 1.2
+nature noun TYPE 1.2
+neatly adverb 1.2
+necessity noun NEED 1.2
+necessity noun SOMETHING NEEDED 1.2
+neglect verb NOT GIVE ATTENTION 1.2
+neglect noun 1.2
+negotiate verb 1.2
+negotiation noun 1.2
+nervousness noun 1.2
+network noun PEOPLE 1.2
+network noun COMPANY 1.2
+networking noun 1.2
+neutral adjective INDEPENDENT 1.2
+neutral adjective COLOUR 1.2
+never-ending adjective 1.2
+newsletter noun 1.2
+nickname noun 1.2
+noble adjective GOOD 1.2
+noble adjective SOCIAL GROUP 1.2
+nominate verb 1.2
+nomination noun 1.2
+nonetheless adverb 1.2
+non-existent adjective 1.2
+norm noun SOCIETY 1.2
+notable adjective 1.2
+notably adverb 1.2
+note noun FEELING 1.2
+noticeable adjective 1.2
+noticeably adverb 1.2
+notify verb 1.2
+notion noun 1.2
+notorious adjective 1.2
+notwithstanding adverb, preposition 1.2
+number verb GIVE A NUMBER 1.2
+numerous adjective 1.2
+nutrition noun 1.2
+nutritional adjective 1.2
+nutritious adjective 1.2
+obese adjective 1.2
+obesity noun 1.2
+objectively adverb 1.2
+obligatory adjective COMPULSORY 1.2
+oblige verb 1.2
+observation noun REMARK 1.2
+observe verb NOTICE 1.2
+obsolete adjective 1.2
+obstacle noun 1.2
+occasional adjective 1.2
+occupation noun HOBBY 1.2
+occupy verb CONTROL 1.2
+occurrence noun 1.2
+odds noun PROBABILITY 1.2
+of preposition RELATING TO 1.2
+off adverb DISTANCE/TIME 1.2
+offer verb AGREE TO PAY 1.2
+office noun JOB 1.2
+officially adverb 1.2
+omit verb 1.2
+one pronoun ANY PERSON 1.2
+oneself pronoun 1.2
+opening adjective 1.2
+openly adverb 1.2
+open-minded adjective 1.2
+operation noun PLANNED ACTIVITY 1.2
+operation noun ORGANIZATION 1.2
+operation noun WORK 1.2
+opposition noun DISAGREEMENT 1.2
+opt verb 1.2
+optimist noun 1.2
+or conjunction REASON 1.2
+organ noun BODY 1.2
+organization noun ARRANGEMENT 1.2
+origin noun COUNTRY/RACE, ETC. 1.2
+otherwise adverb DIFFERENTLY 1.2
+out adverb NOT ACCURATE 1.2
+outcome noun 1.2
+outgoing adjective FRIENDLY 1.2
+outlook noun FUTURE 1.2
+outnumber verb 1.2
+outrage verb 1.2
+outside adjective DIFFERENT ORGANIZATION 1.2
+outweigh verb 1.2
+overcrowded adjective 1.2
+overdo verb 1.2
+overdraft noun 1.2
+overdrawn adjective 1.2
+overestimate verb 1.2
+overtake verb BIGGER 1.2
+overview noun DESCRIPTION 1.2
+overview noun KNOWLEDGE 1.2
+overwhelm verb 1.2
+overwhelming adjective 1.2
+overworked adjective 1.2
+ownership noun 1.2
+ozone noun 1.2
+palm noun TREE 1.2
+panel noun PEOPLE 1.2
+paradise noun 1.2
+partially adverb 1.2
+participant noun 1.2
+particular adjective NOT EASILY SATISFIED 1.2
+pastry noun MIXTURE 1.2
+pastry noun CAKE 1.2
+payable adjective TO BE PAID 1.2
+payable adjective FOR PERSON 1.2
+peasant noun 1.2
+peer noun 1.2
+pensioner noun 1.2
+perceive verb THINK 1.2
+perfection noun 1.2
+perk noun 1.2
+permit verb MAKE POSSIBLE 1.2
+permit noun 1.2
+personnel noun 1.2
+perspective noun WAY OF THINKING 1.2
+persuasive adjective 1.2
+phenomenon noun 1.2
+philosophy noun WAY OF THINKING 1.2
+picture verb 1.2
+place verb SITUATION 1.2
+planning noun BUILDINGS 1.2
+pleasurable adjective 1.2
+plunge verb BECOME LOWER 1.2
+pointless adjective 1.2
+policy noun AGREEMENT 1.2
+politically adv 1.2
+pony noun 1.2
+poorly adverb 1.2
+poorly adjective 1.2
+portable adjective 1.2
+portion noun PART 1.2
+pose verb BE STILL 1.2
+possess verb 1.2
+postal adjective 1.2
+posture noun 1.2
+power noun POLITICS 1.2
+power noun COUNTRY 1.2
+power noun STRENGTH 1.2
+practical adjective POSSIBLE 1.2
+practical adjective SUITABLE 1.2
+practise verb WORK 1.2
+praise noun 1.2
+precaution noun 1.2
+precisely adverb AGREEMENT 1.2
+predator noun 1.2
+pregnancy noun 1.2
+prejudiced adjective 1.2
+preliminary adjective 1.2
+premises noun 1.2
+presently adverb 1.2
+preservation noun 1.2
+pressure noun LIQUID/GAS 1.2
+prestige noun 1.2
+prestigious adjective 1.2
+presume verb 1.2
+price noun RESULT 1.2
+price verb 1.2
+priceless adjective IMPORTANT 1.2
+primitive adjective NOT DEVELOPED 1.2
+primitive adjective BASIC 1.2
+principle noun IDEA 1.2
+print noun PICTURE 1.2
+prior adjective BEFORE 1.2
+privatize verb 1.2
+privilege noun ADVANTAGE 1.2
+privilege noun OPPORTUNITY 1.2
+privileged adjective ADVANTAGE 1.2
+probability noun 1.2
+problematic adjective 1.2
+proceed verb CONTINUE 1.2
+produce verb SHOW 1.2
+producer noun GOODS/FOOD 1.2
+productivity noun 1.2
+professional noun TRAINED 1.2
+profile noun PUBLIC IMAGE 1.2
+profitable adjective USEFUL 1.2
+programmer noun 1.2
+progression noun 1.2
+progressive adjective GRADUAL 1.2
+projection noun CALCULATION 1.2
+projection noun IMAGE 1.2
+prolong verb 1.2
+prolonged adjective 1.2
+prominent adjective IMPORTANT 1.2
+promising adjective 1.2
+promote verb ENCOURAGE 1.2
+promotion noun ENCOURAGE 1.2
+proportion noun PART OF TOTAL 1.2
+proposition noun 1.2
+prosperity noun 1.2
+prosperous adjective 1.2
+prostitute noun 1.2
+protective adjective WANTING TO PROTECT 1.2
+protein noun 1.2
+provider noun 1.2
+provision noun 1.2
+publicly adverb 1.2
+pulse noun 1.2
+purely adverb 1.2
+purity noun 1.2
+pursue verb 1.2
+push verb ENCOURAGE 1.2
+push noun ENCOURAGEMENT 1.2
+puzzle verb 1.2
+pyramid noun 1.2
+qualification noun COMPETITION 1.2
+quote verb REPEAT 1.2
+quote verb GIVE EXAMPLE 1.2
+race noun PEOPLE 1.2
+race noun FOR POWER 1.2
+racially adverb 1.2
+radiation noun 1.2
+radical adjective CHANGE 1.2
+radically adverb 1.2
+random adjective CHANCE 1.2
+randomly adverb 1.2
+rank noun 1.2
+rank verb 1.2
+rare adjective MEAT 1.2
+rarity noun 1.2
+rate noun SPEED 1.2
+rate verb 1.2
+rating noun 1.2
+ratio noun 1.2
+rational adjective 1.2
+react verb BAD EFFECT 1.2
+readership noun 1.2
+readiness noun WILLING 1.2
+readjust verb SMALL CHANGE 1.2
+realistically adverb SEEM REAL 1.2
+realization noun NOTICING 1.2
+rear verb 1.2
+reassure verb 1.2
+reassuring adjective 1.2
+rebellion noun 1.2
+rebellious adjective 1.2
+receive verb REACT 1.2
+reception noun REACTION 1.2
+recharge verb 1.2
+recognize verb SHOW RESPECT 1.2
+reconsider verb 1.2
+reconstruct verb BUILD AGAIN 1.2
+reconstruction noun BUILD AGAIN 1.2
+record verb SHOW MEASUREMENT 1.2
+recover verb GET BACK 1.2
+recovery noun SITUATION 1.2
+recreate verb 1.2
+recruit verb 1.2
+recruitment noun 1.2
+rectangle noun 1.2
+rectify verb 1.2
+redevelop verb 1.2
+redevelopment noun 1.2
+redundancy noun 1.2
+reference noun MENTIONING 1.2
+reference noun READING 1.2
+reflect verb THINK 1.2
+refresh verb 1.2
+refreshing adjective DIFFERENT 1.2
+refreshing adjective FEEL BETTER 1.2
+refund verb 1.2
+refusal noun 1.2
+regard noun RESPECT 1.2
+register noun LANGUAGE STYLE 1.2
+regulate verb ACTIVITY/PROCESS 1.2
+regulate verb SPEED/TEMPERATURE 1.2
+regulation noun CONTROL 1.2
+rehearse verb 1.2
+reign noun 1.2
+reinforce verb OPINION 1.2
+relative adjective MEASURED 1.2
+relax verb LESS STIFF 1.2
+release verb INFORMATION 1.2
+release verb SUBSTANCE 1.2
+release noun MAKING FREE 1.2
+release noun AREA/ATMOSPHERE 1.2
+relevance noun 1.2
+reliability noun 1.2
+relocate verb 1.2
+reluctant adjective 1.2
+reluctantly adverb 1.2
+remarkably adverb 1.2
+reminder noun 1.2
+render verb GIVE 1.2
+renewable adjective ENERGY 1.2
+renewal noun AGREEMENT 1.2
+renovate verb 1.2
+renovation noun 1.2
+reorganize verb 1.2
+repeatedly adverb 1.2
+repetitive adjective 1.2
+replacement noun PROCESS 1.2
+reproduce verb COPY 1.2
+reproduce verb REPEAT 1.2
+reproduction noun COPY 1.2
+reptile noun 1.2
+republic noun 1.2
+reputable adjective 1.2
+resemble verb 1.2
+resident adjective 1.2
+resist verb FIGHT 1.2
+resolve verb 1.2
+respectful adjective 1.2
+respective adjective 1.2
+respectively adverb 1.2
+restart verb 1.2
+restless adjective NOT STILL 1.2
+restore verb MAKE EXIST 1.2
+restrain verb 1.2
+restrict verb 1.2
+restricted adjective 1.2
+restriction noun LIMIT 1.2
+resume verb 1.2
+retail noun 1.2
+rethink verb 1.2
+return verb DO THE SAME 1.2
+revenue noun 1.2
+reverse verb CHANGE 1.2
+review verb CONSIDER 1.2
+rewarding adjective 1.2
+richness noun 1.2
+riot noun 1.2
+rip-off noun 1.2
+rise noun PAY 1.2
+risk noun SOMETHING BAD 1.2
+rival noun 1.2
+rocky adjective WITH ROCKS 1.2
+role model noun 1.2
+rough adjective DANGEROUS 1.2
+rubbish noun NONSENSE 1.2
+rudely adverb 1.2
+rudeness noun 1.2
+rule verb CONTROL 1.2
+ruler noun LEADER 1.2
+run verb WORKING 1.2
+run verb PUBLISH 1.2
+runway noun 1.2
+rush verb FORCE ACTION 1.2
+sack noun BAG 1.2
+sacred adjective HOLY 1.2
+sacrifice noun 1.2
+sacrifice verb 1.2
+safe adjective WITHOUT RISK 1.2
+safety noun HOW SAFE 1.2
+saint noun 1.2
+satisfactorily adverb 1.2
+saving noun LESS MONEY 1.2
+scan verb COMPUTER 1.2
+scan verb READ 1.2
+scar noun MIND 1.2
+scarce adjective 1.2
+scare verb FRIGHTEN 1.2
+scenic adjective 1.2
+scholar noun 1.2
+scholarship noun 1.2
+scope noun AMOUNT 1.2
+search verb FIND ANSWER 1.2
+secretary noun COMMITTEE 1.2
+sector noun 1.2
+secure adjective COMPUTER 1.2
+security noun SAFE SITUATION 1.2
+see verb HAPPEN 1.2
+seemingly adverb 1.2
+selective adjective 1.2
+self noun 1.2
+self-catering adjective 1.2
+self-centred adjective 1.2
+self-conscious adjective 1.2
+self-esteem noun 1.2
+selfishness noun 1.2
+semi-detached adjective 1.2
+sensational adjective SHOCKING 1.2
+sensibly adverb 1.2
+sensitivity noun KIND 1.2
+sensitivity noun EASILY UPSET 1.2
+sequence noun FILM 1.2
+serial adjective 1.2
+serial noun 1.2
+serve verb BE USEFUL 1.2
+serve verb WORK 1.2
+service noun WORK 1.2
+set verb LEVEL 1.2
+setback noun 1.2
+settle verb ARGUMENT 1.2
+settle verb SNOW/DUST, ETC. 1.2
+settlement noun AGREEMENT 1.2
+sewing noun 1.2
+sexual adjective MALE OR FEMALE 1.2
+shabby adjective UNTIDY 1.2
+shame noun BAD FEELING 1.2
+shameful adjective 1.2
+sharp adjective CLEAR 1.2
+sharp adverb SUDDENLY 1.2
+sharp adverb EXACTLY 1.2
+sheer adjective EXTREME 1.2
+sheer adjective LARGE 1.2
+shield verb 1.2
+shift verb CHANGE 1.2
+shift verb MOVE STH 1.2
+shift noun CHANGE 1.2
+shine verb REFLECT 1.2
+shoot verb FILM 1.2
+shortcoming noun 1.2
+shorten verb 1.2
+show verb EASY TO SEE 1.2
+shuttle noun 1.2
+shyness noun 1.2
+side effect noun MEDICINE 1.2
+significance noun 1.2
+similarly adverb 1.2
+simplicity noun 1.2
+simplify verb 1.2
+simulation noun 1.2
+simultaneous adjective 1.2
+sincere adjective HONEST 1.2
+sincerely adverb EMPHASIS 1.2
+sip verb 1.2
+sketch noun PICTURE 1.2
+sketch noun ACTING 1.2
+skilful adjective DONE WELL 1.2
+skip verb AVOID 1.2
+slang noun 1.2
+slavery noun 1.2
+sleepy adjective PLACE 1.2
+slippery adjective 1.2
+slogan noun 1.2
+slot noun HOLE 1.2
+slot noun TIME 1.2
+smart adjective TECHNOLOGY 1.2
+smog noun 1.2
+smooth adjective PROCESS 1.2
+smuggle verb 1.2
+soak verb MAKE WET 1.2
+soaring adjective 1.2
+socialist noun 1.2
+sole adjective 1.2
+solely adverb 1.2
+solicitor noun 1.2
+solid adjective NOT LIQUID/GAS 1.2
+solidarity noun 1.2
+solitude noun 1.2
+some determiner NOT USING NAME 1.2
+somewhat adverb 1.2
+source noun PERSON 1.2
+sow verb 1.2
+soya noun 1.2
+spacious adjective 1.2
+spam noun 1.2
+spare verb GIVE 1.2
+sparkling adjective SPECIAL 1.2
+speciality noun 1.2
+specific adjective EXACT 1.2
+specifically adverb PARTICULAR PURPOSE 1.2
+specifically adverb EXACTLY 1.2
+specification noun 1.2
+spectrum noun ALL POSSIBILITIES 1.2
+speculation noun 1.2
+speechless adjective 1.2
+sphere noun 1.2
+spin verb TURN 1.2
+spine noun 1.2
+spirit noun NOT BODY 1.2
+spirit noun DRINK 1.2
+splendid adjective 1.2
+split verb SHARE 1.2
+spoil verb CHILD 1.2
+spokesman noun 1.2
+spokesperson noun 1.2
+sponsorship noun 1.2
+sporty adjective 1.2
+spread verb ARRANGE 1.2
+spring noun WATER 1.2
+spy verb INFORMATION 1.2
+stability noun 1.2
+stable adjective SITUATION 1.2
+stable adjective PERSON 1.2
+staggering adjective 1.2
+staircase noun 1.2
+stale adjective 1.2
+stamina noun 1.2
+stand verb NOT BE DESTROYED 1.2
+stand verb ACCEPT 1.2
+stand noun FOR SELLING/SHOWING 1.2
+star noun BEST 1.2
+starve verb 1.2
+state noun COUNTRY 1.2
+state-of-the-art adjective 1.2
+statistic noun 1.2
+statistical adjective 1.2
+status noun 1.2
+status symbol noun 1.2
+steady adjective NOT CHANGING 1.2
+steep adjective LARGE 1.2
+stereotype noun 1.2
+stock verb 1.2
+stocking noun 1.2
+stock market noun 1.2
+stormy adjective ARGUING 1.2
+strategic adjective 1.2
+straw noun 1.2
+strength noun GOOD QUALITIES 1.2
+strength noun BEING BRAVE 1.2
+stress noun IMPORTANCE 1.2
+stretch noun 1.2
+striker noun WORKER 1.2
+strip noun 1.2
+stroke noun SWIMMING 1.2
+stroll noun 1.2
+stuck adjective NOT CONTINUE 1.2
+subjective adjective 1.2
+subsequent adjective 1.2
+subsequently adverb 1.2
+subsidy noun 1.2
+substantially adverb 1.2
+substitution noun 1.2
+subtitles noun 1.2
+successor noun PERSON 1.2
+sue verb 1.2
+sufficiently adverb 1.2
+suitability noun 1.2
+summarize verb 1.2
+summit noun MOUNTAIN 1.2
+superior adjective BETTER 1.2
+superior noun 1.2
+supervision noun 1.2
+supervisor noun 1.2
+support verb PROVE 1.2
+supportive adjective 1.2
+suppose verb LIKELY 1.2
+supposedly adverb 1.2
+surge verb 1.2
+surge noun 1.2
+surgeon noun 1.2
+survey verb QUESTION 1.2
+survey verb EXAMINE 1.2
+suspend verb STOP 1.2
+suspicion noun THINK GUILTY 1.2
+sustainable adjective CONTINUE 1.2
+sustainable adjective ENVIRONMENT 1.2
+swap verb 1.2
+tactic noun 1.2
+takeover noun 1.2
+talkative adjective 1.2
+tank noun VEHICLE 1.2
+target noun CRITICISM 1.2
+tasteless adjective FOOD 1.2
+tax verb 1.2
+teamwork noun 1.2
+technically adverb SCIENCE/INDUSTRY 1.2
+technician noun 1.2
+techno noun 1.2
+technologically adverb 1.2
+tedious adjective 1.2
+telly noun 1.2
+tendency noun 1.2
+terrific adjective LARGE/SERIOUS 1.2
+tertiary adjective 1.2
+texture noun 1.2
+thankful adjective 1.2
+thankfully adverb 1.2
+therapeutic adjective HEALTH 1.2
+therapeutic adjective RELAXED 1.2
+therapist noun 1.2
+thereby adverb 1.2
+this adverb 1.2
+thoughtful adjective CAREFULLY CONSIDERING 1.2
+threaten verb DAMAGE 1.2
+thrill noun 1.2
+thrive verb 1.2
+through adjective 1.2
+throughout preposition EVERYWHERE 1.2
+throughout adverb 1.2
+time noun IN A PLACE 1.2
+time-consuming adjective 1.2
+tip noun END 1.2
+toast noun DRINK 1.2
+tobacco noun 1.2
+token noun LOVE/THANKS 1.2
+tolerant adjective 1.2
+toll noun MONEY 1.2
+tool noun SOMETHING HELPFUL 1.2
+torture noun BORING/UNPLEASANT 1.2
+total verb 1.2
+towards preposition POSITION 1.2
+towards preposition PURPOSE 1.2
+trace verb FIND 1.2
+trace verb ORIGIN 1.2
+track noun TRAINS 1.2
+trade noun AREA OF BUSINESS 1.2
+trainee noun 1.2
+tranquil adjective 1.2
+transaction noun 1.2
+transformation noun 1.2
+transmit verb RADIO/TELEVISION 1.2
+transportation noun 1.2
+trek noun 1.2
+trial noun TEST 1.2
+trigger verb 1.2
+triumph noun SUCCESS 1.2
+troubled adjective 1.2
+truly adverb SINCERELY 1.2
+trustworthy adjective 1.2
+tuition noun 1.2
+tune noun MUSICAL NOTES 1.2
+turnover noun BUSINESS 1.2
+twist verb INJURE 1.2
+twist noun 1.2
+type noun PERSON 1.2
+ultimate adjective FINAL 1.2
+ultimately adverb FINALLY 1.2
+unaffordable adjective 1.2
+unattractive adjective NOT INTERESTING 1.2
+unavailable adjective CANNOT DO SOMETHING 1.2
+unavoidable adjective 1.2
+uncertainty noun 1.2
+uncomfortable adjective EMBARRASSED 1.2
+uncomfortably adverb 1.2
+uncommon adjective 1.2
+unconventional adjective 1.2
+uncover verb 1.2
+undeniable adjective 1.2
+underestimate verb PERSON 1.2
+undergo verb 1.2
+underpaid adjective 1.2
+understandably adverb 1.2
+undertake verb DO 1.2
+unfold verb OPEN 1.2
+unforeseen adjective 1.2
+unhelpful adjective NOT IMPROVE 1.2
+unit noun PEOPLE 1.2
+unite verb 1.2
+unity noun 1.2
+universally adverb 1.2
+unjustified adjective 1.2
+unload verb SHIP/AIRCRAFT 1.2
+unmarried adjective 1.2
+unnecessarily adverb 1.2
+unnoticed adjective 1.2
+unpaid adjective NOT PAID 1.2
+unpaid adjective WORK FOR FREE 1.2
+unpleasant adjective RUDE 1.2
+unproductive adjective 1.2
+unprofessional adjective 1.2
+unqualified adjective 1.2
+unquestionably adverb 1.2
+unreal adjective 1.2
+unreasonably adverb 1.2
+unrelated adjective 1.2
+unsafe adjective DANGEROUS 1.2
+unsafe adjective IN DANGER 1.2
+unsolved adjective 1.2
+unspoiled adjective 1.2
+unsuccessfully adverb 1.2
+unthinkable adjective 1.2
+untouched adjective 1.2
+untrue adjective 1.2
+unwanted adjective 1.2
+unwillingly adverb 1.2
+unwillingness noun 1.2
+unwind verb RELAX 1.2
+upcoming adjective 1.2
+the upper class noun 1.2
+upper-class adjective 1.2
+upward adjective 1.2
+upwards adverb HIGHER LEVEL 1.2
+usage noun WORDS 1.2
+usage noun AMOUNT 1.2
+usefulness noun 1.2
+utmost adjective EMPHASIS 1.2
+utterly adverb 1.2
+vacancy noun JOB 1.2
+vacancy noun ROOM 1.2
+vague adjective NOT CLEAR 1.2
+variable adjective 1.2
+variable noun 1.2
+vegetation noun 1.2
+veil noun 1.2
+vein noun 1.2
+verify verb 1.2
+version noun DESCRIPTION 1.2
+versus preposition AGAINST 1.2
+versus preposition COMPARED WITH 1.2
+vertical adjective 1.2
+vest noun UNDERWEAR 1.2
+vice versa adverb 1.2
+viewpoint noun 1.2
+vine noun 1.2
+virtual adjective ALMOST 1.2
+visible adjective OBVIOUS 1.2
+vision noun ABILITY TO PLAN 1.2
+vocabulary noun LANGUAGE 1.2
+voluntary adjective 1.2
+volunteer verb 1.2
+wait verb NOT DO SOMETHING 1.2
+walk noun PATH 1.2
+walker noun 1.2
+wardrobe noun CLOTHES 1.2
+warrior noun 1.2
+wave verb MOVE SIDE TO SIDE 1.2
+way noun MANNER 1.2
+weak adjective REASON 1.2
+weak adjective LIKELY TO FAIL 1.2
+weaken verb LOSE POWER 1.2
+well adverb CONSIDERABLY 1.2
+well-balanced adjective PERSON 1.2
+well-being noun 1.2
+well-educated adjective 1.2
+well-equipped adjective 1.2
+well-informed adjective 1.2
+well-off adjective 1.2
+well-qualified adjective 1.2
+widespread adjective 1.2
+will noun WHAT SOMEONE WANTS 1.2
+win noun 1.2
+wisely adverb 1.2
+wit noun 1.2
+witch noun 1.2
+withdraw verb MONEY 1.2
+withdraw verb REMOVE 1.2
+within preposition INSIDE 1.2
+workforce noun COMPANY 1.2
+the working class noun 1.2
+working-class adjective 1.2
+workplace noun 1.2
+workshop noun 1.2
+worse noun 1.2
+worsen verb 1.2
+worship verb RELIGION 1.2
+worship verb ADMIRE 1.2
+worthless adjective NOT IMPORTANT 1.2
+worthy adjective DESERVING RESPECT 1.2
+wrong adjective NOT SUITABLE 1.2
+yet adverb IN THE FUTURE 1.2
+youngster noun 1.2
