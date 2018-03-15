@@ -147,6 +147,30 @@ class VocabularyProfile:
             self.profile[word] = WordProfile(word,sense_profiles=None,score=0.0,new=True)
         pass
 
+    def words(self, n=0, f=None):
+        result = []
+        i = 1
+        if n == 0:
+            for word in filter(f, self):
+                result.append(word)
+        else:
+            for word in filter(f, self):
+                if i > n: break
+                result.append(word)
+                i += 1
+        return result
+
+    def wordsSeen(self, n=0):
+        return self.words(n, lambda x: self[x].active)
+
+    def wordsNotSeen(self, n=0):
+        return self.words(n, lambda x: not self[x].active)
+
+    def wordsMastered(self):
+        return self.words(f=lambda x: self[x].score > 0.7)
+
+    def wordsNotMastered(self):
+        return self.words(f=lambda x: self[x].score < 0.7 )
 
     def __getitem__(self, item):
         return self.profile[item]

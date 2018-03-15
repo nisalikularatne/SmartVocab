@@ -6,12 +6,12 @@ filepath = os.path.realpath(os.path.abspath(os.path.join(os.path.split(inspect.g
 import json
 from engine.domain import distractor_selection
 class Word:
-    def __init__(self, word, cefr, senses):
+    def __init__(self, word, cefr, senses,item_no):
         self.word = word
         self.frequency = distractor_selection.get_word_frequency(word)
         self.cefr = cefr
         self.senses = {s.name:s for s in senses}
-
+        self.item_no=item_no
     def random_sense(self):
         r = random.randint(0, len(self.senses))
         for i, key in enumerate(self.senses):
@@ -61,9 +61,11 @@ class Word:
         result = {
             'word': self.word,
             'cefr': self.cefr,
+
             'senses': {
                 k: v.dict_repr() for (k, v) in self.senses.items()
-                }
+                },
+            'item_no':self.item_no
         }
         return result
 
@@ -116,6 +118,7 @@ class DomainModel:
         for key, value in datastore.items():  # from this we get the sub dictionary of word,cefr and senses
             word = key
             cefr = value['cefr']
+            item_no=value['item_no']
             senses = value['senses']
             senses_print = []
             for i in senses:
@@ -125,7 +128,7 @@ class DomainModel:
                 pos = i['pos']
                 s = Sense(name, pos, definition)
                 senses_print.append(s)
-            w = Word(word, cefr, senses_print)
+            w = Word(word, cefr, senses_print,item_no)
             self.word_list[word] = w
 
 
@@ -155,16 +158,18 @@ class DomainModel:
 
             word = wd.word
             cefr = wd.cefr
+
             senses = []
             for s in wd:
                 frequency = distractor_selection.get_word_frequency(word, s.pos)
                 sense = Sense(s.wordnet_name, s.pos, s.definition)
                 senses.append(sense)
-            self.word_list[item] = Word(word, cefr, senses)
+            self.word_list[item] = Word(word, cefr, senses,item_no=0)
             # self.save()
         return self.word_list.__getitem__(item)
 if __name__ == "__main__":
     d=DomainModel()
-
-
+    print(d['about'].item_no)
+    words = [word for word in d]
+    print(words)
 

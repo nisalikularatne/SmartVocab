@@ -15,7 +15,7 @@ if __name__ == "__main__":
 
     d = DomainModel()
     s=Student('jaslin3','123')
-    I = Instructor(d,s, 3)
+    I = Instructor(d,s, 10)
 
     I.quiz()
 
