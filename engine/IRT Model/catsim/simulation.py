@@ -312,7 +312,7 @@ class Simulator:
 
             while not self._stopper.stop(current_examinee):
                 selected_item = self._selector.select(current_examinee)
-
+                print("Selected item",selected_item)
                 # if the selector returns None, it means the selector and not the stopper, is asking the test to stop
                 # this happens e.g. if the item bank or or the available strata end before the minimum error is achieved
                 if selected_item is None:
@@ -330,7 +330,7 @@ class Simulator:
 
                 # estimate the new theta using the given estimator
                 est_theta = self._estimator.estimate(current_examinee)
-
+                print("estimated theta",est_theta)
                 # count occurrences of this item in all tests
                 item_occurrences = numpy.sum(
                     [selected_item in administered_list for administered_list in self._administered_items])
