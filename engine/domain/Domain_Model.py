@@ -171,5 +171,5 @@ if __name__ == "__main__":
     d=DomainModel()
     print(d['about'].item_no)
     words = [word for word in d]
-    print(words)
+ 
 

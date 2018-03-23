@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="62a8c093-0172-4ddb-bb4e-b51879bc2b88" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/engine/IRT Model/catsim.py" afterPath="$PROJECT_DIR$/engine/IRT Model/catsim.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/engine/IRT Model/catsim/simulation.py" afterPath="$PROJECT_DIR$/engine/IRT Model/catsim/simulation.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/difficulties.txt" afterPath="$PROJECT_DIR$/resources/difficulties.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/item_list.txt" afterPath="$PROJECT_DIR$/resources/item_list.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/jaslin3-123-model.json" afterPath="$PROJECT_DIR$/users/jaslin3-123-model.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/engine/domain/Domain_Model.py" afterPath="$PROJECT_DIR$/engine/domain/Domain_Model.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -68,8 +64,8 @@
       <file leaf-file-name="Domain_Model.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/engine/domain/Domain_Model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3798">
-              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            <state relative-caret-position="252">
+              <caret line="173" column="1" lean-forward="false" selection-start-line="173" selection-start-column="1" selection-end-line="173" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -164,7 +160,6 @@
         <option value="$PROJECT_DIR$/random tests/probability_array.py" />
         <option value="$PROJECT_DIR$/users/jaslin3-123-model.json" />
         <option value="$PROJECT_DIR$/engine/domain/data.json" />
-        <option value="$PROJECT_DIR$/engine/domain/Domain_Model.py" />
         <option value="$PROJECT_DIR$/engine/utils/built_item_matrix.py" />
         <option value="$PROJECT_DIR$/resources/data.json" />
         <option value="$PROJECT_DIR$/engine/domain/dump_to_json.py" />
@@ -175,6 +170,7 @@
         <option value="$PROJECT_DIR$/resources/item_list.txt" />
         <option value="$PROJECT_DIR$/engine/IRT Model/catsim/simulation.py" />
         <option value="$PROJECT_DIR$/engine/IRT Model/catsim.py" />
+        <option value="$PROJECT_DIR$/engine/domain/Domain_Model.py" />
       </list>
     </option>
   </component>
@@ -443,13 +439,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516770074651</updated>
-    </task>
-    <task id="LOCAL-00004" summary="requirements.txt file uploaded">
-      <created>1516987179504</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1516987179504</updated>
     </task>
     <task id="LOCAL-00005" summary="requirements.txt file updated">
       <created>1516987192217</created>
@@ -787,7 +776,14 @@
       <option name="project" value="LOCAL" />
       <updated>1521099290173</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="minor changes made">
+      <created>1521796078220</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1521796078220</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -824,8 +820,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18378378" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18378378" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35552913" sideWeight="0.51297295" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -874,7 +871,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Quiz Generator created in instructor package" />
     <MESSAGE value="Index Exception handling done" />
     <MESSAGE value="cefr word difficulty details added" />
     <MESSAGE value="word cefr implementation and testing done" />
@@ -899,7 +895,8 @@
     <MESSAGE value="Student Model Working fine with all update in scores for sense and word" />
     <MESSAGE value="Logistic Regression model implemented and skeleton of IRT model updated" />
     <MESSAGE value="all files updated into repository" />
-    <option name="LAST_COMMIT_MESSAGE" value="all files updated into repository" />
+    <MESSAGE value="minor changes made" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor changes made" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1288,8 +1285,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/engine/domain/Domain_Model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3798">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        <state relative-caret-position="252">
+          <caret line="173" column="1" lean-forward="false" selection-start-line="173" selection-start-column="1" selection-end-line="173" selection-end-column="1" />
           <folding />
         </state>
       </provider>
