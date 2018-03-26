@@ -7,23 +7,27 @@ import inspect
 import json
 from collections import namedtuple
 filepath = os.path.realpath(os.path.abspath(os.path.join(os.path.split(inspect.getfile( inspect.currentframe() ))[0],"../../users/")))
-
+import time
 class WordProfile:
     # Word profile is made up of all the word senses
     # Each sense has an individual score associated with it
     # There's an overall word score as well
-    def __init__(self, word,sense_profiles,score,new):
+    def __init__(self, word,sense_profiles,score,active,date_activated,new):
         if new == False:
             self.word = word
             self.score = score
             self.sense_profiles = {s: SenseProfile.load_json(word, sp) for s, sp in sense_profiles.items()}
             self.n = len(self.sense_profiles)
+            self.active = active
+            self.date_activated = date_activated
         else:
             self.word = word
             self.original=word
             self.score = 0.0
             self.sense_profiles = {sense.name: SenseProfile(self, sense,sense.name,self.score,[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]) for sense in Word(self.word)}
             self.n = len(self.sense_profiles)
+            self.active=False
+            self.date_activated=None
 
 
     @staticmethod
@@ -31,8 +35,12 @@ class WordProfile:
         word = word_profile['word']
         score = word_profile['score']
         sense_profiles_json = word_profile['sense_profile']
-        return WordProfile(word, sense_profiles_json,score,new=False)
+        active = word_profile['active']
+        date_activated = word_profile['date_activated']
+        return WordProfile(word, sense_profiles_json,score,active,date_activated,new=False)
 
+    def __len__(self):
+        return self.sense_profiles.__len__()
 
     def __iter__(self):
         return self.sense_profiles.__iter__()
@@ -48,12 +56,14 @@ class WordProfile:
     def __hash__(self):
         return self.word.__hash__()
 
-        def __repr__(self):
-            result = "{}||{}||{}\n".format(self.word, len(self), self.score)
+
+
+    def __repr__(self):
+            result = "The word {} which has {} senses has a score of {}\n".format(self.word,len(self), self.score)
             for sense_profile in self:
                 result += "\t{}\n".format(self[sense_profile])
             return result.rstrip()
-        return result
+
     def dict_repr(self):
 
         result = {
@@ -61,7 +71,9 @@ class WordProfile:
             "score": self.score,
             "sense_profile": {
                 name: sense_profile.dict_repr() for name, sense_profile in self.sense_profiles.items()
-            }
+            },
+            "active": self.active,
+            "date_activated": self.date_activated
 
         }
 
@@ -70,14 +82,18 @@ class WordProfile:
 
     def update(self):
         if self.n == 0: return 0
+        if self.active == False:
+            self.active = True
+            self.date_activated = time.strftime("%c")
         self.score = sum([v.score for x, v in self.sense_profiles.items()]) / self.n
-        print(self.score)
+
 
     def updateSense(self, sense, correct):
         if isinstance(sense, str):
             return self[sense].update(correct)
         else:
             return self[sense.name].update(correct)
+        self.update()
 
 
 class SenseProfile:
@@ -113,7 +129,7 @@ class SenseProfile:
 
         return result
     def __repr__(self):
-        return "{}".format(self.score)
+        return "The sense {} got a score of {}".format(self.name,self.score)
     def __eq__(self, other):
         if isinstance(other, Sense):
             return self.sense == other
@@ -143,8 +159,9 @@ class VocabularyProfile:
 
         self.profile = {}
 
+
         for word in word_list:
-            self.profile[word] = WordProfile(word,sense_profiles=None,score=0.0,new=True)
+            self.profile[word] = WordProfile(word,sense_profiles=None,score=0.0,active=False,date_activated=None,new=True)
         pass
 
     def words(self, n=0, f=None):
@@ -262,10 +279,12 @@ class Student:
 
 
 if __name__ == "__main__":
-  v=VocabularyProfile()
-  s=Student('jaslin3','123')
+
+  s=Student('jaslin3','1234')
   s.vocabulary_profile['thanks'].updateSense('thanks.n.01', correct=True)
+
   s.save()
+
 
 
 

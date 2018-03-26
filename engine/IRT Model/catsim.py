@@ -8,7 +8,7 @@ from catsim.plot import *
 bank_size = 5000
 items = numpy.loadtxt('nisali.txt')
 print('items',items[0][1])
-responses = [True, True, False, False,True,True,False,True,True,True]
+responses = [True, True, False, False,True,True,False,True,True]
 administered_items = [0, 1, 2, 3,4,5,6,7,8,9]
 initializer = RandomInitializer()
 selector = MaxInfoSelector()
@@ -25,7 +25,7 @@ _stop = stopper.stop(administered_items=items[administered_items],
 theta=est_theta)
 s = Simulator(items, [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0])
 s.simulate(RandomInitializer(), LinearSelector([1,2,3,4,5,6,7,8,9,10]),
-HillClimbingEstimator(), MaxItemStopper(5))
+HillClimbingEstimator(), MaxItemStopper(7))
 print(s.response_vectors)
 print(s.administered_items)
 

@@ -5,17 +5,54 @@ import click
 # from domain.word_lists import word_list
 # from instructor.quiz import generate_definition_question
 from engine.domain.Domain_Model import DomainModel
-from engine.instructor.Quiz_Engine import Instructor
 from engine.student.StudentModel import Student
-@click.command()
-def hello():
-    click.echo("Hello. How are you?")
+from engine.instructor.Quiz_Engine import Instructor
 
 if __name__ == "__main__":
+    # username, password = tuple(input("Hello. Welcome to the Vocabulary ITS\n"
+          # "To begin enter your username and password: ").split())
+    username = "jaslin3"
+    password = "1234"
 
+    s = Student(username, password)
     d = DomainModel()
-    s=Student('jaslin3','123')
-    I = Instructor(d,s, 10)
+    I = Instructor(d, s, 5)
 
-    I.quiz()
+    choice = 1
+    while True:
+        print("Hello . How are you {}?".format(username))
+        print("\n\n""Welcome to SmartVocab. Gear up to learn some vocabulary""\n""\n"
+        
+              "[0] Check Vocabulary Profile\n"
+              "[1] Take a Quick Test (10 questions)\n"
+              "[2] Learn Vocabulary \n"
+              "[3] Display Words Seen \n"
+              "[4] Display Words Mastered \n"
+              "[5] Quit")
+        choice = int(input())
+        if choice == 0:
+            while True:
+                choice = input("Enter a word to search, or 'b' to go back, or 'x' to quit: ").lower()
+                if choice == 'x':
+                    break
+                if choice == 'b':
+                    break
+                else:
+                    print("You asked for {}".format(choice))
+                    try:
+                        print(s.vocabulary_profile[choice].dict_repr)
+                    except KeyError:
+                        print("Word not found. Try another one.")
+            if choice == 'x': break
+        elif choice == 1:
+            I.testCandidate()
+        elif choice==2:
+            I.quiz()
+        elif choice==3:
+           print(s.vocabulary_profile.wordsSeen())
+        elif choice==4:
+            print(s.vocabulary_profile.wordsMastered())
+        elif choice == 5:
+            break
 
+    pass
