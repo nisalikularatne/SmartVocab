@@ -1,5 +1,5 @@
-import pickle
-from engine.domain.word_cefr_details import retrieve_cefr_information, word_list
+"""This is the file which handles storing of the student data into a json file and studies students learning"""
+from engine.domain.word_cefr_details import word_list
 from engine.domain.WordModel import Word,Sense
 from engine.instructor.LogisticRegressionModel import LogisticRegressionModel
 import os
@@ -8,10 +8,15 @@ import json
 from collections import namedtuple
 filepath = os.path.realpath(os.path.abspath(os.path.join(os.path.split(inspect.getfile( inspect.currentframe() ))[0],"../../users/")))
 import time
+
+"""
+ Word profile is made up of all the word senses
+ Each sense has an individual score associated with it
+ There's an overall word score as well
+ There is a date for which the word has been activated 
+"""
 class WordProfile:
-    # Word profile is made up of all the word senses
-    # Each sense has an individual score associated with it
-    # There's an overall word score as well
+
     def __init__(self, word,sense_profiles,score,active,date_activated,new):
         if new == False:
             self.word = word
@@ -95,12 +100,15 @@ class WordProfile:
             return self[sense.name].update(correct)
         self.update()
 
-
+"""
+Sense profile is an individual sense
+A question is generated based on the word sense
+A score is given based on the word sense
+Each sense has an associated history of questions that have been asked 
+the sense history is calculated according to a Logisctic Regression Model
+"""
 class SenseProfile:
-    # Sense profile is an individual sense
-    # A question is generated based on the word sense
-    # A score is given based on the word sense
-    # Each sense has an associated history of questions that have been asked
+
     def __init__(self, sense, parent,name,score,answer_history,new=False):
         if new==False:
             self.score=score
@@ -115,9 +123,6 @@ class SenseProfile:
             self.original=sense.original
 
             self.score = 0.0
-
-
-
 
 
     def dict_repr(self):
@@ -153,7 +158,11 @@ class SenseProfile:
         sense=None
         return SenseProfile(sense,word, name, score,answer_history,new=False)
 
-
+"""
+The class holds the Vocabulary Profile of the User
+It consists of a vocabulary profile
+There are WordsSeen, WordsNotSeen, WordsMastered and WordsNotMastered
+"""
 class VocabularyProfile:
     def __init__(self):
 
@@ -184,10 +193,10 @@ class VocabularyProfile:
         return self.words(n, lambda x: not self[x].active)
 
     def wordsMastered(self):
-        return self.words(f=lambda x: self[x].score > 0.7)
+        return self.words(f=lambda x: self[x].score > 0.75)
 
     def wordsNotMastered(self):
-        return self.words(f=lambda x: self[x].score < 0.7 )
+        return self.words(f=lambda x: self[x].score < 0.75 )
 
     def __getitem__(self, item):
         return self.profile[item]
@@ -218,7 +227,8 @@ class VocabularyProfile:
 
 
 
-
+"""The Student class which handles all the StudentModel functions
+Consists of the username password and vocabulary profile of each user"""
 class Student:
     def __init__(self, username, password):
         self.username = username
@@ -283,7 +293,7 @@ if __name__ == "__main__":
   s=Student('jaslin3','1234')
   print(s.vocabulary_profile['thanks'].updateSense('thanks.n.01', correct=True))
   print(s.vocabulary_profile['thanks'])
-  s.save()
+  s.save() # save into the json file of the user stores in userfiles directory
 
 
 

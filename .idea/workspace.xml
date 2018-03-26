@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62a8c093-0172-4ddb-bb4e-b51879bc2b88" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/test_InstructorModel.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/engine/student/test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/engine/utils/built_item_matrix.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/engine/utils/graphPlotting.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test_InstructorModel.py" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/engine/student/studentdata_dump_json.py" afterPath="$PROJECT_DIR$/engine/utils/studentdata_dump_json.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/engine/student/StudentModel.py" afterPath="$PROJECT_DIR$/engine/student/StudentModel.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,6 +24,7 @@
     <SUITE FILE_PATH="coverage/final_year_project$test_WordModel.coverage" NAME="test_WordModel Coverage Results" MODIFIED="1516972540763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/final_year_project$catsim.coverage" NAME="catsim Coverage Results" MODIFIED="1521883314308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/engine/IRT Model" />
     <SUITE FILE_PATH="coverage/final_year_project$probability_array.coverage" NAME="probability_array Coverage Results" MODIFIED="1520647617345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/random tests" />
+    <SUITE FILE_PATH="coverage/final_year_project$Nosetests_in_test_AccuracyModel_py.coverage" NAME="Nosetests in test_AccuracyModel.py Coverage Results" MODIFIED="1522077000031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/final_year_project$Nosetests_for_test_StudentModel_TestStudentModel_test_update_sense.coverage" NAME="Nosetests for test_StudentModel.TestStudentModel.test_update_sense Coverage Results" MODIFIED="1522059604871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/final_year_project$distractor_selection.coverage" NAME="distractor_selection Coverage Results" MODIFIED="1522051179287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/engine/domain" />
     <SUITE FILE_PATH="coverage/final_year_project$Nosetests_in_test_word_cefr_details_py.coverage" NAME="Nosetests in test_word_cefr_details.py Coverage Results" MODIFIED="1517232056830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
@@ -64,88 +69,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="test_distractor_selection.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/test_distractor_selection.py">
+      <file leaf-file-name="Quiz_Engine.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/engine/instructor/Quiz_Engine.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StudentModel.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/engine/student/StudentModel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1076">
-              <caret line="283" column="78" lean-forward="false" selection-start-line="283" selection-start-column="8" selection-end-line="283" selection-end-column="78" />
+            <state relative-caret-position="275">
+              <caret line="65" column="29" lean-forward="false" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_StudentModel.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/test_StudentModel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WordModel.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/engine/domain/WordModel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3850">
-              <caret line="154" column="13" lean-forward="false" selection-start-line="154" selection-start-column="13" selection-end-line="154" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="run_travis.sh" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run_travis.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="44" lean-forward="true" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.travis.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_InstructorModel.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/test_InstructorModel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_WordModel.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/test_WordModel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -200,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tests/test_WordModel.py" />
         <option value="$PROJECT_DIR$/engine/student/studentdata_dump_json.py" />
         <option value="$PROJECT_DIR$/users/test.txt" />
         <option value="$PROJECT_DIR$/users/template-123-model.txt" />
@@ -246,11 +174,12 @@
         <option value="$PROJECT_DIR$/engine/domain/Domain_Model.py" />
         <option value="$PROJECT_DIR$/tests/test_DomainModel.py" />
         <option value="$PROJECT_DIR$/tests/Student_Model_Tests/test_StudentModel.py" />
-        <option value="$PROJECT_DIR$/engine/student/StudentModel.py" />
         <option value="$PROJECT_DIR$/tests/test_StudentModel.py" />
-        <option value="$PROJECT_DIR$/tests/test_InstructorModel.py" />
         <option value="$PROJECT_DIR$/run_travis.sh" />
         <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/tests/test_InstructorModel.py" />
+        <option value="$PROJECT_DIR$/tests/test_AccuracyModel.py" />
+        <option value="$PROJECT_DIR$/engine/student/StudentModel.py" />
       </list>
     </option>
   </component>
@@ -396,9 +325,9 @@
       <recent name="C:\Users\Nisali Kularatne\Documents\final year project\engine" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nisali Kularatne\Documents\final year project\engine\utils" />
       <recent name="C:\Users\Nisali Kularatne\Documents\final year project\tests" />
       <recent name="C:\Users\Nisali Kularatne\Documents\final year project\tests\Domain_Model_Tests" />
-      <recent name="C:\Users\Nisali Kularatne\Documents\final year project\engine\utils" />
       <recent name="C:\Users\Nisali Kularatne\Documents\final year project\engine\domain" />
       <recent name="C:\Users\Nisali Kularatne\Documents\final year project\engine\instructor" />
     </key>
@@ -415,7 +344,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Nosetests for test_StudentModel.TestStudentModel.test_student_vocabulary_profile">
+  <component name="RunManager" selected="Python tests.Nosetests in test_AccuracyModel.py">
     <configuration name="Nosetests for test_StudentModel.TestStudentModel" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -464,12 +393,12 @@
       <option name="_new_target" value="&quot;test_StudentModel.TestStudentModel.test_update_sense&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Nosetests in test_StudentModel.py" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+    <configuration name="Nosetests in test_AccuracyModel.py" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/Student_Model_Tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -477,7 +406,7 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_regexPattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/Student_Model_Tests/test_StudentModel.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_AccuracyModel.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration name="StudentModel" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -500,18 +429,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.StudentModel" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests in test_StudentModel.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Nosetests for test_StudentModel.TestStudentModel" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests for test_StudentModel.TestStudentModel.test_update_sense" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Nosetests for test_StudentModel.TestStudentModel.test_student_vocabulary_profile" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests for test_StudentModel.TestStudentModel" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Nosetests for test_StudentModel.TestStudentModel.test_update_sense" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests for test_StudentModel.TestStudentModel.test_student_vocabulary_profile" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Nosetests in test_AccuracyModel.py" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Nosetests for test_StudentModel.TestStudentModel.test_student_vocabulary_profile" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests for test_StudentModel.TestStudentModel.test_update_sense" />
-        <item index="2" class="java.lang.String" itemvalue="Python.StudentModel" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests for test_StudentModel.TestStudentModel" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Nosetests in test_StudentModel.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Nosetests in test_AccuracyModel.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests for test_StudentModel.TestStudentModel.test_student_vocabulary_profile" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Nosetests for test_StudentModel.TestStudentModel.test_update_sense" />
+        <item index="3" class="java.lang.String" itemvalue="Python.StudentModel" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Nosetests for test_StudentModel.TestStudentModel" />
       </list>
     </recent_temporary>
   </component>
@@ -525,13 +454,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516770074651</updated>
-    </task>
-    <task id="LOCAL-00012" summary="check travis pass 3">
-      <created>1516996274061</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1516996274061</updated>
     </task>
     <task id="LOCAL-00013" summary="distractor selection class added with frequencty word resources">
       <created>1517128829808</created>
@@ -869,7 +791,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522060943431</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="travis file updated 3">
+      <created>1522075615612</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1522075615612</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -894,14 +823,14 @@
     <history-entry file="Nosetests_for_test_StudentModel_TestStudentModel_test_update_sense - 2018.03.26 at 18h 20m 28s.xml">
       <configuration name="Nosetests for test_StudentModel.TestStudentModel.test_update_sense" configurationId="tests" />
     </history-entry>
-    <history-entry file="Nosetests_in_test_DomainModel_py - 2018.03.26 at 17h 23m 07s.xml">
-      <configuration name="Nosetests in test_DomainModel.py" configurationId="tests" />
+    <history-entry file="Nosetests_in_test_AccuracyModel_py - 2018.03.26 at 23h 05m 12s.xml">
+      <configuration name="Nosetests in test_AccuracyModel.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Nosetests_in_test_DomainModel_py - 2018.03.26 at 17h 23m 26s.xml">
-      <configuration name="Nosetests in test_DomainModel.py" configurationId="tests" />
+    <history-entry file="Nosetests_in_test_AccuracyModel_py - 2018.03.26 at 23h 06m 04s.xml">
+      <configuration name="Nosetests in test_AccuracyModel.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Nosetests_in_test_StudentModel_py - 2018.03.26 at 17h 32m 20s.xml">
-      <configuration name="Nosetests in test_StudentModel.py" configurationId="tests" />
+    <history-entry file="Nosetests_in_test_AccuracyModel_py - 2018.03.26 at 23h 10m 00s.xml">
+      <configuration name="Nosetests in test_AccuracyModel.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -957,7 +886,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Domain model converted to json format" />
     <MESSAGE value=" Travis check" />
     <MESSAGE value="domain model refactored and values retrieved from json file" />
     <MESSAGE value="unwanted files in domain model removed" />
@@ -982,7 +910,8 @@
     <MESSAGE value="tests updated for Domain and Student Model" />
     <MESSAGE value="travis directory issue resolved" />
     <MESSAGE value="travis file updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="travis file updated" />
+    <MESSAGE value="travis file updated 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="travis file updated 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -998,42 +927,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/engine/IRT Model/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/item_list.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/engine/utils/output.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8825">
-          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/users/test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/engine/utils/graphPlotting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1112,14 +1009,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/engine/instructor/LogisticRegressionModel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/d2-vocab.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1140,14 +1029,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="21" column="51" lean-forward="false" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/engine/utils/filecolumnextraction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -1184,14 +1065,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/engine/utils/built_item_matrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/a1-vocab.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
@@ -1220,14 +1093,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="27251" column="22" lean-forward="false" selection-start-line="27251" selection-start-column="22" selection-end-line="27251" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/engine/instructor/Quiz_Engine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-468">
-          <caret line="91" column="28" lean-forward="false" selection-start-line="91" selection-start-column="28" selection-end-line="91" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -1306,14 +1171,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/engine/utils/IRT_model_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/engine/mainengine/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1000">
@@ -1376,36 +1233,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/engine/student/StudentModel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1076">
-          <caret line="283" column="78" lean-forward="false" selection-start-line="283" selection-start-column="8" selection-end-line="283" selection-end-column="78" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/test_StudentModel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/engine/domain/WordModel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3850">
           <caret line="154" column="13" lean-forward="false" selection-start-line="154" selection-start-column="13" selection-end-line="154" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/test_InstructorModel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1418,10 +1249,110 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_StudentModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="46" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_InstructorModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/engine/instructor/LogisticRegressionModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2975">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_AccuracyModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/engine/student/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-175">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/engine/student/StudentModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1603">
+          <caret line="230" column="69" lean-forward="false" selection-start-line="230" selection-start-column="69" selection-end-line="230" selection-end-column="69" />
+          <folding>
+            <element signature="e#112#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/engine/utils/studentdata_dump_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/engine/utils/built_item_matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/engine/utils/graphPlotting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/engine/utils/filecolumnextraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/engine/utils/IRT_model_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1022">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/engine/instructor/Quiz_Engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="65" column="29" lean-forward="false" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
           <folding />
         </state>
       </provider>
