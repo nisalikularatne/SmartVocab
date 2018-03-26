@@ -2,5 +2,4 @@ language: python
 python:
  - "3.5"
 install: pip install -r requirements.txt
-install: travis_wait mvn install
 script: sh run_travis.sh

@@ -7,8 +7,6 @@
     <list default="true" id="62a8c093-0172-4ddb-bb4e-b51879bc2b88" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/engine/student/StudentModel.py" afterPath="$PROJECT_DIR$/engine/student/StudentModel.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/test_StudentModel.py" afterPath="$PROJECT_DIR$/tests/test_StudentModel.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -113,7 +111,7 @@
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="40" />
+              <caret line="3" column="40" lean-forward="false" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -507,13 +505,6 @@
       <option name="presentableId" value="Default" />
       <updated>1516770074651</updated>
     </task>
-    <task id="LOCAL-00010" summary="check travis pass 2">
-      <created>1516994951100</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1516994951100</updated>
-    </task>
     <task id="LOCAL-00011" summary="check travis pass 3">
       <created>1516995203157</created>
       <option name="number" value="00011" />
@@ -850,7 +841,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522059000060</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="travis file updated">
+      <created>1522060612928</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1522060612928</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -938,7 +936,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="correct errors in test_WordModel.py file" />
     <MESSAGE value="Domain model converted to json format" />
     <MESSAGE value=" Travis check" />
     <MESSAGE value="domain model refactored and values retrieved from json file" />
@@ -963,7 +960,8 @@
     <MESSAGE value="test added to distractor_selection class. Check with travis" />
     <MESSAGE value="tests updated for Domain and Student Model" />
     <MESSAGE value="travis directory issue resolved" />
-    <option name="LAST_COMMIT_MESSAGE" value="travis directory issue resolved" />
+    <MESSAGE value="travis file updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="travis file updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1402,7 +1400,7 @@
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="40" />
+          <caret line="3" column="40" lean-forward="false" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
           <folding />
         </state>
       </provider>
