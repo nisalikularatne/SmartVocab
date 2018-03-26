@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62a8c093-0172-4ddb-bb4e-b51879bc2b88" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/test_DomainModel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/test_StudentModel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/test_WordModel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/test_word_cefr_details.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/Domain_Model_Tests/test_DomainModel.py" afterPath="$PROJECT_DIR$/tests/test_DomainModel.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/Domain_Model_Tests/test_WordModel.py" afterPath="$PROJECT_DIR$/tests/test_WordModel.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/Domain_Model_Tests/test_distractor_selection.py" afterPath="$PROJECT_DIR$/tests/test_distractor_selection.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/Domain_Model_Tests/test_word_cefr_details.py" afterPath="$PROJECT_DIR$/tests/test_word_cefr_details.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tests/Student_Model_Tests/test_StudentModel.py" afterPath="$PROJECT_DIR$/tests/test_StudentModel.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/engine/student/StudentModel.py" afterPath="$PROJECT_DIR$/engine/student/StudentModel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/test_StudentModel.py" afterPath="$PROJECT_DIR$/tests/test_StudentModel.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,6 +21,7 @@
     <SUITE FILE_PATH="coverage/final_year_project$test_WordModel.coverage" NAME="test_WordModel Coverage Results" MODIFIED="1516972540763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/final_year_project$catsim.coverage" NAME="catsim Coverage Results" MODIFIED="1521883314308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/engine/IRT Model" />
     <SUITE FILE_PATH="coverage/final_year_project$probability_array.coverage" NAME="probability_array Coverage Results" MODIFIED="1520647617345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/random tests" />
+    <SUITE FILE_PATH="coverage/final_year_project$Nosetests_for_test_StudentModel_TestStudentModel_test_update_sense.coverage" NAME="Nosetests for test_StudentModel.TestStudentModel.test_update_sense Coverage Results" MODIFIED="1522059604871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/final_year_project$distractor_selection.coverage" NAME="distractor_selection Coverage Results" MODIFIED="1522051179287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/engine/domain" />
     <SUITE FILE_PATH="coverage/final_year_project$Nosetests_in_test_word_cefr_details_py.coverage" NAME="Nosetests in test_word_cefr_details.py Coverage Results" MODIFIED="1517232056830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/final_year_project$domain_data_file.coverage" NAME="domain_data_file Coverage Results" MODIFIED="1517378471749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/engine/domain" />
@@ -48,8 +43,9 @@
     <SUITE FILE_PATH="coverage/final_year_project$Nosetests_for_test_distractor_selection_TestDistractorSelection_test_get_word_frequency.coverage" NAME="Nosetests for test_distractor_selection.TestDistractorSelection.test_get_word_frequency Coverage Results" MODIFIED="1522053630927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/final_year_project$filecolumnextraction.coverage" NAME="filecolumnextraction Coverage Results" MODIFIED="1522038671568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/engine/utils" />
     <SUITE FILE_PATH="coverage/final_year_project$Nosetests_for_test_StudentModel_TestStudentModel.coverage" NAME="Nosetests for test_StudentModel.TestStudentModel Coverage Results" MODIFIED="1522056833032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/Student_Model_Tests" />
-    <SUITE FILE_PATH="coverage/final_year_project$StudentModel.coverage" NAME="StudentModel Coverage Results" MODIFIED="1522056567413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/engine/student" />
+    <SUITE FILE_PATH="coverage/final_year_project$StudentModel.coverage" NAME="StudentModel Coverage Results" MODIFIED="1522059425336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/engine/student" />
     <SUITE FILE_PATH="coverage/final_year_project$dump_to_json.coverage" NAME="dump_to_json Coverage Results" MODIFIED="1521035291386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/engine/domain" />
+    <SUITE FILE_PATH="coverage/final_year_project$Nosetests_for_test_StudentModel_TestStudentModel_test_student_vocabulary_profile.coverage" NAME="Nosetests for test_StudentModel.TestStudentModel.test_student_vocabulary_profile Coverage Results" MODIFIED="1522059706922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/final_year_project$score_distribution.coverage" NAME="score_distribution Coverage Results" MODIFIED="1520512215068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/random tests" />
     <SUITE FILE_PATH="coverage/final_year_project$Nosetests_for_test_DomainModel_MyTest.coverage" NAME="Nosetests for test_DomainModel.MyTest Coverage Results" MODIFIED="1522055671480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/final_year_project$Nosetests_in_test_WordModel_py.coverage" NAME="Nosetests in test_WordModel.py Coverage Results" MODIFIED="1517250441777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
@@ -69,22 +65,68 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="test_distractor_selection.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/test_distractor_selection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="StudentModel.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/engine/student/StudentModel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="284" column="37" lean-forward="false" selection-start-line="284" selection-start-column="37" selection-end-line="284" selection-end-column="37" />
+            <state relative-caret-position="1076">
+              <caret line="283" column="78" lean-forward="false" selection-start-line="283" selection-start-column="8" selection-end-line="283" selection-end-column="78" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_distractor_selection.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tests/test_distractor_selection.py">
+      <file leaf-file-name="test_StudentModel.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/test_StudentModel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="42" />
+            <state relative-caret-position="100">
+              <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordModel.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/engine/domain/WordModel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3850">
+              <caret line="154" column="13" lean-forward="false" selection-start-line="154" selection-start-column="13" selection-end-line="154" selection-end-column="13" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.travis.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_WordModel.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/test_WordModel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -139,8 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tests/test_word_cefr_details.py" />
-        <option value="$PROJECT_DIR$/engine/domain/domain_data_file.py" />
         <option value="$PROJECT_DIR$/resources/data.in" />
         <option value="$PROJECT_DIR$/engine/domain/get_cefr_details.py" />
         <option value="$PROJECT_DIR$/tests/test_WordModel.py" />
@@ -188,8 +228,10 @@
         <option value="$PROJECT_DIR$/tests/test_distractor_selection.py" />
         <option value="$PROJECT_DIR$/engine/domain/Domain_Model.py" />
         <option value="$PROJECT_DIR$/tests/test_DomainModel.py" />
-        <option value="$PROJECT_DIR$/engine/student/StudentModel.py" />
         <option value="$PROJECT_DIR$/tests/Student_Model_Tests/test_StudentModel.py" />
+        <option value="$PROJECT_DIR$/engine/student/StudentModel.py" />
+        <option value="$PROJECT_DIR$/tests/test_StudentModel.py" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -354,23 +396,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Nosetests for test_StudentModel.TestStudentModel">
-    <configuration name="Nosetests for test_DomainModel.MyTest.test_sense" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="final year project" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_regexPattern" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_DomainModel.MyTest.test_sense&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Nosetests for test_StudentModel.TestStudentModel.test_student_vocabulary_profile">
     <configuration name="Nosetests for test_StudentModel.TestStudentModel" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -387,7 +413,7 @@
       <option name="_new_target" value="&quot;test_StudentModel.TestStudentModel&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Nosetests in test_DomainModel.py" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+    <configuration name="Nosetests for test_StudentModel.TestStudentModel.test_student_vocabulary_profile" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -400,8 +426,24 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_regexPattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_DomainModel.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_StudentModel.TestStudentModel.test_student_vocabulary_profile&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Nosetests for test_StudentModel.TestStudentModel.test_update_sense" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="final year project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_StudentModel.TestStudentModel.test_update_sense&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <configuration name="Nosetests in test_StudentModel.py" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -438,19 +480,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Nosetests for test_DomainModel.MyTest.test_sense" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests in test_DomainModel.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python.StudentModel" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests in test_StudentModel.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Nosetests for test_StudentModel.TestStudentModel" />
+      <item index="0" class="java.lang.String" itemvalue="Python.StudentModel" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests in test_StudentModel.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Nosetests for test_StudentModel.TestStudentModel" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests for test_StudentModel.TestStudentModel.test_update_sense" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Nosetests for test_StudentModel.TestStudentModel.test_student_vocabulary_profile" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Nosetests for test_StudentModel.TestStudentModel" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests in test_StudentModel.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Nosetests for test_StudentModel.TestStudentModel.test_student_vocabulary_profile" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests for test_StudentModel.TestStudentModel.test_update_sense" />
         <item index="2" class="java.lang.String" itemvalue="Python.StudentModel" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests in test_DomainModel.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Nosetests for test_DomainModel.MyTest.test_sense" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests for test_StudentModel.TestStudentModel" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Nosetests in test_StudentModel.py" />
       </list>
     </recent_temporary>
   </component>
@@ -464,13 +506,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516770074651</updated>
-    </task>
-    <task id="LOCAL-00009" summary="check travis pass">
-      <created>1516988943549</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1516988943549</updated>
     </task>
     <task id="LOCAL-00010" summary="check travis pass 2">
       <created>1516994951100</created>
@@ -808,22 +843,17 @@
       <option name="project" value="LOCAL" />
       <updated>1522056876558</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="travis directory issue resolved">
+      <created>1522059000060</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1522059000060</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Nosetests_for_test_DomainModel_MyTest_test_cefr - 2018.03.26 at 17h 22m 23s.xml">
-      <configuration name="Nosetests for test_DomainModel.MyTest.test_cefr" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Nosetests_for_test_DomainModel_MyTest_test_itemno - 2018.03.26 at 17h 18m 38s.xml">
-      <configuration name="Nosetests for test_DomainModel.MyTest.test_itemno" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Nosetests_for_test_DomainModel_MyTest_test_sense - 2018.03.26 at 17h 22m 16s.xml">
-      <configuration name="Nosetests for test_DomainModel.MyTest.test_sense" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Nosetests_for_test_DomainModel_MyTest_test_sense - 2018.03.26 at 17h 22m 57s.xml">
-      <configuration name="Nosetests for test_DomainModel.MyTest.test_sense" configurationId="tests" />
-    </history-entry>
     <history-entry file="Nosetests_for_test_StudentModel_TestStudentModel - 2018.03.26 at 17h 33m 02s.xml">
       <configuration name="Nosetests for test_StudentModel.TestStudentModel" configurationId="tests" />
     </history-entry>
@@ -832,6 +862,18 @@
     </history-entry>
     <history-entry file="Nosetests_for_test_StudentModel_TestStudentModel - 2018.03.26 at 17h 34m 16s.xml">
       <configuration name="Nosetests for test_StudentModel.TestStudentModel" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_test_StudentModel_TestStudentModel_test_student_vocabulary_profile - 2018.03.26 at 18h 22m 09s.xml">
+      <configuration name="Nosetests for test_StudentModel.TestStudentModel.test_student_vocabulary_profile" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_test_StudentModel_TestStudentModel_test_update_sense - 2018.03.26 at 18h 19m 45s.xml">
+      <configuration name="Nosetests for test_StudentModel.TestStudentModel.test_update_sense" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_test_StudentModel_TestStudentModel_test_update_sense - 2018.03.26 at 18h 20m 10s.xml">
+      <configuration name="Nosetests for test_StudentModel.TestStudentModel.test_update_sense" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_test_StudentModel_TestStudentModel_test_update_sense - 2018.03.26 at 18h 20m 28s.xml">
+      <configuration name="Nosetests for test_StudentModel.TestStudentModel.test_update_sense" configurationId="tests" />
     </history-entry>
     <history-entry file="Nosetests_in_test_DomainModel_py - 2018.03.26 at 17h 23m 07s.xml">
       <configuration name="Nosetests in test_DomainModel.py" configurationId="tests" />
@@ -876,7 +918,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35552913" sideWeight="0.48702702" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49821642" sideWeight="0.48702702" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18378378" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -896,7 +938,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="modifications done to accomodate student model" />
     <MESSAGE value="correct errors in test_WordModel.py file" />
     <MESSAGE value="Domain model converted to json format" />
     <MESSAGE value=" Travis check" />
@@ -921,7 +962,8 @@
     <MESSAGE value="Instructor model renders learning and testing" />
     <MESSAGE value="test added to distractor_selection class. Check with travis" />
     <MESSAGE value="tests updated for Domain and Student Model" />
-    <option name="LAST_COMMIT_MESSAGE" value="tests updated for Domain and Student Model" />
+    <MESSAGE value="travis directory issue resolved" />
+    <option name="LAST_COMMIT_MESSAGE" value="travis directory issue resolved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -937,22 +979,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resources/data.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/engine/IRT Model/catsim/simulation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="341" column="23" lean-forward="true" selection-start-line="341" selection-start-column="23" selection-end-line="341" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/engine/IRT Model/catsim/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1237,16 +1263,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/test_WordModel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/test_word_cefr_details.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1277,14 +1293,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/engine/domain/WordModel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="154" column="13" lean-forward="false" selection-start-line="154" selection-start-column="13" selection-end-line="154" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/engine/domain/word_cefr_details.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -1310,14 +1318,6 @@
           <folding>
             <element signature="e#16#28#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/engine/student/StudentModel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="284" column="37" lean-forward="false" selection-start-line="284" selection-start-column="37" selection-end-line="284" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1355,8 +1355,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/test_distractor_selection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="42" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_WordModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/engine/student/StudentModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1076">
+          <caret line="283" column="78" lean-forward="false" selection-start-line="283" selection-start-column="8" selection-end-line="283" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_StudentModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/engine/domain/WordModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3850">
+          <caret line="154" column="13" lean-forward="false" selection-start-line="154" selection-start-column="13" selection-end-line="154" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="40" />
           <folding />
         </state>
       </provider>

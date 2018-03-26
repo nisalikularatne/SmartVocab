@@ -281,7 +281,7 @@ class Student:
 if __name__ == "__main__":
 
   s=Student('jaslin3','1234')
-  s.vocabulary_profile['thanks'].updateSense('thanks.n.01', correct=True)
+  print(s.vocabulary_profile['thanks'].updateSense('thanks.n.01', correct=True))
   print(s.vocabulary_profile['thanks'])
   s.save()
 
