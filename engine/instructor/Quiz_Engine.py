@@ -12,7 +12,7 @@ from catsim.estimation import HillClimbingEstimator,DifferentialEvolutionEstimat
 from catsim.stopping import MaxItemStopper
 from catsim.simulation import Simulator
 from catsim.plot import *
-from engine.domain.distractor_selection import similar_freq_words
+from engine.domain.distractor_selection import get_similar_frequency_words
 
 ITEM_LIST = []
 responses = []
@@ -124,7 +124,7 @@ class Instructor:
             # First returns a list of similar frequency words
             # Then chooses 3 candidates
 
-            distractor_candidates = random.sample(similar_freq_words(word, pos), 3)
+            distractor_candidates = random.sample(get_similar_frequency_words(word, pos), 3)
 
             # For each distractor, find the definition
             # Make sure the part of speech matches

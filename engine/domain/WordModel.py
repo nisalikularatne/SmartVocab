@@ -1,4 +1,4 @@
-import random
+"This is the word model which models and stores all the data related to the words required for this system to function"
 import nltk
 nltk.data.path.append('nltk_data')
 from nltk.corpus import wordnet as wn
@@ -6,10 +6,10 @@ from nltk.corpus import wordnet as wn
 def get_senses(word):
     return [sense for sense in wn.synsets(word)]
 
-
+"""Class for the Word Model defined with various function. OOP concept of programming 
+is being utilised in this file"""
 class Word:
-    # The domain model should be indexable using the word
-    # The domain model should be indexable using the word_id
+
     def __init__(self, word):
         from engine.domain.word_cefr_details import find_cefr
         self.word = word
@@ -22,6 +22,7 @@ class Word:
     # Iteration
     def __iter__(self):
         return self.senses.__iter__()
+    #next word in object
     def __next__(self):
         return self.__next__()
 
@@ -38,15 +39,13 @@ class Word:
     def __hash__(self):
         return hash((self.word))
 
-    # Representation
-
-
+    #an object of this class will be representated in the format declared in the method below
     def __repr__(self):
-      return "<Word '{}'>".format((self.word))
+      return "Word '{}'".format((self.word))
+
+#this class defines the methods to handle senses of each word we have defined in the database
 class Sense:
-    # The senses model should be indexable using the senses_id
-    # The senses_id, sense_pos distinguishes the senses model
-    # The senses_id along with the pos distinguishes the senses model
+    #initiliase
     def __init__(self, sense, parent):
         # Parse the name to get word
 
@@ -72,7 +71,7 @@ class Sense:
         self.frequency = []
 
     def __repr__(self):
-        return "<Sense {}>".format(self.wordnet_name)
+        return "Sense {}".format(self.wordnet_name)
 
     def __lt__(self, other):
         if self.parent_word == other.parent_word:
@@ -152,4 +151,5 @@ class Sense:
 
 if __name__ == "__main__":
 
-    word = Word("rage")
+    word = Word("life")
+    print(word)

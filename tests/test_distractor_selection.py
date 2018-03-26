@@ -22,6 +22,11 @@ class TestDistractorSelection(unittest.TestCase):
         res1 = get_word_frequency('vishwas', 'a')
         self.assertEqual(expected_res1, res1)
 
+    def test_getwordfrequency2(self):
+        # Works with part of speech info
+        self.assertIsInstance(get_word_frequency("rage", "n"), int)
+        self.assertIsInstance(get_word_frequency("rage", "v"), int)
+
 
 
 
