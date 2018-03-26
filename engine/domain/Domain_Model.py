@@ -170,8 +170,7 @@ class DomainModel:
 if __name__ == "__main__":
     d=DomainModel()
     print(d['about'].item_no)
-    for word in d:
-        print(1.,'\t',d[word].cefr,'\t',0,'\t',1.)
+    print(d['eventual'].senses)
 
 
 
