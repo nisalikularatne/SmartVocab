@@ -37,7 +37,7 @@ def read_file_ordered_by_frequency():
 def get_similar_frequency_words(word, pos=""):
     # Find frequency of the word passed into the function using get_word_frequency
     word_frequency = get_word_frequency((word, pos))
-    # Todo: Find better word_frequency system.This can be noted as further improvement of the system
+
     if word_frequency == None:
         raise KeyError
     #make a frequency table with key as word and values as the distractor words
@@ -57,6 +57,7 @@ def get_similar_frequency_words(word, pos=""):
         else:
             result = set([w for (w, p) in similar_frequency_words if w != word])
     return result
+
     # Find words that have similar frequency
 def build_words_by_frequency_table():
     filename = filepath+"/words_by_frequency_table.p".replace("\\", os.sep)
@@ -73,6 +74,7 @@ def build_words_by_frequency_table():
             else:
                 words_by_frequency_table[frequency] = [(word, pos)]
     return words_by_frequency_table
+
 def build_word_frequency_table():
     filename = filepath+"/word_frequency_table.p".replace("\\", os.sep)
     try:

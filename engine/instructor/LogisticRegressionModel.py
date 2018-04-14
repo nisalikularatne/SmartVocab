@@ -12,8 +12,7 @@ MAX_HISTORY_KEPT = 20
 
 class LogisticRegressionModel:
     """
-    Predicts the probabilty of the next problem being correct
-    using logistic regression.
+    Predicts the probabilty of the next problem being correct using logistic regression.
     """
     def __init__(self, answer_history=None):
         # History of the past answers up to MAX_HISTORY_KEPT
@@ -68,11 +67,9 @@ class LogisticRegressionModel:
         """
         Returns: the probabilty of the next problem correct using logistic regression.
         """
-
         # We don't try to predict the first problem
         if self.total_done == 0:
             return PROBABILITY_FIRST_PROBLEM_CORRECT
-
         # Get values for the feature vector X
         ewma_3 = self.exp_moving_avg(0.333)
         ewma_10 = self.exp_moving_avg(0.1)
@@ -89,18 +86,12 @@ class LogisticRegressionModel:
             (log_num_missed, params.LOG_NUM_MISSED),
             (percent_correct, params.PERCENT_CORRECT),
         ]
-
         X, weight_vector = zip(*weighted_features)  # unzip the list of pairs
-
         return LogisticRegressionModel.logistic_regression_predict(params.INTERCEPT, weight_vector, X)
-
-    # See http://en.wikipedia.org/wiki/Logistic_regression
     @staticmethod
     def logistic_regression_predict(intercept, weight_vector, X):
-        # TODO(david): Use numpy's dot product fn when we support numpy
         dot_product = numpy.dot(weight_vector, X)
         z = dot_product + intercept
-
         return 1.0 / (1.0 + math.exp(-z))
 
     @staticmethod
@@ -212,14 +203,14 @@ class InvFnExponentialNormalizer:
 if __name__ == "__main__":
     a = LogisticRegressionModel()
     a.update(True)
-
-
-
+    a.update(True)
 
     print(a.predict())
 
     for i in range(21):
         p = i / 20
-        print("Streak {}:".format(p ), LogisticRegressionModel.min_streak_till_threshold(p))
-    p = 1
-    print("Streak {}:".format(p ), LogisticRegressionModel.min_streak_till_threshold(p))
+        if  LogisticRegressionModel.min_streak_till_threshold(p)==1:
+            print("{} question need to be answered corrected".format(
+                LogisticRegressionModel.min_streak_till_threshold(p)), " to get a score of {}".format(p))
+        else:
+           print("{} questions need to be answered corrected".format(LogisticRegressionModel.min_streak_till_threshold(p))," to get a score of {}".format(p))

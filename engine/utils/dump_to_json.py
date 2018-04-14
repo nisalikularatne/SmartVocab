@@ -8,7 +8,7 @@ from engine.domain.WordModel import Word
 import ast
 import os
 import inspect
-filepath = os.path.realpath(os.path.abspath(os.path.join(os.path.split(inspect.getfile( inspect.currentframe() ))[0],"../../resources/")))
+filepath = os.path.realpath(os.path.abspath(os.path.join(os.path.split(inspect.getfile( inspect.currentframe() ))[0],"../../engine/domain/")))
 from nltk.corpus import wordnet as wn
 difficulty_list=[]
 import json
@@ -35,7 +35,7 @@ def get_domain_data():
             vocab_model[word]['cefr'] = cefr
             vocab_model[word]['senses'] = []
             for sense in Word(word).senses:
-                a = {'id': sense.id, 'name': sense.name, 'definition': sense.definition, 'pos': sense.pos}
+                a = {'id': sense.id, 'name': sense.name, 'definition': sense.definition, 'pos': sense.pos,'synoyms':sense.synonyms,'antonyms':sense.antonyms,'examples':sense.examples}
                 vocab_model[word]['senses'].append(a)
             final_dict = vocab_model.copy()
 
@@ -53,7 +53,7 @@ def build_matrix():
 
 
 def read_from_domain_json():
-    filename = filepath + '/data.json'
+    filename = filepath+'\data.json'
     if filename:
         with open(filename, 'r') as f:
             datastore = json.load(f)
@@ -69,4 +69,10 @@ def add_item_number_parameter():
            json.dump(data, f, indent=4)
 
 if __name__ == "__main__":
-  build_matrix()
+ fas=read_from_domain_json()
+ for x in fas["favourite"]["senses"]:
+     if x['name']=='front-runner.n.01':
+         if x['antonyms']!=[]:
+           print(x['antonyms'])
+         else:
+             print("Sorry the word has no examples currently")

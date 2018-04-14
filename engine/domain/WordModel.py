@@ -2,10 +2,6 @@
 import nltk
 nltk.data.path.append('nltk_data')
 from nltk.corpus import wordnet as wn
-
-def get_senses(word):
-    return [sense for sense in wn.synsets(word)]
-
 """Class for the Word Model defined with various function. OOP concept of programming 
 is being utilised in this file"""
 class Word:
@@ -15,7 +11,6 @@ class Word:
         self.word = word
         self.cefr = find_cefr(word)
         self.definitions = [sense.definition() for sense in wn.synsets(self.word)]
-
         self.senses = [Sense(sense, parent=self) for sense in wn.synsets(self.word)]
 
 
@@ -25,7 +20,6 @@ class Word:
     #next word in object
     def __next__(self):
         return self.__next__()
-
     # Orderable
     def __lt__(self, other):
         if self.word == other.word:
@@ -67,8 +61,6 @@ class Sense:
         self.synonyms = self.get_synonyms()
         self.antonyms = self.get_antonyms()
         self.hypernyms = []
-        self.homonyms = []
-        self.frequency = []
 
     def __repr__(self):
         return "Sense {}".format(self.wordnet_name)
@@ -147,9 +139,12 @@ class Sense:
         return result
 
 
+def get_senses(word):
+    return [sense for sense in wn.synsets(word)]
+
 
 
 if __name__ == "__main__":
 
-    word = Word("life")
-    print(word)
+    word = Word("actor")
+    print(word.cefr)

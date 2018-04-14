@@ -239,9 +239,10 @@ class Student:
         if os.path.isfile(self.filename):
             self.load(new=False)
         else:
-            new = input("User does not exist. Create a new user? (Y) or (N): ")
+            new = input("User does not exist. Create a new user? (Y) or (N):")
             if new.lower() == "y" or new.upper()=="Y":
                 self.save()
+
             else:
 
                 raise Exception("User does not exist")
@@ -291,14 +292,10 @@ class Student:
 if __name__ == "__main__":
 
   s=Student('jaslin3','1234')
-  print(s.vocabulary_profile['thanks'].updateSense('thanks.n.01', correct=True))
-  print(s.vocabulary_profile['thanks'])
-  s.save() # save into the json file of the user stores in userfiles directory
+  print(s.vocabulary_profile['hesitation'].updateSense('hesitation.n.01', correct=True))
 
-
-
-
-
+  print(json.dumps(s.vocabulary_profile['hesitation'].dict_repr(),indent=4))
+  s.save()
 
 
 

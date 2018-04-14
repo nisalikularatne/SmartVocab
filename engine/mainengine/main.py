@@ -9,26 +9,27 @@ from engine.student.StudentModel import Student
 from engine.instructor.Quiz_Engine import Instructor
 
 if __name__ == "__main__":
-    # username, password = tuple(input("Hello. Welcome to the Vocabulary ITS\n"
-          # "To begin enter your username and password: ").split())
-    username = "jaslin3"
-    password = "1234"
+
+    username = input("Hello. Welcome to the Vocabulary ITS\n"
+          "To begin enter your username: ")
+    password = input("Enter your password: ")
 
     s = Student(username, password)
     d = DomainModel()
-    I = Instructor(d, s, 5)
+    I = Instructor(d, s, 1)
 
     choice = 1
     while True:
         print("Hello . How are you {}?".format(username))
-        print("\n\n""Welcome to SmartVocab. Gear up to learn some vocabulary""\n""\n"
+        print("\n""Welcome to SmartVocab. Gear up to learn some vocabulary""\n""\n"
         
               "[0] Check Vocabulary Profile\n"
               "[1] Take a Quick Test (10 questions)\n"
               "[2] Learn Vocabulary \n"
-              "[3] Display Words Seen \n"
-              "[4] Display Words Mastered \n"
-              "[5] Quit")
+              "[3] Review Vocabulary \n"
+              "[4] Display Words Seen \n"
+              "[5] Display Words Mastered \n"
+              "[6] Quit")
         choice = int(input())
         if choice == 0:
             while True:
@@ -46,13 +47,20 @@ if __name__ == "__main__":
             if choice == 'x': break
         elif choice == 1:
             I.testCandidate()
+
         elif choice==2:
             I.quiz()
         elif choice==3:
-           print(s.vocabulary_profile.wordsSeen())
+            I.review()
         elif choice==4:
+           print(s.vocabulary_profile.wordsSeen())
+        elif choice==5:
             print(s.vocabulary_profile.wordsMastered())
-        elif choice == 5:
+
+        elif choice == 6:
             break
+        else:
+            print("Enter valid option")
+
 
     pass

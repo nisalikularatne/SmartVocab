@@ -6,13 +6,16 @@ from scipy.integrate import quad
 
 from catsim import irt
 from catsim.simulation import Selector, FiniteSelector
-
+import inspect
+import os
+filepath = "C:\\Users\\Nisali Kularatne\\Documents\\final year project\\users\\used_items"
 
 class MaxInfoSelector(Selector):
     """Selector that returns the first non-administered item with maximum information, given an estimated theta"""
 
-    def __init__(self):
+    def __init__(self,student_model):
         super().__init__()
+        self.student_model=student_model
 
     def __str__(self):
         return 'Maximum Information Selector'
@@ -37,8 +40,12 @@ class MaxInfoSelector(Selector):
             items = self.simulator.items
             administered_items = self.simulator.administered_items[index]
             est_theta = self.simulator.latest_estimations[index]
+        filename = filepath + "\\{}-{}-useditems.txt".format(self.student_model.username, self.student_model.password)
+        with open(filename, 'r') as f:
+            useditemslist = [int(line.strip()) for line in f]
 
-        valid_indexes = [x for x in range(items.shape[0]) if x not in administered_items]
+        l=useditemslist+administered_items
+        valid_indexes = [x for x in range(items.shape[0]) if x not in l]
         inf_values = irt.inf_hpc(est_theta, items[valid_indexes])
         valid_indexes = [item_index for (inf_value, item_index) in
                          sorted(zip(inf_values, valid_indexes), key=lambda pair: pair[0], reverse=True)]
